@@ -2,7 +2,7 @@
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CesarGuarecuco/alerta-temprana-estudiantil/blob/main/alerta_temprana.ipynb) [![Ver en nbviewer](https://img.shields.io/badge/ver%20en-nbviewer-orange)](https://nbviewer.org/github/CesarGuarecuco/alerta-temprana-estudiantil/blob/main/alerta_temprana.ipynb) ![Datos inventados](https://img.shields.io/badge/datos-inventados-lightgrey)
 
-> **Demostración con datos inventados.** La base de 1.500 estudiantes, las 4 sedes y las carreras son ficticias y se generan con `generar_datos.py`. Ningún dato corresponde a personas ni instituciones reales.
+> **Demostración con datos inventados.** La base de 1.500 estudiantes, las 5 sedes y las carreras son ficticias y se generan con `generar_datos.py`. Ningún dato corresponde a personas ni instituciones reales.
 
 ## El problema
 
@@ -14,7 +14,10 @@ Un modelo de machine learning ordena a todos los estudiantes por riesgo de aband
 
 ![Curva de detección](images/curva_deteccion.png)
 
-## Resultado (en los datos de demostración)
+## Resultado (solo en los datos de demostración)
+
+Estas cifras salen de la base inventada y sirven para mostrar el método, no son resultados de una institución real.
+
 
 - Llamando al **20%** de los estudiantes con mayor riesgo se detecta el **70%** de los que iban a abandonar.
 - El **85%** de esas llamadas va a estudiantes que efectivamente iban a abandonar; llamando al azar sería el 24%.
@@ -29,8 +32,8 @@ Se compararon tres modelos con validación cruzada estratificada y ajuste de hip
 | Modelo | AP | ROC AUC | Abandonos detectados llamando al 20% |
 | --- | --- | --- | --- |
 | **Regresión logística** | **0,865** | **0,929** | **70%** |
-| Random Forest | 0,854 | 0,926 | 67% |
-| KNN (41 vecinos, ponderado por distancia) | 0,846 | 0,908 | 67% |
+| Random Forest | 0,855 | 0,927 | 67% |
+| KNN (41 vecinos, ponderado por distancia) | 0,846 | 0,907 | 68% |
 
 Se eligió la regresión logística: rinde igual o mejor y se puede explicar, algo necesario para que una coordinación confíe en la lista.
 

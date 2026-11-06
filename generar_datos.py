@@ -11,7 +11,7 @@ import pandas as pd
 
 SEMILLA = 2026
 N_ESTUDIANTES = 1500
-SEDES = ["Sede Norte", "Sede Centro", "Sede Sur", "Sede Costa"]
+SEDES = ["Sede Norte", "Sede Centro", "Sede Sur", "Sede Costa", "Sede Cordillera"]
 CARRERAS = [
     "Administración", "Contabilidad", "Enfermería (TENS)", "Informática",
     "Mecánica Automotriz", "Electricidad", "Educación Parvularia", "Turismo",
@@ -21,7 +21,7 @@ CARRERAS = [
 def generar(n: int = N_ESTUDIANTES, semilla: int = SEMILLA) -> pd.DataFrame:
     rng = np.random.default_rng(semilla)
 
-    sede = rng.choice(SEDES, n, p=[0.30, 0.35, 0.20, 0.15])
+    sede = rng.choice(SEDES, n, p=[0.25, 0.30, 0.18, 0.15, 0.12])
     carrera = rng.choice(CARRERAS, n)
     jornada = rng.choice(["Diurna", "Vespertina"], n, p=[0.6, 0.4])
     edad = np.clip(rng.normal(24, 6, n).round(), 17, 55).astype(int)

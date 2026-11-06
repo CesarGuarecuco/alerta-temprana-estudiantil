@@ -1,23 +1,23 @@
 id_estudiante,sede,carrera,jornada,edad,primera_generacion,trabaja,gratuidad,asistencia_pct,promedio_notas,asignaturas_reprobadas,cuotas_atrasadas,ingresos_plataforma_semana,tutorias_asistidas,abandono
 EST-10366,Sede Norte,Administración,Vespertina,36,0,1,1,48.0,4.0,1,0,9,0,1
-EST-10212,Sede Centro,Contabilidad,Diurna,36,1,0,1,79.9,5.6,0,0,5,1,0
+EST-10212,Sede Sur,Contabilidad,Diurna,36,1,0,1,79.9,5.6,0,0,5,1,0
 EST-10854,Sede Centro,Electricidad,Vespertina,27,1,1,1,94.7,4.0,0,0,5,0,0
 EST-10919,Sede Centro,Mecánica Automotriz,Diurna,28,0,1,1,90.4,5.5,0,0,8,0,0
 EST-11312,Sede Centro,Mecánica Automotriz,Diurna,21,0,1,1,78.9,6.6,0,0,6,1,0
-EST-11092,Sede Sur,Informática,Diurna,23,0,0,0,74.8,4.6,0,2,4,1,0
-EST-10773,Sede Costa,Informática,Diurna,21,0,1,1,83.3,3.6,1,0,6,0,1
+EST-11092,Sede Costa,Informática,Diurna,23,0,0,0,74.8,4.6,0,2,4,1,0
+EST-10773,Sede Cordillera,Informática,Diurna,21,0,1,1,83.3,3.6,1,0,6,0,1
 EST-10106,Sede Norte,Educación Parvularia,Diurna,33,0,0,1,69.5,4.7,1,0,9,0,1
 EST-10807,Sede Sur,Mecánica Automotriz,Diurna,20,0,0,0,91.1,5.7,0,1,6,0,0
-EST-10114,Sede Norte,Educación Parvularia,Diurna,17,0,0,0,69.8,5.7,0,0,10,0,0
-EST-10619,Sede Costa,Informática,Diurna,17,0,0,1,88.4,4.6,0,0,9,0,0
-EST-10105,Sede Costa,Administración,Diurna,20,1,0,0,85.2,5.7,0,1,8,0,0
-EST-11160,Sede Centro,Mecánica Automotriz,Vespertina,30,0,1,0,84.2,5.0,0,1,7,0,0
-EST-10704,Sede Sur,Educación Parvularia,Vespertina,26,0,1,1,73.7,5.6,0,0,8,1,0
+EST-10114,Sede Centro,Educación Parvularia,Diurna,17,0,0,0,69.8,5.7,0,0,10,0,0
+EST-10619,Sede Cordillera,Informática,Diurna,17,0,0,1,88.4,4.6,0,0,9,0,0
+EST-10105,Sede Cordillera,Administración,Diurna,20,1,0,0,85.2,5.7,0,1,8,0,0
+EST-11160,Sede Sur,Mecánica Automotriz,Vespertina,30,0,1,0,84.2,5.0,0,1,7,0,0
+EST-10704,Sede Costa,Educación Parvularia,Vespertina,26,0,1,1,73.7,5.6,0,0,8,1,0
 EST-10382,Sede Centro,Electricidad,Diurna,25,0,0,0,57.8,4.0,0,0,5,0,1
-EST-11039,Sede Sur,Contabilidad,Diurna,25,1,0,0,94.8,3.8,1,1,8,1,0
+EST-11039,Sede Costa,Contabilidad,Diurna,25,1,0,0,94.8,3.8,1,1,8,1,0
 EST-11194,Sede Centro,Electricidad,Vespertina,28,0,1,0,75.1,4.5,0,1,10,0,0
 EST-11072,Sede Centro,Electricidad,Diurna,28,0,0,0,72.3,5.2,0,0,4,2,0
-EST-10594,Sede Norte,Administración,Vespertina,21,1,1,1,63.2,3.9,0,0,7,0,0
+EST-10594,Sede Centro,Administración,Vespertina,21,1,1,1,63.2,3.9,0,0,7,0,0
 EST-11103,Sede Norte,Administración,Vespertina,25,1,1,1,82.6,4.1,2,0,6,1,1
 EST-11340,Sede Centro,Electricidad,Diurna,30,1,0,1,94.9,4.7,1,0,16,0,0
 EST-11030,Sede Centro,Administración,Vespertina,30,0,1,1,69.0,4.5,0,0,10,0,0
@@ -26,222 +26,222 @@ EST-11135,Sede Norte,Turismo,Diurna,21,1,1,0,55.5,3.9,1,1,6,1,1
 EST-11355,Sede Centro,Enfermería (TENS),Vespertina,31,0,1,1,69.1,3.9,4,0,3,0,1
 EST-11230,Sede Centro,Educación Parvularia,Diurna,33,0,0,1,84.8,5.3,0,0,2,0,0
 EST-10082,Sede Norte,Contabilidad,Diurna,28,1,1,0,64.4,4.8,0,0,4,2,0
-EST-10718,Sede Centro,Informática,Vespertina,31,0,1,1,61.2,4.9,0,0,2,0,1
+EST-10718,Sede Sur,Informática,Vespertina,31,0,1,1,61.2,4.9,0,0,2,0,1
 EST-10640,Sede Centro,Administración,Vespertina,36,1,1,1,80.6,6.8,0,0,4,1,1
-EST-10174,Sede Norte,Contabilidad,Vespertina,34,1,1,1,56.1,3.0,2,0,6,1,1
+EST-10174,Sede Centro,Contabilidad,Vespertina,34,1,1,1,56.1,3.0,2,0,6,1,1
 EST-10588,Sede Norte,Electricidad,Diurna,31,0,0,1,88.8,5.1,0,0,11,1,0
 EST-10552,Sede Costa,Contabilidad,Diurna,17,1,0,1,83.6,4.2,0,0,6,0,0
-EST-10459,Sede Sur,Contabilidad,Vespertina,28,1,0,0,91.1,5.6,0,1,8,2,0
-EST-10103,Sede Centro,Enfermería (TENS),Diurna,17,0,1,1,86.6,5.2,0,0,8,0,0
+EST-10459,Sede Costa,Contabilidad,Vespertina,28,1,0,0,91.1,5.6,0,1,8,2,0
+EST-10103,Sede Sur,Enfermería (TENS),Diurna,17,0,1,1,86.6,5.2,0,0,8,0,0
 EST-10800,Sede Centro,Contabilidad,Vespertina,36,1,0,0,49.8,5.2,0,2,7,1,0
-EST-11119,Sede Costa,Enfermería (TENS),Vespertina,27,0,1,1,87.0,6.0,0,0,9,1,0
-EST-11369,Sede Centro,Informática,Vespertina,20,0,1,1,49.8,4.7,1,0,4,1,0
+EST-11119,Sede Cordillera,Enfermería (TENS),Vespertina,27,0,1,1,87.0,6.0,0,0,9,1,0
+EST-11369,Sede Sur,Informática,Vespertina,20,0,1,1,49.8,4.7,1,0,4,1,0
 EST-10104,Sede Centro,Administración,Diurna,35,0,0,1,87.1,6.0,0,0,6,0,0
-EST-10795,Sede Costa,Turismo,Vespertina,22,0,1,0,58.7,4.2,0,0,11,0,1
+EST-10795,Sede Cordillera,Turismo,Vespertina,22,0,1,0,58.7,4.2,0,0,11,0,1
 EST-11216,Sede Centro,Enfermería (TENS),Vespertina,26,0,0,1,86.7,4.1,1,0,11,0,0
 EST-10042,Sede Sur,Informática,Diurna,24,0,0,1,81.8,6.2,0,0,8,1,0
 EST-10414,Sede Centro,Administración,Diurna,23,1,0,1,64.3,3.8,1,0,6,2,0
-EST-11334,Sede Norte,Informática,Vespertina,36,0,0,1,87.0,6.5,0,0,9,0,0
+EST-11334,Sede Centro,Informática,Vespertina,36,0,0,1,87.0,6.5,0,0,9,0,0
 EST-10237,Sede Sur,Administración,Diurna,27,0,0,0,81.6,5.1,1,2,4,2,0
 EST-10926,Sede Norte,Enfermería (TENS),Diurna,18,0,0,1,83.0,4.5,0,0,5,0,0
 EST-10337,Sede Centro,Educación Parvularia,Diurna,29,0,0,0,55.0,4.2,0,0,4,1,1
-EST-10119,Sede Centro,Administración,Vespertina,29,0,0,1,88.5,4.9,0,0,9,0,0
+EST-10119,Sede Sur,Administración,Vespertina,29,0,0,1,88.5,4.9,0,0,9,0,0
 EST-10177,Sede Norte,Electricidad,Vespertina,26,0,1,1,73.2,4.3,0,0,3,0,1
-EST-10715,Sede Sur,Educación Parvularia,Vespertina,31,1,1,1,45.7,4.2,0,0,5,1,0
+EST-10715,Sede Costa,Educación Parvularia,Vespertina,31,1,1,1,45.7,4.2,0,0,5,1,0
 EST-10230,Sede Centro,Educación Parvularia,Diurna,26,1,0,1,94.7,5.3,0,0,6,0,0
-EST-10408,Sede Centro,Administración,Diurna,25,1,0,1,59.8,5.4,0,0,1,0,1
+EST-10408,Sede Sur,Administración,Diurna,25,1,0,1,59.8,5.4,0,0,1,0,1
 EST-10652,Sede Centro,Electricidad,Vespertina,26,1,1,0,89.6,5.3,0,3,11,0,0
 EST-10009,Sede Centro,Turismo,Diurna,24,1,0,1,78.8,4.1,0,0,6,0,0
 EST-10372,Sede Centro,Enfermería (TENS),Vespertina,19,1,1,1,85.9,4.6,0,0,11,0,0
 EST-11166,Sede Centro,Educación Parvularia,Diurna,28,1,0,1,71.2,3.9,1,0,5,0,0
 EST-11314,Sede Sur,Electricidad,Diurna,22,1,0,0,70.8,5.5,0,2,6,0,0
-EST-10975,Sede Centro,Turismo,Vespertina,25,0,0,1,84.2,5.5,0,0,9,0,0
+EST-10975,Sede Sur,Turismo,Vespertina,25,0,0,1,84.2,5.5,0,0,9,0,0
 EST-10381,Sede Centro,Turismo,Diurna,28,1,0,1,73.6,4.0,3,0,12,0,1
 EST-10012,Sede Norte,Contabilidad,Diurna,23,1,0,1,92.4,4.8,0,0,8,0,0
-EST-10593,Sede Sur,Turismo,Diurna,27,0,0,1,91.3,4.7,1,0,10,1,0
+EST-10593,Sede Costa,Turismo,Diurna,27,0,0,1,91.3,4.7,1,0,10,1,0
 EST-10160,Sede Centro,Informática,Vespertina,23,0,0,1,77.4,4.3,0,0,10,0,0
 EST-10916,Sede Centro,Informática,Diurna,25,0,1,1,69.2,6.2,0,0,7,1,0
 EST-11142,Sede Centro,Administración,Diurna,29,1,0,0,93.5,4.7,0,0,7,0,0
 EST-10848,Sede Norte,Turismo,Diurna,17,0,0,1,74.8,4.2,0,0,6,0,1
-EST-10996,Sede Costa,Administración,Vespertina,26,0,1,1,82.8,4.0,1,0,5,3,0
-EST-10295,Sede Costa,Electricidad,Vespertina,27,1,1,1,67.8,3.4,1,0,3,0,1
+EST-10996,Sede Cordillera,Administración,Vespertina,26,0,1,1,82.8,4.0,1,0,5,3,0
+EST-10295,Sede Cordillera,Electricidad,Vespertina,27,1,1,1,67.8,3.4,1,0,3,0,1
 EST-10245,Sede Norte,Turismo,Diurna,23,0,1,1,80.5,5.1,0,0,9,0,0
 EST-10374,Sede Centro,Contabilidad,Diurna,26,1,0,0,93.5,3.2,1,2,9,1,0
-EST-11086,Sede Sur,Administración,Diurna,31,0,1,1,88.2,5.4,0,0,11,2,0
+EST-11086,Sede Costa,Administración,Diurna,31,0,1,1,88.2,5.4,0,0,11,2,0
 EST-10115,Sede Centro,Mecánica Automotriz,Vespertina,31,1,0,0,66.2,3.6,2,1,5,3,1
-EST-11477,Sede Centro,Turismo,Vespertina,29,1,1,1,68.3,6.6,0,0,9,1,0
+EST-11477,Sede Sur,Turismo,Vespertina,29,1,1,1,68.3,6.6,0,0,9,1,0
 EST-10834,Sede Centro,Enfermería (TENS),Diurna,26,1,1,0,79.1,4.9,1,3,9,0,1
-EST-10700,Sede Sur,Electricidad,Diurna,30,1,0,1,92.0,4.9,0,0,8,0,0
-EST-11024,Sede Costa,Contabilidad,Diurna,28,1,0,1,84.1,4.9,0,0,7,2,0
-EST-10262,Sede Costa,Enfermería (TENS),Diurna,33,1,1,0,80.5,3.8,1,3,8,0,1
-EST-11458,Sede Centro,Informática,Diurna,30,0,0,1,87.0,5.5,0,0,14,2,0
+EST-10700,Sede Costa,Electricidad,Diurna,30,1,0,1,92.0,4.9,0,0,8,0,0
+EST-11024,Sede Cordillera,Contabilidad,Diurna,28,1,0,1,84.1,4.9,0,0,7,2,0
+EST-10262,Sede Cordillera,Enfermería (TENS),Diurna,33,1,1,0,80.5,3.8,1,3,8,0,1
+EST-11458,Sede Sur,Informática,Diurna,30,0,0,1,87.0,5.5,0,0,14,2,0
 EST-10938,Sede Norte,Informática,Diurna,20,0,1,0,53.7,3.7,2,0,3,0,1
-EST-10667,Sede Costa,Electricidad,Vespertina,32,0,1,0,88.4,5.1,0,1,7,1,0
+EST-10667,Sede Cordillera,Electricidad,Vespertina,32,0,1,0,88.4,5.1,0,1,7,1,0
 EST-10831,Sede Norte,Administración,Diurna,30,1,1,1,63.8,5.1,0,0,4,3,0
-EST-10291,Sede Norte,Administración,Diurna,25,0,0,1,83.5,5.6,0,0,5,0,0
-EST-10525,Sede Norte,Enfermería (TENS),Vespertina,21,1,0,1,85.1,5.3,0,0,14,1,0
+EST-10291,Sede Centro,Administración,Diurna,25,0,0,1,83.5,5.6,0,0,5,0,0
+EST-10525,Sede Centro,Enfermería (TENS),Vespertina,21,1,0,1,85.1,5.3,0,0,14,1,0
 EST-11026,Sede Sur,Enfermería (TENS),Vespertina,40,0,1,1,92.7,6.0,0,0,10,1,0
 EST-10495,Sede Centro,Electricidad,Vespertina,30,1,1,1,79.0,4.7,0,0,16,1,0
 EST-10426,Sede Norte,Informática,Vespertina,32,1,1,1,60.5,5.0,1,0,13,0,0
 EST-11274,Sede Norte,Educación Parvularia,Vespertina,30,1,1,1,53.0,3.6,3,0,9,1,1
-EST-10369,Sede Centro,Contabilidad,Vespertina,22,0,1,1,72.8,3.3,0,0,11,0,0
+EST-10369,Sede Sur,Contabilidad,Vespertina,22,0,1,1,72.8,3.3,0,0,11,0,0
 EST-10707,Sede Centro,Administración,Diurna,24,0,0,1,64.0,3.8,2,0,10,1,1
-EST-10507,Sede Centro,Electricidad,Diurna,22,0,1,1,80.7,5.0,1,0,9,0,0
-EST-10083,Sede Centro,Informática,Diurna,19,0,1,1,74.0,6.0,0,0,6,2,0
-EST-11028,Sede Costa,Contabilidad,Diurna,25,0,0,1,82.6,5.5,0,0,10,0,0
-EST-11491,Sede Costa,Electricidad,Diurna,26,0,0,1,85.9,5.0,0,0,8,2,0
+EST-10507,Sede Sur,Electricidad,Diurna,22,0,1,1,80.7,5.0,1,0,9,0,0
+EST-10083,Sede Sur,Informática,Diurna,19,0,1,1,74.0,6.0,0,0,6,2,0
+EST-11028,Sede Cordillera,Contabilidad,Diurna,25,0,0,1,82.6,5.5,0,0,10,0,0
+EST-11491,Sede Cordillera,Electricidad,Diurna,26,0,0,1,85.9,5.0,0,0,8,2,0
 EST-11151,Sede Norte,Mecánica Automotriz,Vespertina,36,1,1,0,71.5,3.7,1,2,4,0,1
-EST-11410,Sede Costa,Informática,Diurna,26,1,1,0,75.8,4.8,1,0,4,0,1
-EST-11301,Sede Sur,Educación Parvularia,Vespertina,28,0,1,1,53.8,5.5,0,0,5,0,0
-EST-10610,Sede Centro,Turismo,Vespertina,30,1,1,1,53.8,3.4,1,0,5,0,1
+EST-11410,Sede Cordillera,Informática,Diurna,26,1,1,0,75.8,4.8,1,0,4,0,1
+EST-11301,Sede Costa,Educación Parvularia,Vespertina,28,0,1,1,53.8,5.5,0,0,5,0,0
+EST-10610,Sede Sur,Turismo,Vespertina,30,1,1,1,53.8,3.4,1,0,5,0,1
 EST-10689,Sede Sur,Turismo,Diurna,30,0,0,1,86.8,3.9,2,0,11,0,0
 EST-10583,Sede Centro,Enfermería (TENS),Vespertina,37,1,1,0,51.0,5.2,0,0,4,2,1
-EST-11117,Sede Costa,Contabilidad,Diurna,23,1,0,1,71.9,4.3,0,0,7,1,1
+EST-11117,Sede Cordillera,Contabilidad,Diurna,23,1,0,1,71.9,4.3,0,0,7,1,1
 EST-10493,Sede Norte,Informática,Diurna,25,1,1,1,45.7,3.5,0,0,8,0,1
-EST-11088,Sede Centro,Contabilidad,Diurna,22,1,1,0,83.0,4.9,1,0,10,0,0
-EST-11011,Sede Sur,Informática,Diurna,37,1,0,1,89.7,4.7,0,0,6,2,0
+EST-11088,Sede Sur,Contabilidad,Diurna,22,1,1,0,83.0,4.9,1,0,10,0,0
+EST-11011,Sede Costa,Informática,Diurna,37,1,0,1,89.7,4.7,0,0,6,2,0
 EST-10721,Sede Norte,Enfermería (TENS),Diurna,30,1,0,0,93.6,4.4,1,3,10,1,1
-EST-10183,Sede Centro,Turismo,Diurna,31,0,0,1,84.9,4.9,0,0,6,1,0
+EST-10183,Sede Sur,Turismo,Diurna,31,0,0,1,84.9,4.9,0,0,6,1,0
 EST-11029,Sede Centro,Enfermería (TENS),Vespertina,22,0,1,1,84.9,5.2,0,0,7,1,0
-EST-10503,Sede Sur,Mecánica Automotriz,Vespertina,28,0,0,1,58.4,3.9,0,0,7,2,0
+EST-10503,Sede Costa,Mecánica Automotriz,Vespertina,28,0,0,1,58.4,3.9,0,0,7,2,0
 EST-10030,Sede Norte,Enfermería (TENS),Vespertina,38,0,1,1,76.4,4.8,0,0,6,1,0
-EST-11269,Sede Centro,Contabilidad,Vespertina,22,0,1,0,74.2,6.6,0,0,10,0,0
+EST-11269,Sede Sur,Contabilidad,Vespertina,22,0,1,0,74.2,6.6,0,0,10,0,0
 EST-10745,Sede Costa,Electricidad,Vespertina,26,0,1,0,73.5,3.7,1,0,5,1,0
-EST-10123,Sede Centro,Enfermería (TENS),Vespertina,24,1,1,1,60.2,4.9,0,0,6,0,0
+EST-10123,Sede Sur,Enfermería (TENS),Vespertina,24,1,1,1,60.2,4.9,0,0,6,0,0
 EST-10687,Sede Centro,Informática,Diurna,42,0,0,1,93.5,4.6,0,0,8,0,0
 EST-11162,Sede Sur,Educación Parvularia,Diurna,25,0,0,1,66.5,4.7,0,0,11,0,0
 EST-10526,Sede Centro,Administración,Vespertina,26,0,0,1,96.4,4.9,0,0,9,0,0
 EST-10947,Sede Sur,Contabilidad,Vespertina,35,1,1,1,75.4,4.8,0,0,5,1,0
 EST-11132,Sede Norte,Contabilidad,Vespertina,28,1,1,0,54.3,3.9,1,2,6,1,1
-EST-10603,Sede Norte,Contabilidad,Diurna,28,0,1,0,60.9,3.6,3,0,9,0,1
+EST-10603,Sede Centro,Contabilidad,Diurna,28,0,1,0,60.9,3.6,3,0,9,0,1
 EST-10263,Sede Norte,Contabilidad,Vespertina,26,0,1,0,77.9,5.8,0,2,4,2,0
 EST-11405,Sede Norte,Administración,Diurna,31,0,0,1,95.3,6.7,0,0,15,0,0
-EST-11251,Sede Centro,Educación Parvularia,Diurna,20,1,0,1,85.2,4.1,1,0,10,2,0
+EST-11251,Sede Sur,Educación Parvularia,Diurna,20,1,0,1,85.2,4.1,1,0,10,2,0
 EST-10318,Sede Norte,Electricidad,Vespertina,28,1,1,1,72.8,4.4,0,0,6,1,0
 EST-11069,Sede Centro,Contabilidad,Diurna,18,0,0,1,90.1,5.4,0,0,13,0,0
 EST-11244,Sede Sur,Educación Parvularia,Diurna,25,1,0,1,70.2,3.7,1,0,6,0,1
-EST-11327,Sede Costa,Administración,Diurna,23,0,0,1,76.7,4.5,0,0,10,1,0
+EST-11327,Sede Cordillera,Administración,Diurna,23,0,0,1,76.7,4.5,0,0,10,1,0
 EST-10499,Sede Centro,Contabilidad,Diurna,17,0,1,1,74.0,5.5,0,0,8,1,0
 EST-10102,Sede Centro,Electricidad,Vespertina,37,0,0,1,82.2,5.4,0,0,8,1,0
 EST-11060,Sede Centro,Educación Parvularia,Vespertina,29,0,1,0,83.4,4.5,1,2,15,1,0
 EST-10058,Sede Norte,Administración,Diurna,24,1,0,1,81.6,5.1,1,0,5,0,1
 EST-11217,Sede Sur,Administración,Diurna,30,1,1,0,63.8,4.4,1,2,7,0,1
-EST-11461,Sede Sur,Electricidad,Vespertina,24,0,1,1,81.3,4.6,0,0,7,1,0
+EST-11461,Sede Costa,Electricidad,Vespertina,24,0,1,1,81.3,4.6,0,0,7,1,0
 EST-10563,Sede Centro,Educación Parvularia,Diurna,18,0,1,0,82.2,5.0,0,0,7,0,1
-EST-10448,Sede Centro,Contabilidad,Vespertina,22,0,1,1,82.4,6.4,0,0,11,0,0
-EST-10023,Sede Costa,Electricidad,Vespertina,35,1,0,1,78.5,4.2,1,0,8,0,0
+EST-10448,Sede Sur,Contabilidad,Vespertina,22,0,1,1,82.4,6.4,0,0,11,0,0
+EST-10023,Sede Cordillera,Electricidad,Vespertina,35,1,0,1,78.5,4.2,1,0,8,0,0
 EST-10095,Sede Sur,Electricidad,Vespertina,24,1,0,1,72.2,4.9,0,0,15,0,0
-EST-10256,Sede Sur,Administración,Diurna,40,0,1,1,68.9,5.1,0,0,4,1,0
-EST-11128,Sede Costa,Enfermería (TENS),Vespertina,30,0,1,0,67.1,5.0,0,2,8,0,1
+EST-10256,Sede Costa,Administración,Diurna,40,0,1,1,68.9,5.1,0,0,4,1,0
+EST-11128,Sede Cordillera,Enfermería (TENS),Vespertina,30,0,1,0,67.1,5.0,0,2,8,0,1
 EST-10018,Sede Norte,Administración,Diurna,26,1,0,1,66.3,5.0,0,0,9,0,0
 EST-10220,Sede Sur,Administración,Vespertina,30,1,1,1,57.2,3.9,1,0,6,0,1
 EST-11478,Sede Sur,Contabilidad,Diurna,20,0,0,0,91.2,5.2,0,0,9,0,0
-EST-11359,Sede Sur,Electricidad,Diurna,24,1,0,0,58.6,4.4,0,2,5,1,1
+EST-11359,Sede Costa,Electricidad,Diurna,24,1,0,0,58.6,4.4,0,2,5,1,1
 EST-11375,Sede Centro,Mecánica Automotriz,Vespertina,23,1,1,1,62.0,4.8,0,0,1,0,1
 EST-11415,Sede Sur,Administración,Diurna,24,1,0,1,80.8,5.6,0,0,7,0,0
-EST-10935,Sede Centro,Turismo,Vespertina,27,1,1,0,66.8,5.4,0,3,6,0,1
+EST-10935,Sede Sur,Turismo,Vespertina,27,1,1,0,66.8,5.4,0,3,6,0,1
 EST-11250,Sede Centro,Educación Parvularia,Diurna,33,1,0,0,84.7,5.7,1,1,5,0,0
 EST-10980,Sede Norte,Administración,Vespertina,31,1,0,1,71.3,4.2,0,0,9,1,0
 EST-10191,Sede Centro,Turismo,Diurna,24,1,0,0,94.3,4.2,2,0,8,0,0
-EST-11189,Sede Costa,Turismo,Vespertina,30,1,1,0,86.5,4.8,0,1,7,1,0
+EST-11189,Sede Cordillera,Turismo,Vespertina,30,1,1,0,86.5,4.8,0,1,7,1,0
 EST-10731,Sede Norte,Contabilidad,Diurna,20,1,0,1,59.9,3.7,0,0,5,0,1
 EST-10596,Sede Norte,Informática,Diurna,19,0,0,1,82.1,4.8,0,0,11,0,0
 EST-11287,Sede Centro,Informática,Diurna,23,1,0,0,63.5,5.2,0,1,7,0,1
 EST-11007,Sede Norte,Electricidad,Vespertina,38,1,0,1,86.9,6.3,0,0,6,0,0
-EST-11023,Sede Norte,Electricidad,Diurna,27,0,1,0,83.7,4.9,0,2,7,1,0
-EST-10203,Sede Costa,Electricidad,Diurna,21,1,0,0,76.5,5.1,0,0,10,3,0
+EST-11023,Sede Centro,Electricidad,Diurna,27,0,1,0,83.7,4.9,0,2,7,1,0
+EST-10203,Sede Cordillera,Electricidad,Diurna,21,1,0,0,76.5,5.1,0,0,10,3,0
 EST-10674,Sede Centro,Enfermería (TENS),Vespertina,26,0,1,1,84.5,6.2,0,0,11,0,0
-EST-11219,Sede Centro,Enfermería (TENS),Diurna,22,1,1,0,81.7,5.6,0,0,10,0,0
+EST-11219,Sede Sur,Enfermería (TENS),Diurna,22,1,1,0,81.7,5.6,0,0,10,0,0
 EST-10819,Sede Norte,Mecánica Automotriz,Vespertina,32,0,0,1,71.5,5.5,0,0,6,1,0
 EST-11036,Sede Sur,Contabilidad,Vespertina,36,0,0,0,70.0,3.8,0,0,6,0,0
 EST-11143,Sede Norte,Administración,Vespertina,25,1,1,1,60.4,3.6,0,0,4,1,1
-EST-10116,Sede Sur,Informática,Diurna,21,0,0,1,98.1,3.5,2,0,7,2,0
+EST-10116,Sede Costa,Informática,Diurna,21,0,0,1,98.1,3.5,2,0,7,2,0
 EST-11284,Sede Centro,Enfermería (TENS),Vespertina,32,1,1,1,61.3,4.2,0,0,7,0,1
 EST-11102,Sede Norte,Educación Parvularia,Vespertina,27,0,1,1,75.0,4.9,0,0,7,0,1
-EST-11163,Sede Sur,Enfermería (TENS),Diurna,23,1,0,1,89.6,5.5,0,0,14,1,0
-EST-10633,Sede Centro,Turismo,Diurna,34,0,1,1,73.6,6.2,0,0,11,0,0
+EST-11163,Sede Costa,Enfermería (TENS),Diurna,23,1,0,1,89.6,5.5,0,0,14,1,0
+EST-10633,Sede Sur,Turismo,Diurna,34,0,1,1,73.6,6.2,0,0,11,0,0
 EST-10671,Sede Centro,Electricidad,Vespertina,26,1,1,1,75.3,4.3,1,0,6,0,0
 EST-10088,Sede Norte,Educación Parvularia,Diurna,25,0,1,1,85.2,5.9,0,0,6,3,0
-EST-10071,Sede Sur,Mecánica Automotriz,Diurna,24,0,0,1,87.1,5.1,0,0,10,1,0
+EST-10071,Sede Costa,Mecánica Automotriz,Diurna,24,0,0,1,87.1,5.1,0,0,10,1,0
 EST-10373,Sede Centro,Turismo,Vespertina,33,0,1,1,51.4,4.5,1,0,4,0,1
 EST-11256,Sede Norte,Electricidad,Vespertina,30,0,1,0,78.3,4.6,0,2,9,0,0
-EST-11479,Sede Costa,Turismo,Diurna,17,1,0,1,85.6,3.9,2,0,10,0,1
+EST-11479,Sede Cordillera,Turismo,Diurna,17,1,0,1,85.6,3.9,2,0,10,0,1
 EST-10670,Sede Norte,Turismo,Diurna,18,0,0,0,63.8,4.0,0,2,2,0,1
 EST-11363,Sede Norte,Electricidad,Vespertina,29,1,0,0,77.5,7.0,0,1,9,0,0
 EST-10569,Sede Centro,Turismo,Diurna,24,1,0,1,86.4,4.7,0,0,8,0,0
 EST-10965,Sede Norte,Administración,Vespertina,26,1,0,1,58.7,5.7,0,0,4,1,0
 EST-10323,Sede Centro,Administración,Diurna,17,1,0,1,89.1,5.6,0,0,7,1,0
-EST-10911,Sede Centro,Electricidad,Diurna,26,0,1,1,86.7,3.7,0,0,8,0,0
-EST-11038,Sede Costa,Electricidad,Vespertina,28,1,0,1,65.0,5.0,0,0,6,2,0
-EST-11110,Sede Costa,Administración,Diurna,28,1,0,1,60.5,3.7,3,0,10,1,1
+EST-10911,Sede Sur,Electricidad,Diurna,26,0,1,1,86.7,3.7,0,0,8,0,0
+EST-11038,Sede Cordillera,Electricidad,Vespertina,28,1,0,1,65.0,5.0,0,0,6,2,0
+EST-11110,Sede Cordillera,Administración,Diurna,28,1,0,1,60.5,3.7,3,0,10,1,1
 EST-10441,Sede Norte,Enfermería (TENS),Vespertina,30,0,1,0,86.0,4.4,0,1,7,1,0
 EST-11021,Sede Costa,Electricidad,Vespertina,23,1,1,1,93.9,6.0,0,0,4,2,0
 EST-10900,Sede Norte,Enfermería (TENS),Vespertina,21,1,1,1,76.6,4.8,0,0,5,0,0
-EST-10910,Sede Sur,Turismo,Diurna,21,1,0,1,82.0,4.3,0,0,7,0,0
-EST-10280,Sede Norte,Educación Parvularia,Vespertina,29,0,1,1,65.0,3.8,3,0,10,0,1
+EST-10910,Sede Costa,Turismo,Diurna,21,1,0,1,82.0,4.3,0,0,7,0,0
+EST-10280,Sede Centro,Educación Parvularia,Vespertina,29,0,1,1,65.0,3.8,3,0,10,0,1
 EST-10135,Sede Sur,Contabilidad,Diurna,28,1,0,0,95.2,6.1,0,2,11,1,0
 EST-10673,Sede Sur,Mecánica Automotriz,Diurna,17,1,0,0,84.1,4.4,1,0,8,0,0
 EST-11344,Sede Costa,Informática,Diurna,32,0,0,1,87.6,4.8,0,0,9,0,0
-EST-11118,Sede Costa,Informática,Diurna,26,0,1,1,59.5,5.8,0,0,7,0,0
-EST-10311,Sede Norte,Electricidad,Vespertina,27,0,1,1,79.1,5.0,0,0,8,0,0
-EST-10567,Sede Centro,Contabilidad,Vespertina,23,1,1,1,77.6,4.5,0,0,8,2,0
-EST-10756,Sede Sur,Informática,Vespertina,23,1,1,1,78.9,4.7,1,0,9,0,0
+EST-11118,Sede Cordillera,Informática,Diurna,26,0,1,1,59.5,5.8,0,0,7,0,0
+EST-10311,Sede Centro,Electricidad,Vespertina,27,0,1,1,79.1,5.0,0,0,8,0,0
+EST-10567,Sede Sur,Contabilidad,Vespertina,23,1,1,1,77.6,4.5,0,0,8,2,0
+EST-10756,Sede Costa,Informática,Vespertina,23,1,1,1,78.9,4.7,1,0,9,0,0
 EST-10769,Sede Norte,Electricidad,Diurna,31,0,1,0,94.7,4.2,1,4,6,0,0
 EST-10518,Sede Sur,Enfermería (TENS),Diurna,24,0,0,0,76.3,4.9,0,1,10,2,0
 EST-10955,Sede Centro,Educación Parvularia,Diurna,25,1,0,0,54.0,3.9,1,0,3,1,1
 EST-10031,Sede Norte,Administración,Diurna,22,1,1,0,75.4,4.9,0,1,8,0,0
 EST-10067,Sede Centro,Electricidad,Vespertina,23,1,1,1,79.3,3.8,0,0,7,4,0
 EST-10845,Sede Centro,Electricidad,Vespertina,27,0,1,1,63.4,4.7,0,0,8,1,1
-EST-10903,Sede Centro,Electricidad,Diurna,29,1,0,1,76.5,2.9,3,0,9,0,1
-EST-10371,Sede Centro,Electricidad,Diurna,29,0,0,1,78.2,4.1,0,0,7,2,0
+EST-10903,Sede Sur,Electricidad,Diurna,29,1,0,1,76.5,2.9,3,0,9,0,1
+EST-10371,Sede Sur,Electricidad,Diurna,29,0,0,1,78.2,4.1,0,0,7,2,0
 EST-10319,Sede Centro,Administración,Diurna,28,1,1,1,69.0,5.5,0,0,11,0,1
-EST-10629,Sede Costa,Enfermería (TENS),Vespertina,27,1,0,1,68.6,4.0,0,0,7,0,1
+EST-10629,Sede Cordillera,Enfermería (TENS),Vespertina,27,1,0,1,68.6,4.0,0,0,7,0,1
 EST-10513,Sede Norte,Enfermería (TENS),Diurna,26,1,1,0,56.0,5.0,0,1,2,2,1
-EST-10647,Sede Norte,Enfermería (TENS),Diurna,33,1,1,0,47.7,3.1,2,1,6,2,1
+EST-10647,Sede Centro,Enfermería (TENS),Diurna,33,1,1,0,47.7,3.1,2,1,6,2,1
 EST-10835,Sede Centro,Informática,Diurna,29,1,0,0,80.6,3.5,2,1,7,0,1
-EST-10417,Sede Sur,Informática,Vespertina,37,1,1,0,78.0,4.1,3,1,8,0,1
+EST-10417,Sede Costa,Informática,Vespertina,37,1,1,0,78.0,4.1,3,1,8,0,1
 EST-10432,Sede Sur,Educación Parvularia,Diurna,17,0,1,0,91.2,4.8,0,1,7,0,0
 EST-11281,Sede Norte,Contabilidad,Diurna,17,0,1,1,71.2,4.6,1,0,6,1,0
-EST-10597,Sede Sur,Administración,Diurna,29,1,0,1,88.2,4.7,0,0,11,0,0
-EST-11486,Sede Sur,Informática,Diurna,23,0,1,0,67.7,4.8,1,0,4,0,0
-EST-10152,Sede Sur,Contabilidad,Vespertina,19,0,1,0,96.9,5.3,0,0,9,1,0
+EST-10597,Sede Costa,Administración,Diurna,29,1,0,1,88.2,4.7,0,0,11,0,0
+EST-11486,Sede Costa,Informática,Diurna,23,0,1,0,67.7,4.8,1,0,4,0,0
+EST-10152,Sede Costa,Contabilidad,Vespertina,19,0,1,0,96.9,5.3,0,0,9,1,0
 EST-10509,Sede Norte,Turismo,Diurna,29,1,0,1,90.5,4.0,0,0,5,1,1
 EST-10832,Sede Norte,Turismo,Diurna,31,0,0,0,69.8,5.7,0,1,6,0,0
-EST-10464,Sede Costa,Mecánica Automotriz,Diurna,26,0,1,1,75.3,5.9,0,0,9,0,0
+EST-10464,Sede Cordillera,Mecánica Automotriz,Diurna,26,0,1,1,75.3,5.9,0,0,9,0,0
 EST-10300,Sede Costa,Contabilidad,Diurna,25,0,0,1,83.6,5.3,0,0,13,1,0
 EST-11318,Sede Norte,Educación Parvularia,Vespertina,22,0,1,0,83.1,4.2,1,1,9,0,0
-EST-11495,Sede Centro,Electricidad,Diurna,31,0,0,0,90.9,5.0,0,0,6,0,0
-EST-11077,Sede Norte,Mecánica Automotriz,Vespertina,42,1,1,0,81.8,4.4,1,0,8,1,0
+EST-11495,Sede Sur,Electricidad,Diurna,31,0,0,0,90.9,5.0,0,0,6,0,0
+EST-11077,Sede Centro,Mecánica Automotriz,Vespertina,42,1,1,0,81.8,4.4,1,0,8,1,0
 EST-10517,Sede Centro,Informática,Vespertina,47,1,1,1,59.9,3.8,0,0,4,1,1
 EST-10315,Sede Norte,Electricidad,Diurna,24,0,0,1,73.5,5.4,0,0,11,1,0
-EST-11490,Sede Norte,Turismo,Diurna,25,1,0,1,80.9,4.7,0,0,10,0,0
-EST-11438,Sede Norte,Contabilidad,Diurna,29,0,0,0,77.7,4.9,0,1,3,0,0
-EST-11245,Sede Costa,Administración,Diurna,17,1,0,1,89.4,5.8,0,0,9,0,0
-EST-10792,Sede Centro,Informática,Diurna,21,0,0,1,74.0,4.5,0,0,7,0,1
+EST-11490,Sede Centro,Turismo,Diurna,25,1,0,1,80.9,4.7,0,0,10,0,0
+EST-11438,Sede Centro,Contabilidad,Diurna,29,0,0,0,77.7,4.9,0,1,3,0,0
+EST-11245,Sede Cordillera,Administración,Diurna,17,1,0,1,89.4,5.8,0,0,9,0,0
+EST-10792,Sede Sur,Informática,Diurna,21,0,0,1,74.0,4.5,0,0,7,0,1
 EST-10308,Sede Norte,Electricidad,Vespertina,33,1,1,1,74.6,5.0,0,0,12,0,0
 EST-11169,Sede Centro,Informática,Diurna,26,1,0,1,79.0,5.8,0,0,8,0,1
 EST-10208,Sede Centro,Turismo,Vespertina,28,0,1,1,62.2,4.4,1,0,7,1,0
-EST-10727,Sede Centro,Informática,Diurna,24,0,0,1,96.9,6.1,0,0,12,1,0
+EST-10727,Sede Sur,Informática,Diurna,24,0,0,1,96.9,6.1,0,0,12,1,0
 EST-10224,Sede Centro,Electricidad,Vespertina,24,1,1,0,69.5,5.3,0,0,7,1,0
 EST-10134,Sede Centro,Electricidad,Vespertina,24,1,1,1,60.8,6.1,0,0,8,0,0
 EST-10961,Sede Centro,Enfermería (TENS),Vespertina,34,1,0,1,87.9,4.6,0,0,11,0,0
-EST-10902,Sede Centro,Electricidad,Diurna,20,0,0,1,75.3,4.8,1,0,7,1,0
-EST-10590,Sede Costa,Turismo,Vespertina,23,1,1,1,78.3,3.4,0,0,10,0,1
-EST-11407,Sede Centro,Educación Parvularia,Vespertina,26,1,1,0,85.9,4.9,0,0,7,0,0
-EST-11263,Sede Costa,Educación Parvularia,Diurna,17,1,1,1,84.6,5.8,0,0,12,1,0
+EST-10902,Sede Sur,Electricidad,Diurna,20,0,0,1,75.3,4.8,1,0,7,1,0
+EST-10590,Sede Cordillera,Turismo,Vespertina,23,1,1,1,78.3,3.4,0,0,10,0,1
+EST-11407,Sede Sur,Educación Parvularia,Vespertina,26,1,1,0,85.9,4.9,0,0,7,0,0
+EST-11263,Sede Cordillera,Educación Parvularia,Diurna,17,1,1,1,84.6,5.8,0,0,12,1,0
 EST-10913,Sede Norte,Mecánica Automotriz,Diurna,28,1,0,1,72.8,5.0,0,0,11,0,1
 EST-10410,Sede Norte,Electricidad,Diurna,17,0,0,1,88.9,5.5,0,0,6,0,0
 EST-11316,Sede Costa,Electricidad,Diurna,19,1,0,0,95.7,5.8,0,0,11,0,0
-EST-10837,Sede Centro,Enfermería (TENS),Diurna,26,1,0,1,76.4,5.2,0,0,8,2,0
+EST-10837,Sede Sur,Enfermería (TENS),Diurna,26,1,0,1,76.4,5.2,0,0,8,2,0
 EST-11299,Sede Centro,Turismo,Diurna,17,1,0,1,89.9,6.3,0,0,9,2,0
 EST-10752,Sede Centro,Educación Parvularia,Diurna,33,0,0,0,78.7,4.1,1,0,9,1,0
-EST-11134,Sede Norte,Informática,Diurna,32,0,1,1,39.2,4.3,0,0,6,0,1
+EST-11134,Sede Centro,Informática,Diurna,32,0,1,1,39.2,4.3,0,0,6,0,1
 EST-10576,Sede Sur,Turismo,Diurna,25,1,0,1,70.8,5.1,2,0,4,1,1
 EST-11297,Sede Centro,Mecánica Automotriz,Diurna,32,0,0,1,68.2,4.0,1,0,10,1,0
 EST-10543,Sede Centro,Electricidad,Diurna,26,0,0,0,69.2,5.1,0,1,5,0,0
-EST-10974,Sede Sur,Enfermería (TENS),Vespertina,32,1,0,0,96.3,4.4,0,0,4,0,0
-EST-10477,Sede Costa,Informática,Diurna,31,1,0,1,69.6,3.6,1,0,8,1,0
-EST-10784,Sede Costa,Turismo,Diurna,38,1,0,0,39.9,1.8,0,1,5,1,1
+EST-10974,Sede Costa,Enfermería (TENS),Vespertina,32,1,0,0,96.3,4.4,0,0,4,0,0
+EST-10477,Sede Cordillera,Informática,Diurna,31,1,0,1,69.6,3.6,1,0,8,1,0
+EST-10784,Sede Cordillera,Turismo,Diurna,38,1,0,0,39.9,1.8,0,1,5,1,1
 EST-11191,Sede Centro,Turismo,Vespertina,28,1,0,0,86.8,4.7,0,0,7,0,0
 EST-10255,Sede Norte,Informática,Diurna,39,1,0,1,83.2,5.2,0,0,5,0,0
 EST-11350,Sede Norte,Administración,Vespertina,35,1,1,0,85.5,5.7,1,0,12,0,0
@@ -249,133 +249,133 @@ EST-10937,Sede Centro,Contabilidad,Diurna,34,1,1,0,67.9,3.6,1,2,5,0,1
 EST-10788,Sede Norte,Enfermería (TENS),Vespertina,32,1,0,1,91.4,6.5,0,0,3,0,0
 EST-10582,Sede Norte,Electricidad,Diurna,27,0,0,1,86.6,3.9,1,0,8,0,0
 EST-11436,Sede Norte,Turismo,Vespertina,43,1,1,1,69.3,6.9,0,0,11,1,0
-EST-10659,Sede Costa,Contabilidad,Diurna,21,0,0,1,90.5,5.0,0,0,4,0,0
+EST-10659,Sede Cordillera,Contabilidad,Diurna,21,0,0,1,90.5,5.0,0,0,4,0,0
 EST-10746,Sede Norte,Mecánica Automotriz,Diurna,17,1,0,1,90.9,3.7,3,0,8,0,0
 EST-10016,Sede Norte,Mecánica Automotriz,Diurna,38,1,0,1,68.5,5.4,1,0,3,1,0
-EST-10860,Sede Costa,Administración,Diurna,17,1,0,1,81.5,4.0,0,0,13,0,0
-EST-10421,Sede Centro,Educación Parvularia,Diurna,30,1,0,0,86.3,6.9,0,0,11,0,0
-EST-10132,Sede Sur,Mecánica Automotriz,Diurna,20,1,1,1,87.6,4.8,0,0,7,0,0
+EST-10860,Sede Cordillera,Administración,Diurna,17,1,0,1,81.5,4.0,0,0,13,0,0
+EST-10421,Sede Sur,Educación Parvularia,Diurna,30,1,0,0,86.3,6.9,0,0,11,0,0
+EST-10132,Sede Costa,Mecánica Automotriz,Diurna,20,1,1,1,87.6,4.8,0,0,7,0,0
 EST-11033,Sede Centro,Contabilidad,Vespertina,28,1,1,0,82.5,4.2,1,1,6,1,1
-EST-10097,Sede Costa,Turismo,Diurna,17,0,1,1,71.2,3.1,0,0,5,0,0
-EST-10923,Sede Costa,Administración,Diurna,23,1,0,1,87.6,5.5,0,0,10,1,0
-EST-10501,Sede Centro,Turismo,Vespertina,24,0,0,1,84.8,4.9,0,0,9,1,0
-EST-10199,Sede Costa,Contabilidad,Diurna,24,1,0,1,57.1,2.4,1,0,8,0,1
+EST-10097,Sede Cordillera,Turismo,Diurna,17,0,1,1,71.2,3.1,0,0,5,0,0
+EST-10923,Sede Cordillera,Administración,Diurna,23,1,0,1,87.6,5.5,0,0,10,1,0
+EST-10501,Sede Sur,Turismo,Vespertina,24,0,0,1,84.8,4.9,0,0,9,1,0
+EST-10199,Sede Cordillera,Contabilidad,Diurna,24,1,0,1,57.1,2.4,1,0,8,0,1
 EST-10918,Sede Centro,Enfermería (TENS),Vespertina,34,1,1,1,89.5,5.5,0,0,3,1,0
 EST-10293,Sede Centro,Informática,Vespertina,21,1,1,1,86.9,2.7,0,0,7,0,1
-EST-10842,Sede Sur,Contabilidad,Diurna,30,1,1,1,74.7,4.2,1,0,7,3,0
-EST-10729,Sede Centro,Enfermería (TENS),Diurna,30,1,1,1,49.3,3.9,1,0,5,0,1
+EST-10842,Sede Costa,Contabilidad,Diurna,30,1,1,1,74.7,4.2,1,0,7,3,0
+EST-10729,Sede Sur,Enfermería (TENS),Diurna,30,1,1,1,49.3,3.9,1,0,5,0,1
 EST-10912,Sede Norte,Enfermería (TENS),Diurna,17,0,1,1,74.4,5.1,0,0,7,1,0
 EST-11302,Sede Centro,Contabilidad,Diurna,21,1,1,1,74.0,5.1,1,0,5,1,0
 EST-11059,Sede Norte,Contabilidad,Vespertina,24,0,1,1,83.7,5.8,0,0,7,0,0
 EST-11421,Sede Costa,Administración,Diurna,46,1,0,1,84.0,5.5,0,0,13,0,0
 EST-11067,Sede Centro,Contabilidad,Vespertina,27,1,1,1,63.8,6.2,0,0,11,4,0
 EST-11420,Sede Norte,Enfermería (TENS),Diurna,17,1,0,1,64.5,4.2,0,0,6,0,1
-EST-11120,Sede Costa,Enfermería (TENS),Diurna,25,1,0,0,83.9,4.8,0,0,6,1,0
-EST-11293,Sede Costa,Turismo,Diurna,17,0,0,1,86.5,5.5,0,0,6,0,0
-EST-10481,Sede Sur,Educación Parvularia,Diurna,20,1,0,1,67.7,4.8,0,0,8,3,0
+EST-11120,Sede Cordillera,Enfermería (TENS),Diurna,25,1,0,0,83.9,4.8,0,0,6,1,0
+EST-11293,Sede Cordillera,Turismo,Diurna,17,0,0,1,86.5,5.5,0,0,6,0,0
+EST-10481,Sede Costa,Educación Parvularia,Diurna,20,1,0,1,67.7,4.8,0,0,8,3,0
 EST-10736,Sede Centro,Electricidad,Vespertina,34,1,1,1,66.0,5.5,0,0,5,0,0
-EST-10716,Sede Centro,Mecánica Automotriz,Diurna,24,0,1,0,63.3,5.0,0,0,3,3,0
+EST-10716,Sede Sur,Mecánica Automotriz,Diurna,24,0,1,0,63.3,5.0,0,0,3,3,0
 EST-10726,Sede Norte,Mecánica Automotriz,Vespertina,31,1,1,1,77.8,5.2,1,0,7,1,0
 EST-10094,Sede Norte,Contabilidad,Diurna,31,0,1,1,89.4,5.1,0,0,7,1,0
 EST-11395,Sede Centro,Electricidad,Diurna,36,1,0,0,91.5,4.7,1,1,8,0,0
 EST-10168,Sede Centro,Educación Parvularia,Diurna,26,0,0,1,53.4,4.4,0,0,5,2,0
-EST-10091,Sede Sur,Mecánica Automotriz,Diurna,17,0,0,1,73.3,6.0,0,0,10,1,0
+EST-10091,Sede Costa,Mecánica Automotriz,Diurna,17,0,0,1,73.3,6.0,0,0,10,1,0
 EST-10701,Sede Norte,Informática,Diurna,24,1,0,1,89.5,4.8,0,0,5,0,0
 EST-11145,Sede Norte,Turismo,Vespertina,28,0,1,0,72.0,5.6,0,1,8,1,0
 EST-10611,Sede Sur,Contabilidad,Diurna,23,1,0,1,86.2,5.9,0,0,9,0,0
-EST-10175,Sede Costa,Electricidad,Diurna,28,0,0,1,62.1,3.1,4,0,5,0,1
+EST-10175,Sede Cordillera,Electricidad,Diurna,28,0,0,1,62.1,3.1,4,0,5,0,1
 EST-11473,Sede Costa,Electricidad,Vespertina,25,1,0,0,87.4,5.0,0,2,9,0,0
-EST-11218,Sede Sur,Informática,Diurna,36,1,0,1,88.8,4.1,1,0,9,0,0
-EST-10101,Sede Costa,Administración,Vespertina,33,0,1,0,85.0,6.4,0,0,4,2,0
+EST-11218,Sede Costa,Informática,Diurna,36,1,0,1,88.8,4.1,1,0,9,0,0
+EST-10101,Sede Cordillera,Administración,Vespertina,33,0,1,0,85.0,6.4,0,0,4,2,0
 EST-11121,Sede Centro,Administración,Diurna,17,1,1,1,79.2,5.9,0,0,10,1,0
-EST-11307,Sede Sur,Administración,Vespertina,27,1,1,1,66.9,6.3,0,0,7,2,0
+EST-11307,Sede Costa,Administración,Vespertina,27,1,1,1,66.9,6.3,0,0,7,2,0
 EST-10932,Sede Centro,Informática,Vespertina,34,1,1,1,89.7,5.8,0,0,12,0,0
 EST-10574,Sede Centro,Educación Parvularia,Vespertina,32,0,1,1,79.5,5.7,0,0,7,0,0
-EST-10415,Sede Costa,Mecánica Automotriz,Diurna,34,0,0,1,39.1,4.6,0,0,4,1,0
+EST-10415,Sede Cordillera,Mecánica Automotriz,Diurna,34,0,0,1,39.1,4.6,0,0,4,1,0
 EST-10435,Sede Centro,Enfermería (TENS),Vespertina,25,1,1,1,89.9,4.4,0,0,9,0,0
-EST-10781,Sede Sur,Electricidad,Vespertina,21,0,1,0,96.5,5.1,0,2,12,1,0
+EST-10781,Sede Costa,Electricidad,Vespertina,21,0,1,0,96.5,5.1,0,2,12,1,0
 EST-11385,Sede Centro,Mecánica Automotriz,Vespertina,35,1,1,1,73.9,5.0,0,0,12,0,0
 EST-10627,Sede Norte,Mecánica Automotriz,Diurna,22,0,0,1,70.6,4.3,0,0,3,0,1
 EST-11348,Sede Norte,Informática,Diurna,22,0,0,1,56.6,2.5,3,0,9,0,0
 EST-10789,Sede Centro,Electricidad,Vespertina,35,0,0,1,68.7,4.8,1,0,6,1,0
 EST-11240,Sede Sur,Turismo,Diurna,18,0,0,1,87.9,5.8,0,0,7,0,0
-EST-11377,Sede Sur,Enfermería (TENS),Diurna,17,1,0,0,83.9,5.2,0,0,6,0,0
+EST-11377,Sede Costa,Enfermería (TENS),Diurna,17,1,0,0,83.9,5.2,0,0,6,0,0
 EST-11459,Sede Centro,Administración,Diurna,17,1,0,1,82.2,6.9,0,0,7,1,0
 EST-10708,Sede Norte,Turismo,Diurna,28,0,0,1,97.8,6.0,0,0,10,2,0
 EST-11320,Sede Centro,Turismo,Diurna,23,1,0,1,92.3,5.9,0,0,8,0,0
 EST-11413,Sede Norte,Turismo,Vespertina,22,0,1,1,79.5,5.8,0,0,7,0,0
 EST-10725,Sede Centro,Electricidad,Diurna,17,1,0,1,65.0,5.9,0,0,4,0,1
-EST-10048,Sede Centro,Mecánica Automotriz,Diurna,28,1,0,0,77.6,4.2,2,0,10,0,1
+EST-10048,Sede Sur,Mecánica Automotriz,Diurna,28,1,0,0,77.6,4.2,2,0,10,0,1
 EST-10338,Sede Centro,Turismo,Vespertina,19,0,1,1,89.1,5.5,0,0,10,0,0
 EST-10759,Sede Centro,Mecánica Automotriz,Vespertina,33,1,1,1,63.8,4.1,2,0,4,1,1
 EST-10970,Sede Norte,Contabilidad,Diurna,21,0,1,0,47.0,2.9,0,1,3,0,1
 EST-10958,Sede Norte,Informática,Vespertina,33,1,1,1,57.9,4.4,1,0,11,0,1
-EST-11338,Sede Sur,Enfermería (TENS),Diurna,20,1,0,1,92.8,5.9,0,0,15,1,0
+EST-11338,Sede Costa,Enfermería (TENS),Diurna,20,1,0,1,92.8,5.9,0,0,15,1,0
 EST-10785,Sede Centro,Administración,Vespertina,32,0,1,1,86.2,6.8,0,0,7,0,0
-EST-10010,Sede Costa,Administración,Diurna,17,1,0,1,75.1,5.0,0,0,10,0,1
+EST-10010,Sede Cordillera,Administración,Diurna,17,1,0,1,75.1,5.0,0,0,10,0,1
 EST-10049,Sede Costa,Administración,Diurna,19,1,0,1,93.9,5.5,0,0,8,1,0
 EST-10496,Sede Norte,Turismo,Diurna,27,0,0,0,84.2,5.4,0,2,10,2,0
 EST-11349,Sede Centro,Educación Parvularia,Diurna,33,0,1,1,79.2,5.1,0,0,8,0,0
 EST-10634,Sede Centro,Enfermería (TENS),Diurna,27,0,0,1,90.5,4.4,0,0,9,0,0
 EST-10457,Sede Norte,Enfermería (TENS),Vespertina,27,1,0,1,72.9,5.4,0,0,6,1,0
 EST-11137,Sede Norte,Contabilidad,Vespertina,26,0,1,1,48.7,4.3,1,0,4,0,1
-EST-11154,Sede Sur,Enfermería (TENS),Vespertina,32,1,0,1,81.3,5.1,0,0,10,0,0
-EST-11087,Sede Sur,Mecánica Automotriz,Diurna,17,0,0,1,93.1,4.7,0,0,6,0,0
+EST-11154,Sede Costa,Enfermería (TENS),Vespertina,32,1,0,1,81.3,5.1,0,0,10,0,0
+EST-11087,Sede Costa,Mecánica Automotriz,Diurna,17,0,0,1,93.1,4.7,0,0,6,0,0
 EST-10705,Sede Centro,Mecánica Automotriz,Diurna,30,1,0,1,83.1,6.5,0,0,8,1,0
 EST-10877,Sede Sur,Turismo,Diurna,36,1,0,1,87.3,5.0,0,0,11,1,0
 EST-10121,Sede Centro,Educación Parvularia,Diurna,21,0,1,0,79.3,5.1,0,1,11,1,0
-EST-10967,Sede Sur,Mecánica Automotriz,Diurna,17,0,0,1,81.8,4.2,1,0,6,0,0
+EST-10967,Sede Costa,Mecánica Automotriz,Diurna,17,0,0,1,81.8,4.2,1,0,6,0,0
 EST-10928,Sede Centro,Contabilidad,Diurna,19,0,0,1,75.3,3.8,0,0,5,0,0
 EST-11031,Sede Centro,Administración,Vespertina,30,1,1,0,78.9,4.6,0,0,4,0,0
-EST-11237,Sede Costa,Contabilidad,Diurna,21,1,1,1,77.2,6.3,0,0,11,0,0
-EST-10028,Sede Sur,Enfermería (TENS),Vespertina,37,0,1,0,82.4,2.9,1,1,5,0,1
+EST-11237,Sede Cordillera,Contabilidad,Diurna,21,1,1,1,77.2,6.3,0,0,11,0,0
+EST-10028,Sede Costa,Enfermería (TENS),Vespertina,37,0,1,0,82.4,2.9,1,1,5,0,1
 EST-10915,Sede Centro,Contabilidad,Vespertina,37,1,1,1,81.1,4.9,0,0,7,1,0
-EST-11323,Sede Costa,Electricidad,Diurna,19,1,1,1,40.1,3.6,0,0,7,1,1
+EST-11323,Sede Cordillera,Electricidad,Diurna,19,1,1,1,40.1,3.6,0,0,7,1,1
 EST-11209,Sede Centro,Mecánica Automotriz,Diurna,31,1,1,1,89.5,4.4,0,0,5,1,0
 EST-10978,Sede Sur,Informática,Vespertina,40,0,1,1,87.5,4.9,0,0,6,0,0
 EST-10325,Sede Sur,Mecánica Automotriz,Diurna,17,1,0,1,87.9,5.4,0,0,7,1,0
 EST-11498,Sede Centro,Contabilidad,Diurna,23,1,1,0,79.4,5.0,0,0,3,0,0
-EST-10253,Sede Sur,Enfermería (TENS),Diurna,25,0,0,1,78.1,5.5,0,0,8,0,0
+EST-10253,Sede Costa,Enfermería (TENS),Diurna,25,0,0,1,78.1,5.5,0,0,8,0,0
 EST-11139,Sede Centro,Enfermería (TENS),Vespertina,40,0,0,0,91.3,5.6,0,0,10,1,0
-EST-10865,Sede Costa,Informática,Diurna,17,0,0,0,53.5,5.3,0,2,3,0,1
-EST-11398,Sede Costa,Informática,Diurna,22,0,1,1,38.0,2.8,1,0,4,1,1
-EST-10782,Sede Costa,Turismo,Diurna,20,0,0,1,81.0,6.8,0,0,2,2,0
-EST-11025,Sede Costa,Administración,Diurna,19,1,0,0,94.2,5.8,0,0,16,0,0
+EST-10865,Sede Cordillera,Informática,Diurna,17,0,0,0,53.5,5.3,0,2,3,0,1
+EST-11398,Sede Cordillera,Informática,Diurna,22,0,1,1,38.0,2.8,1,0,4,1,1
+EST-10782,Sede Cordillera,Turismo,Diurna,20,0,0,1,81.0,6.8,0,0,2,2,0
+EST-11025,Sede Cordillera,Administración,Diurna,19,1,0,0,94.2,5.8,0,0,16,0,0
 EST-10344,Sede Norte,Informática,Vespertina,26,1,1,0,74.2,3.7,0,1,7,0,0
-EST-10248,Sede Centro,Mecánica Automotriz,Diurna,29,1,0,1,91.0,6.3,0,0,12,1,0
-EST-10284,Sede Sur,Administración,Vespertina,32,1,1,1,75.2,5.6,0,0,8,0,0
+EST-10248,Sede Sur,Mecánica Automotriz,Diurna,29,1,0,1,91.0,6.3,0,0,12,1,0
+EST-10284,Sede Costa,Administración,Vespertina,32,1,1,1,75.2,5.6,0,0,8,0,0
 EST-10505,Sede Centro,Educación Parvularia,Vespertina,37,1,1,0,85.1,4.5,0,0,9,1,0
 EST-10950,Sede Centro,Informática,Diurna,21,0,0,0,83.0,4.7,0,1,9,0,0
 EST-11125,Sede Norte,Contabilidad,Diurna,25,1,0,1,71.9,3.5,2,0,6,0,1
 EST-10154,Sede Norte,Turismo,Diurna,27,1,0,1,90.2,5.2,1,0,11,0,0
-EST-10512,Sede Sur,Educación Parvularia,Diurna,33,0,1,0,81.7,5.3,1,0,7,4,0
+EST-10512,Sede Costa,Educación Parvularia,Diurna,33,0,1,0,81.7,5.3,1,0,7,4,0
 EST-10438,Sede Norte,Enfermería (TENS),Diurna,18,1,0,0,90.7,4.5,2,0,10,0,0
 EST-11204,Sede Sur,Informática,Vespertina,30,1,1,1,79.5,4.5,0,0,8,0,0
 EST-11399,Sede Norte,Administración,Diurna,18,0,0,1,55.6,3.1,0,0,5,0,1
 EST-10548,Sede Centro,Enfermería (TENS),Vespertina,33,1,1,1,58.1,3.8,1,0,7,0,1
 EST-11264,Sede Norte,Administración,Vespertina,21,1,1,1,58.8,2.5,1,0,6,2,1
 EST-11232,Sede Sur,Mecánica Automotriz,Diurna,17,0,0,1,75.2,5.3,0,0,4,1,0
-EST-10063,Sede Norte,Enfermería (TENS),Diurna,24,1,0,1,80.7,4.7,1,0,10,0,0
+EST-10063,Sede Centro,Enfermería (TENS),Diurna,24,1,0,1,80.7,4.7,1,0,10,0,0
 EST-10443,Sede Centro,Contabilidad,Diurna,17,0,1,1,71.2,4.4,1,0,6,0,1
-EST-11300,Sede Norte,Enfermería (TENS),Diurna,26,0,0,1,64.5,4.5,0,0,7,2,0
+EST-11300,Sede Centro,Enfermería (TENS),Diurna,26,0,0,1,64.5,4.5,0,0,7,2,0
 EST-10193,Sede Centro,Enfermería (TENS),Diurna,19,1,0,1,82.5,4.6,0,0,9,1,0
 EST-10894,Sede Sur,Educación Parvularia,Diurna,17,0,1,0,71.8,4.9,0,0,8,0,0
 EST-10630,Sede Norte,Educación Parvularia,Diurna,20,0,0,0,68.3,4.6,1,0,8,2,0
-EST-10084,Sede Sur,Educación Parvularia,Vespertina,37,0,0,1,97.9,4.4,0,0,6,1,0
-EST-10278,Sede Sur,Informática,Diurna,26,1,0,0,81.9,4.6,0,0,4,0,0
-EST-10460,Sede Costa,Electricidad,Diurna,27,1,0,1,68.2,5.6,0,0,10,0,0
+EST-10084,Sede Costa,Educación Parvularia,Vespertina,37,0,0,1,97.9,4.4,0,0,6,1,0
+EST-10278,Sede Costa,Informática,Diurna,26,1,0,0,81.9,4.6,0,0,4,0,0
+EST-10460,Sede Cordillera,Electricidad,Diurna,27,1,0,1,68.2,5.6,0,0,10,0,0
 EST-10044,Sede Centro,Turismo,Diurna,17,1,0,1,62.4,5.0,0,0,6,2,0
 EST-10693,Sede Costa,Enfermería (TENS),Diurna,21,0,0,1,88.1,4.5,1,0,7,0,0
 EST-10001,Sede Norte,Enfermería (TENS),Diurna,28,1,0,1,60.6,5.5,0,0,5,0,0
-EST-10522,Sede Costa,Contabilidad,Diurna,22,1,0,0,68.9,2.6,3,2,7,0,1
+EST-10522,Sede Cordillera,Contabilidad,Diurna,22,1,0,0,68.9,2.6,3,2,7,0,1
 EST-10352,Sede Norte,Contabilidad,Vespertina,34,1,1,1,62.4,4.1,2,0,5,1,0
 EST-10399,Sede Centro,Administración,Diurna,27,1,0,0,85.8,5.4,0,3,9,0,0
 EST-10606,Sede Norte,Mecánica Automotriz,Diurna,21,1,0,0,94.9,6.0,0,0,9,1,0
-EST-11262,Sede Sur,Enfermería (TENS),Diurna,30,0,0,1,70.0,5.6,0,0,10,0,0
+EST-11262,Sede Costa,Enfermería (TENS),Diurna,30,0,0,1,70.0,5.6,0,0,10,0,0
 EST-10180,Sede Centro,Educación Parvularia,Diurna,33,1,1,1,74.6,4.3,0,0,8,0,0
-EST-11497,Sede Costa,Electricidad,Diurna,29,1,0,1,62.8,4.3,0,0,7,0,1
+EST-11497,Sede Cordillera,Electricidad,Diurna,29,1,0,1,62.8,4.3,0,0,7,0,1
 EST-10008,Sede Norte,Educación Parvularia,Diurna,28,1,0,0,59.3,5.3,0,0,9,0,0
-EST-10663,Sede Costa,Enfermería (TENS),Diurna,17,1,0,1,87.9,4.7,0,0,4,0,0
+EST-10663,Sede Cordillera,Enfermería (TENS),Diurna,17,1,0,1,87.9,4.7,0,0,4,0,0
 EST-11094,Sede Centro,Contabilidad,Diurna,25,1,1,0,58.3,3.3,3,1,6,0,1
 EST-10185,Sede Norte,Mecánica Automotriz,Diurna,26,1,0,1,74.2,6.2,0,0,14,1,0
 EST-10192,Sede Sur,Contabilidad,Diurna,18,1,0,1,79.5,3.9,1,0,8,0,0
@@ -386,21 +386,21 @@ EST-11116,Sede Norte,Informática,Diurna,18,0,0,1,40.4,2.4,2,0,6,1,1
 EST-11396,Sede Centro,Turismo,Diurna,25,0,1,1,64.5,5.5,0,0,9,0,0
 EST-10351,Sede Centro,Contabilidad,Diurna,24,0,0,0,87.2,5.2,0,1,10,1,0
 EST-11081,Sede Norte,Turismo,Vespertina,29,1,1,1,61.9,3.6,0,0,5,1,1
-EST-11364,Sede Costa,Contabilidad,Diurna,24,1,0,0,82.3,5.1,1,0,10,2,0
-EST-11493,Sede Centro,Educación Parvularia,Diurna,19,0,0,1,87.7,5.2,0,0,12,2,0
+EST-11364,Sede Cordillera,Contabilidad,Diurna,24,1,0,0,82.3,5.1,1,0,10,2,0
+EST-11493,Sede Sur,Educación Parvularia,Diurna,19,0,0,1,87.7,5.2,0,0,12,2,0
 EST-11424,Sede Norte,Electricidad,Vespertina,31,1,1,0,61.0,4.0,0,1,4,1,1
-EST-10846,Sede Sur,Turismo,Vespertina,43,1,1,1,82.4,4.3,1,0,9,1,0
+EST-10846,Sede Costa,Turismo,Vespertina,43,1,1,1,82.4,4.3,1,0,9,1,0
 EST-10085,Sede Centro,Enfermería (TENS),Vespertina,29,1,1,1,87.8,5.0,0,0,12,1,0
-EST-10265,Sede Centro,Mecánica Automotriz,Diurna,30,0,0,1,92.9,3.7,2,0,11,1,0
+EST-10265,Sede Sur,Mecánica Automotriz,Diurna,30,0,0,1,92.9,3.7,2,0,11,1,0
 EST-10467,Sede Centro,Turismo,Diurna,17,1,0,1,94.6,4.6,0,0,4,0,1
-EST-10086,Sede Centro,Informática,Diurna,35,1,0,1,86.3,5.0,0,0,13,0,0
+EST-10086,Sede Sur,Informática,Diurna,35,1,0,1,86.3,5.0,0,0,13,0,0
 EST-10236,Sede Sur,Mecánica Automotriz,Diurna,31,0,0,1,71.9,4.9,0,0,8,0,0
-EST-10939,Sede Norte,Educación Parvularia,Diurna,23,1,0,1,69.8,4.5,0,0,12,0,0
-EST-11197,Sede Sur,Administración,Diurna,28,1,1,1,74.1,5.5,0,0,9,2,0
-EST-11084,Sede Centro,Mecánica Automotriz,Diurna,34,0,0,1,84.5,6.0,0,0,8,0,0
-EST-10420,Sede Centro,Electricidad,Vespertina,28,1,1,0,88.4,4.9,0,1,7,0,0
+EST-10939,Sede Centro,Educación Parvularia,Diurna,23,1,0,1,69.8,4.5,0,0,12,0,0
+EST-11197,Sede Costa,Administración,Diurna,28,1,1,1,74.1,5.5,0,0,9,2,0
+EST-11084,Sede Sur,Mecánica Automotriz,Diurna,34,0,0,1,84.5,6.0,0,0,8,0,0
+EST-10420,Sede Sur,Electricidad,Vespertina,28,1,1,0,88.4,4.9,0,1,7,0,0
 EST-10254,Sede Norte,Administración,Vespertina,21,1,1,1,61.2,4.6,0,0,10,0,0
-EST-11181,Sede Norte,Contabilidad,Diurna,29,1,0,1,59.2,4.3,1,0,6,0,1
+EST-11181,Sede Centro,Contabilidad,Diurna,29,1,0,1,59.2,4.3,1,0,6,0,1
 EST-10006,Sede Centro,Turismo,Vespertina,25,1,1,1,91.7,4.2,0,0,7,2,0
 EST-11040,Sede Norte,Informática,Diurna,27,0,1,0,49.8,3.9,1,0,5,0,1
 EST-11045,Sede Norte,Informática,Diurna,22,1,0,1,86.0,3.9,1,0,9,0,0
@@ -408,60 +408,60 @@ EST-11037,Sede Sur,Informática,Vespertina,23,0,1,1,74.2,5.0,0,0,4,1,0
 EST-10524,Sede Centro,Enfermería (TENS),Diurna,21,1,0,1,71.6,6.0,0,0,9,0,0
 EST-10537,Sede Sur,Administración,Vespertina,34,0,1,1,83.4,5.5,0,0,11,1,0
 EST-11015,Sede Norte,Enfermería (TENS),Vespertina,20,1,1,1,61.8,4.3,1,0,6,1,1
-EST-11113,Sede Sur,Turismo,Diurna,34,0,0,1,65.6,3.4,2,0,4,0,1
+EST-11113,Sede Costa,Turismo,Diurna,34,0,0,1,65.6,3.4,2,0,4,0,1
 EST-11079,Sede Norte,Educación Parvularia,Vespertina,19,0,1,1,75.7,5.4,0,0,11,1,0
 EST-10811,Sede Costa,Enfermería (TENS),Diurna,19,0,0,1,74.5,3.3,0,0,5,1,1
-EST-11273,Sede Costa,Administración,Diurna,26,1,0,0,90.8,5.5,0,0,18,0,0
+EST-11273,Sede Cordillera,Administración,Diurna,26,1,0,0,90.8,5.5,0,0,18,0,0
 EST-10019,Sede Sur,Mecánica Automotriz,Diurna,25,1,0,1,89.1,5.0,0,0,7,0,0
 EST-10087,Sede Centro,Electricidad,Vespertina,33,0,1,1,85.1,4.4,0,0,9,0,0
 EST-10294,Sede Norte,Enfermería (TENS),Diurna,25,1,1,0,41.9,3.9,2,2,8,1,1
-EST-11202,Sede Sur,Mecánica Automotriz,Diurna,34,1,0,0,65.4,4.5,1,1,9,0,1
-EST-11319,Sede Centro,Mecánica Automotriz,Vespertina,27,0,1,0,71.9,4.5,0,0,7,0,0
+EST-11202,Sede Costa,Mecánica Automotriz,Diurna,34,1,0,0,65.4,4.5,1,1,9,0,1
+EST-11319,Sede Sur,Mecánica Automotriz,Vespertina,27,0,1,0,71.9,4.5,0,0,7,0,0
 EST-10675,Sede Norte,Enfermería (TENS),Diurna,28,1,1,0,79.6,4.2,1,0,7,0,0
-EST-11328,Sede Centro,Educación Parvularia,Diurna,20,1,1,1,87.8,5.2,0,0,6,0,0
+EST-11328,Sede Sur,Educación Parvularia,Diurna,20,1,1,1,87.8,5.2,0,0,6,0,0
 EST-11360,Sede Norte,Educación Parvularia,Diurna,31,1,1,1,64.2,3.2,0,0,8,1,0
 EST-10109,Sede Centro,Contabilidad,Vespertina,25,1,0,1,83.7,5.7,0,0,5,0,0
-EST-10324,Sede Centro,Administración,Diurna,22,0,1,0,78.5,4.5,0,1,2,1,0
-EST-11324,Sede Sur,Informática,Diurna,24,0,0,1,83.8,4.8,0,0,11,2,0
-EST-11112,Sede Norte,Mecánica Automotriz,Diurna,19,0,0,0,78.8,3.4,0,1,11,1,0
+EST-10324,Sede Sur,Administración,Diurna,22,0,1,0,78.5,4.5,0,1,2,1,0
+EST-11324,Sede Costa,Informática,Diurna,24,0,0,1,83.8,4.8,0,0,11,2,0
+EST-11112,Sede Centro,Mecánica Automotriz,Diurna,19,0,0,0,78.8,3.4,0,1,11,1,0
 EST-10580,Sede Norte,Mecánica Automotriz,Vespertina,28,1,1,0,79.4,5.1,0,0,8,0,0
 EST-10328,Sede Centro,Informática,Diurna,17,0,0,0,91.2,4.9,0,3,6,0,0
 EST-11265,Sede Norte,Administración,Diurna,22,1,0,1,94.8,6.6,0,0,15,0,0
-EST-11082,Sede Costa,Informática,Diurna,24,1,1,1,93.5,5.2,0,0,10,0,0
-EST-10688,Sede Costa,Mecánica Automotriz,Vespertina,34,1,1,0,91.2,5.1,0,2,6,0,0
-EST-10033,Sede Centro,Educación Parvularia,Diurna,21,0,0,0,74.5,4.4,0,0,8,0,0
+EST-11082,Sede Cordillera,Informática,Diurna,24,1,1,1,93.5,5.2,0,0,10,0,0
+EST-10688,Sede Cordillera,Mecánica Automotriz,Vespertina,34,1,1,0,91.2,5.1,0,2,6,0,0
+EST-10033,Sede Sur,Educación Parvularia,Diurna,21,0,0,0,74.5,4.4,0,0,8,0,0
 EST-10738,Sede Norte,Turismo,Diurna,17,1,1,1,68.4,3.9,1,0,12,1,0
 EST-11439,Sede Norte,Enfermería (TENS),Diurna,24,1,0,0,65.5,4.7,0,0,5,0,0
-EST-11206,Sede Costa,Educación Parvularia,Vespertina,25,0,1,0,66.2,4.3,0,1,5,2,0
+EST-11206,Sede Cordillera,Educación Parvularia,Vespertina,25,0,1,0,66.2,4.3,0,1,5,2,0
 EST-10014,Sede Norte,Administración,Diurna,18,0,0,1,82.2,4.2,1,0,9,0,0
 EST-10994,Sede Norte,Mecánica Automotriz,Vespertina,36,0,1,0,48.0,4.9,0,0,7,1,0
-EST-11305,Sede Sur,Informática,Vespertina,29,0,0,1,83.1,4.6,1,0,4,0,0
+EST-11305,Sede Costa,Informática,Vespertina,29,0,0,1,83.1,4.6,1,0,4,0,0
 EST-10419,Sede Centro,Contabilidad,Vespertina,47,1,0,1,74.1,6.9,0,0,5,1,0
 EST-11085,Sede Centro,Enfermería (TENS),Vespertina,28,0,1,0,85.3,6.0,0,0,7,2,0
 EST-10413,Sede Centro,Administración,Diurna,18,0,0,0,65.5,4.6,0,0,7,1,1
 EST-11246,Sede Sur,Informática,Diurna,23,1,1,0,58.0,5.3,0,0,6,0,0
 EST-11368,Sede Centro,Turismo,Diurna,19,1,0,0,66.7,3.8,1,1,9,1,1
-EST-11456,Sede Sur,Administración,Diurna,29,1,1,0,65.2,4.3,1,0,9,1,1
+EST-11456,Sede Costa,Administración,Diurna,29,1,1,0,65.2,4.3,1,0,9,1,1
 EST-10353,Sede Centro,Electricidad,Vespertina,25,1,1,1,60.9,3.7,3,0,7,1,1
-EST-11308,Sede Norte,Informática,Vespertina,26,1,1,1,82.2,4.5,1,0,10,1,0
+EST-11308,Sede Centro,Informática,Vespertina,26,1,1,1,82.2,4.5,1,0,10,1,0
 EST-11177,Sede Norte,Educación Parvularia,Vespertina,34,1,1,1,71.8,5.4,0,0,8,1,0
-EST-11403,Sede Sur,Mecánica Automotriz,Diurna,23,1,0,0,88.2,4.5,0,0,9,0,0
+EST-11403,Sede Costa,Mecánica Automotriz,Diurna,23,1,0,0,88.2,4.5,0,0,9,0,0
 EST-10427,Sede Norte,Informática,Vespertina,27,1,1,1,87.8,4.9,0,0,9,3,0
-EST-10081,Sede Centro,Enfermería (TENS),Diurna,21,1,0,1,85.5,5.4,0,0,10,2,0
-EST-10271,Sede Centro,Administración,Diurna,30,1,0,1,72.6,2.1,1,0,7,0,1
-EST-10080,Sede Costa,Mecánica Automotriz,Vespertina,40,1,1,1,89.8,4.8,0,0,5,1,0
+EST-10081,Sede Sur,Enfermería (TENS),Diurna,21,1,0,1,85.5,5.4,0,0,10,2,0
+EST-10271,Sede Sur,Administración,Diurna,30,1,0,1,72.6,2.1,1,0,7,0,1
+EST-10080,Sede Cordillera,Mecánica Automotriz,Vespertina,40,1,1,1,89.8,4.8,0,0,5,1,0
 EST-11353,Sede Norte,Mecánica Automotriz,Diurna,23,1,1,1,72.8,4.7,1,0,7,0,0
 EST-10336,Sede Norte,Informática,Diurna,18,0,0,0,87.6,6.0,0,2,5,0,0
 EST-11002,Sede Sur,Mecánica Automotriz,Diurna,25,0,0,1,76.3,5.3,0,0,8,0,1
 EST-10504,Sede Centro,Administración,Diurna,35,0,0,1,90.1,4.5,0,0,5,0,0
 EST-10904,Sede Norte,Administración,Diurna,23,0,1,1,75.3,6.1,0,0,10,1,0
-EST-10838,Sede Costa,Educación Parvularia,Vespertina,38,1,1,1,53.1,5.1,0,0,6,1,1
-EST-10206,Sede Sur,Informática,Diurna,19,0,1,0,37.8,3.8,0,1,1,0,1
+EST-10838,Sede Cordillera,Educación Parvularia,Vespertina,38,1,1,1,53.1,5.1,0,0,6,1,1
+EST-10206,Sede Costa,Informática,Diurna,19,0,1,0,37.8,3.8,0,1,1,0,1
 EST-11156,Sede Norte,Informática,Diurna,23,0,0,1,82.8,4.0,1,0,11,2,0
 EST-10173,Sede Norte,Electricidad,Diurna,30,0,1,1,74.1,3.9,0,0,5,1,0
-EST-11176,Sede Sur,Electricidad,Diurna,26,1,0,1,75.9,5.3,0,0,7,0,0
-EST-10181,Sede Centro,Contabilidad,Diurna,22,1,0,1,94.8,3.8,0,0,6,0,0
-EST-10231,Sede Costa,Mecánica Automotriz,Vespertina,42,1,1,1,87.4,6.2,0,0,4,0,0
+EST-11176,Sede Costa,Electricidad,Diurna,26,1,0,1,75.9,5.3,0,0,7,0,0
+EST-10181,Sede Sur,Contabilidad,Diurna,22,1,0,1,94.8,3.8,0,0,6,0,0
+EST-10231,Sede Cordillera,Mecánica Automotriz,Vespertina,42,1,1,1,87.4,6.2,0,0,4,0,0
 EST-11187,Sede Centro,Enfermería (TENS),Diurna,24,1,1,1,94.3,4.0,1,0,12,0,0
 EST-10359,Sede Norte,Informática,Vespertina,31,0,1,1,94.3,4.9,0,0,5,1,0
 EST-10979,Sede Norte,Contabilidad,Vespertina,28,1,1,1,67.9,4.0,0,0,7,4,0
@@ -474,106 +474,106 @@ EST-11341,Sede Sur,Electricidad,Diurna,19,0,1,1,79.8,6.1,0,0,4,1,0
 EST-11042,Sede Norte,Contabilidad,Vespertina,32,1,1,1,79.0,4.1,1,0,15,0,0
 EST-10653,Sede Costa,Informática,Diurna,28,1,0,0,90.9,5.0,0,0,12,0,0
 EST-10530,Sede Centro,Electricidad,Diurna,27,0,0,0,79.0,5.7,0,3,8,1,0
-EST-11321,Sede Sur,Informática,Vespertina,25,1,1,1,84.9,6.1,0,0,5,0,0
-EST-10363,Sede Sur,Mecánica Automotriz,Vespertina,20,1,1,1,60.3,5.5,0,0,7,0,0
-EST-11358,Sede Costa,Administración,Diurna,23,0,0,0,70.7,4.5,1,2,7,0,0
-EST-10052,Sede Norte,Educación Parvularia,Diurna,30,1,0,1,79.6,6.0,0,0,7,1,0
-EST-10092,Sede Sur,Informática,Diurna,28,0,1,1,72.6,4.3,2,0,11,0,1
+EST-11321,Sede Costa,Informática,Vespertina,25,1,1,1,84.9,6.1,0,0,5,0,0
+EST-10363,Sede Costa,Mecánica Automotriz,Vespertina,20,1,1,1,60.3,5.5,0,0,7,0,0
+EST-11358,Sede Cordillera,Administración,Diurna,23,0,0,0,70.7,4.5,1,2,7,0,0
+EST-10052,Sede Centro,Educación Parvularia,Diurna,30,1,0,1,79.6,6.0,0,0,7,1,0
+EST-10092,Sede Costa,Informática,Diurna,28,0,1,1,72.6,4.3,2,0,11,0,1
 EST-10126,Sede Norte,Administración,Diurna,24,1,0,1,71.3,3.3,5,0,10,1,1
 EST-10544,Sede Centro,Turismo,Diurna,32,0,1,1,82.3,5.0,0,0,7,0,0
 EST-10249,Sede Norte,Enfermería (TENS),Vespertina,23,1,0,0,78.2,3.7,1,1,5,0,1
 EST-10218,Sede Centro,Educación Parvularia,Diurna,27,1,0,1,81.1,5.5,0,0,8,1,0
 EST-11278,Sede Norte,Mecánica Automotriz,Vespertina,40,1,1,1,61.2,4.6,0,0,7,0,0
-EST-10057,Sede Costa,Electricidad,Diurna,34,0,0,1,84.3,4.7,2,0,4,1,0
+EST-10057,Sede Cordillera,Electricidad,Diurna,34,0,0,1,84.3,4.7,2,0,4,1,0
 EST-11131,Sede Norte,Informática,Diurna,36,1,0,0,70.1,3.3,3,1,5,2,1
 EST-11440,Sede Centro,Educación Parvularia,Diurna,17,0,0,0,46.8,4.4,1,1,4,0,1
-EST-11159,Sede Sur,Turismo,Diurna,22,0,0,1,78.2,4.6,1,0,6,1,0
+EST-11159,Sede Costa,Turismo,Diurna,22,0,0,1,78.2,4.6,1,0,6,1,0
 EST-11180,Sede Norte,Administración,Diurna,25,0,1,0,53.3,2.0,2,0,6,0,1
-EST-10176,Sede Centro,Turismo,Diurna,29,0,1,1,86.5,4.3,1,0,13,1,0
+EST-10176,Sede Sur,Turismo,Diurna,29,0,1,1,86.5,4.3,1,0,13,1,0
 EST-10409,Sede Centro,Educación Parvularia,Vespertina,20,0,0,1,60.3,4.8,0,0,2,2,0
-EST-10669,Sede Sur,Administración,Vespertina,29,1,1,1,87.7,5.6,1,0,13,1,0
+EST-10669,Sede Costa,Administración,Vespertina,29,1,1,1,87.7,5.6,1,0,13,1,0
 EST-11272,Sede Sur,Educación Parvularia,Diurna,19,1,0,0,88.3,4.0,2,1,6,0,0
-EST-11144,Sede Sur,Administración,Diurna,24,1,0,0,85.5,6.6,0,1,5,1,0
-EST-10770,Sede Sur,Electricidad,Diurna,17,0,0,1,87.8,3.6,1,0,6,0,0
-EST-10556,Sede Centro,Contabilidad,Vespertina,35,0,1,1,81.1,4.3,0,0,10,0,0
+EST-11144,Sede Costa,Administración,Diurna,24,1,0,0,85.5,6.6,0,1,5,1,0
+EST-10770,Sede Costa,Electricidad,Diurna,17,0,0,1,87.8,3.6,1,0,6,0,0
+EST-10556,Sede Sur,Contabilidad,Vespertina,35,0,1,1,81.1,4.3,0,0,10,0,0
 EST-10740,Sede Centro,Turismo,Diurna,17,1,0,1,65.7,3.5,1,0,7,0,0
 EST-10425,Sede Norte,Informática,Vespertina,29,0,1,1,51.9,5.1,0,0,9,0,1
 EST-10751,Sede Norte,Administración,Diurna,17,0,0,0,79.4,4.6,0,0,7,1,0
 EST-11361,Sede Costa,Turismo,Vespertina,26,0,1,0,63.2,4.0,3,0,2,0,1
-EST-10717,Sede Norte,Administración,Vespertina,31,1,1,1,68.1,4.2,1,0,7,0,0
-EST-10711,Sede Costa,Turismo,Vespertina,29,1,0,1,51.1,4.0,3,0,1,0,1
+EST-10717,Sede Centro,Administración,Vespertina,31,1,1,1,68.1,4.2,1,0,7,0,0
+EST-10711,Sede Cordillera,Turismo,Vespertina,29,1,0,1,51.1,4.0,3,0,1,0,1
 EST-10601,Sede Centro,Turismo,Diurna,17,0,0,1,88.0,4.3,0,0,11,0,0
 EST-10055,Sede Norte,Administración,Diurna,17,0,1,1,55.6,3.4,3,0,4,1,1
-EST-10959,Sede Norte,Informática,Diurna,25,1,0,0,66.9,3.0,1,0,8,1,1
+EST-10959,Sede Centro,Informática,Diurna,25,1,0,0,66.9,3.0,1,0,8,1,1
 EST-10484,Sede Centro,Contabilidad,Diurna,25,1,0,0,81.3,4.1,1,0,7,1,0
 EST-11311,Sede Norte,Turismo,Diurna,17,0,0,1,82.2,5.8,0,0,17,1,0
 EST-11441,Sede Centro,Contabilidad,Diurna,35,1,1,0,52.0,5.4,0,0,8,0,1
-EST-10190,Sede Sur,Informática,Diurna,29,1,0,1,97.8,5.6,0,0,8,0,1
+EST-10190,Sede Costa,Informática,Diurna,29,1,0,1,97.8,5.6,0,0,8,0,1
 EST-10155,Sede Centro,Turismo,Vespertina,22,1,1,0,85.4,3.2,1,0,8,0,0
 EST-10488,Sede Centro,Informática,Vespertina,31,1,1,0,88.5,5.0,0,1,8,2,1
-EST-10859,Sede Costa,Educación Parvularia,Vespertina,21,0,0,1,81.0,3.6,2,0,5,1,1
+EST-10859,Sede Cordillera,Educación Parvularia,Vespertina,21,0,0,1,81.0,3.6,2,0,5,1,1
 EST-10511,Sede Norte,Educación Parvularia,Diurna,33,1,1,0,71.8,4.6,0,0,9,1,0
 EST-11366,Sede Centro,Informática,Diurna,34,0,0,1,90.5,5.0,0,0,15,1,0
-EST-10389,Sede Costa,Informática,Vespertina,40,1,1,0,76.0,5.8,0,0,9,1,0
+EST-10389,Sede Cordillera,Informática,Vespertina,40,1,1,0,76.0,5.8,0,0,9,1,0
 EST-10638,Sede Centro,Informática,Diurna,17,0,0,0,70.6,3.7,1,0,6,0,0
-EST-10455,Sede Centro,Contabilidad,Diurna,22,1,0,0,80.8,5.1,0,0,9,1,0
+EST-10455,Sede Sur,Contabilidad,Diurna,22,1,0,0,80.8,5.1,0,0,9,1,0
 EST-10297,Sede Centro,Electricidad,Diurna,17,0,0,1,91.7,6.0,0,0,7,1,0
 EST-10107,Sede Norte,Informática,Diurna,18,1,1,1,72.5,4.8,0,0,13,0,0
 EST-10306,Sede Sur,Electricidad,Vespertina,41,0,1,0,67.4,4.8,0,0,8,0,1
-EST-10991,Sede Costa,Contabilidad,Vespertina,32,0,1,1,62.7,2.7,3,0,6,1,0
-EST-11055,Sede Costa,Informática,Diurna,23,1,0,0,94.0,5.1,0,0,14,1,0
-EST-10022,Sede Centro,Turismo,Vespertina,26,0,1,1,63.9,5.7,0,0,4,0,0
+EST-10991,Sede Cordillera,Contabilidad,Vespertina,32,0,1,1,62.7,2.7,3,0,6,1,0
+EST-11055,Sede Cordillera,Informática,Diurna,23,1,0,0,94.0,5.1,0,0,14,1,0
+EST-10022,Sede Sur,Turismo,Vespertina,26,0,1,1,63.9,5.7,0,0,4,0,0
 EST-10007,Sede Centro,Turismo,Diurna,19,1,0,1,61.5,3.4,2,0,4,0,1
 EST-10850,Sede Sur,Educación Parvularia,Vespertina,24,1,1,0,90.4,4.5,0,0,12,2,0
-EST-10804,Sede Costa,Electricidad,Vespertina,31,0,1,0,75.5,4.4,0,0,6,0,0
-EST-11291,Sede Costa,Contabilidad,Vespertina,24,1,1,1,88.0,5.2,0,0,9,0,0
-EST-11124,Sede Norte,Mecánica Automotriz,Diurna,22,1,0,0,87.0,4.5,0,0,10,0,0
-EST-10136,Sede Costa,Enfermería (TENS),Diurna,23,1,1,1,80.7,5.4,0,0,6,0,0
-EST-11005,Sede Sur,Contabilidad,Vespertina,28,0,0,0,98.3,4.9,0,0,5,1,0
+EST-10804,Sede Cordillera,Electricidad,Vespertina,31,0,1,0,75.5,4.4,0,0,6,0,0
+EST-11291,Sede Cordillera,Contabilidad,Vespertina,24,1,1,1,88.0,5.2,0,0,9,0,0
+EST-11124,Sede Centro,Mecánica Automotriz,Diurna,22,1,0,0,87.0,4.5,0,0,10,0,0
+EST-10136,Sede Cordillera,Enfermería (TENS),Diurna,23,1,1,1,80.7,5.4,0,0,6,0,0
+EST-11005,Sede Costa,Contabilidad,Vespertina,28,0,0,0,98.3,4.9,0,0,5,1,0
 EST-10612,Sede Costa,Educación Parvularia,Vespertina,29,1,0,1,74.8,4.3,0,0,5,0,0
 EST-11333,Sede Norte,Mecánica Automotriz,Vespertina,24,1,1,1,83.8,4.9,0,0,10,0,0
-EST-10287,Sede Costa,Administración,Vespertina,27,1,0,1,84.0,4.9,0,0,8,1,0
-EST-11260,Sede Sur,Administración,Diurna,27,1,1,1,91.4,5.2,0,0,9,0,0
+EST-10287,Sede Cordillera,Administración,Vespertina,27,1,0,1,84.0,4.9,0,0,8,1,0
+EST-11260,Sede Costa,Administración,Diurna,27,1,1,1,91.4,5.2,0,0,9,0,0
 EST-10712,Sede Norte,Administración,Diurna,22,0,0,1,89.7,5.3,0,0,7,1,0
 EST-10244,Sede Centro,Mecánica Automotriz,Vespertina,30,1,1,1,77.4,6.6,0,0,6,1,0
 EST-10618,Sede Norte,Contabilidad,Diurna,20,1,1,0,88.0,4.9,0,0,6,1,0
 EST-10764,Sede Sur,Enfermería (TENS),Diurna,23,1,0,1,87.6,4.4,1,0,6,0,0
-EST-10463,Sede Centro,Turismo,Diurna,27,0,0,1,91.9,6.5,0,0,8,0,0
-EST-10977,Sede Centro,Contabilidad,Diurna,17,0,0,1,61.3,3.4,0,0,5,0,1
-EST-10077,Sede Sur,Informática,Diurna,25,1,0,1,69.3,5.5,0,0,4,0,0
-EST-10445,Sede Sur,Enfermería (TENS),Vespertina,30,0,1,1,64.3,4.8,0,0,5,2,1
+EST-10463,Sede Sur,Turismo,Diurna,27,0,0,1,91.9,6.5,0,0,8,0,0
+EST-10977,Sede Sur,Contabilidad,Diurna,17,0,0,1,61.3,3.4,0,0,5,0,1
+EST-10077,Sede Costa,Informática,Diurna,25,1,0,1,69.3,5.5,0,0,4,0,0
+EST-10445,Sede Costa,Enfermería (TENS),Vespertina,30,0,1,1,64.3,4.8,0,0,5,2,1
 EST-10051,Sede Norte,Contabilidad,Vespertina,31,0,1,0,83.3,6.2,0,1,8,0,0
-EST-10742,Sede Sur,Educación Parvularia,Diurna,20,1,0,1,83.7,5.7,0,0,7,1,0
+EST-10742,Sede Costa,Educación Parvularia,Diurna,20,1,0,1,83.7,5.7,0,0,7,1,0
 EST-11090,Sede Centro,Contabilidad,Diurna,30,0,0,1,93.3,5.8,0,0,7,1,0
 EST-10143,Sede Norte,Electricidad,Vespertina,35,0,1,1,76.5,5.1,0,0,12,0,0
 EST-10677,Sede Centro,Contabilidad,Vespertina,24,1,1,1,48.3,3.5,2,0,7,0,1
 EST-11070,Sede Centro,Electricidad,Diurna,27,1,0,1,84.9,3.3,2,0,7,0,1
 EST-11411,Sede Costa,Mecánica Automotriz,Vespertina,27,0,1,1,45.4,3.5,1,0,3,2,1
-EST-10004,Sede Costa,Educación Parvularia,Vespertina,24,1,1,1,65.4,4.1,0,0,11,1,0
+EST-10004,Sede Cordillera,Educación Parvularia,Vespertina,24,1,1,1,65.4,4.1,0,0,11,1,0
 EST-10356,Sede Norte,Contabilidad,Diurna,26,1,1,1,79.7,5.8,0,0,7,2,0
 EST-10810,Sede Centro,Electricidad,Diurna,17,1,1,0,83.3,4.2,0,1,10,0,0
-EST-10972,Sede Sur,Mecánica Automotriz,Diurna,24,1,1,1,85.2,5.2,0,0,6,1,0
-EST-11322,Sede Centro,Educación Parvularia,Diurna,17,0,1,1,59.7,3.1,2,0,8,1,1
+EST-10972,Sede Costa,Mecánica Automotriz,Diurna,24,1,1,1,85.2,5.2,0,0,6,1,0
+EST-11322,Sede Sur,Educación Parvularia,Diurna,17,0,1,1,59.7,3.1,2,0,8,1,1
 EST-10881,Sede Costa,Turismo,Diurna,27,1,0,1,84.9,5.4,0,0,12,0,0
-EST-10138,Sede Centro,Turismo,Diurna,38,1,0,1,65.9,5.0,0,0,8,0,0
+EST-10138,Sede Sur,Turismo,Diurna,38,1,0,1,65.9,5.0,0,0,8,0,0
 EST-11126,Sede Norte,Mecánica Automotriz,Vespertina,27,0,1,0,85.1,4.5,2,2,8,1,0
 EST-11032,Sede Centro,Electricidad,Vespertina,25,1,1,1,89.3,5.7,0,0,6,0,0
 EST-11285,Sede Centro,Contabilidad,Vespertina,20,0,0,0,94.0,4.4,0,0,18,1,0
-EST-10238,Sede Costa,Administración,Diurna,18,0,1,1,73.0,4.7,0,0,5,0,0
+EST-10238,Sede Cordillera,Administración,Diurna,18,0,1,1,73.0,4.7,0,0,5,0,0
 EST-11149,Sede Centro,Contabilidad,Vespertina,36,1,1,1,69.1,4.1,2,0,7,0,1
 EST-11462,Sede Norte,Educación Parvularia,Diurna,24,1,1,1,78.9,4.8,0,0,12,2,0
-EST-10187,Sede Sur,Enfermería (TENS),Diurna,17,0,0,1,64.6,4.1,1,0,4,2,0
+EST-10187,Sede Costa,Enfermería (TENS),Diurna,17,0,0,1,64.6,4.1,1,0,4,2,0
 EST-11481,Sede Centro,Administración,Diurna,23,0,0,1,95.3,4.7,0,0,19,0,0
 EST-10047,Sede Centro,Informática,Diurna,22,0,0,1,79.1,5.6,0,0,9,0,0
-EST-10314,Sede Costa,Administración,Vespertina,33,0,1,0,77.5,5.2,0,1,6,1,0
+EST-10314,Sede Cordillera,Administración,Vespertina,33,0,1,0,77.5,5.2,0,1,6,1,0
 EST-10995,Sede Sur,Contabilidad,Diurna,21,0,0,0,88.3,5.8,0,1,5,0,0
 EST-10065,Sede Sur,Enfermería (TENS),Diurna,26,0,0,0,77.9,4.5,3,1,5,0,0
-EST-11310,Sede Costa,Administración,Diurna,23,0,0,1,92.6,5.1,0,0,8,1,0
+EST-11310,Sede Cordillera,Administración,Diurna,23,0,0,1,92.6,5.1,0,0,8,1,0
 EST-10330,Sede Sur,Administración,Vespertina,22,1,1,0,87.3,4.1,0,0,10,2,0
-EST-11252,Sede Costa,Educación Parvularia,Diurna,18,1,0,1,72.0,4.0,1,0,8,3,0
-EST-10557,Sede Centro,Mecánica Automotriz,Vespertina,36,1,1,1,87.1,5.8,0,0,7,0,1
-EST-10750,Sede Centro,Mecánica Automotriz,Vespertina,32,1,1,1,89.3,4.5,1,0,8,1,1
-EST-10883,Sede Norte,Electricidad,Diurna,25,1,0,1,91.9,3.8,2,0,9,0,0
+EST-11252,Sede Cordillera,Educación Parvularia,Diurna,18,1,0,1,72.0,4.0,1,0,8,3,0
+EST-10557,Sede Sur,Mecánica Automotriz,Vespertina,36,1,1,1,87.1,5.8,0,0,7,0,1
+EST-10750,Sede Sur,Mecánica Automotriz,Vespertina,32,1,1,1,89.3,4.5,1,0,8,1,1
+EST-10883,Sede Centro,Electricidad,Diurna,25,1,0,1,91.9,3.8,2,0,9,0,0
 EST-11295,Sede Norte,Electricidad,Vespertina,31,1,1,1,87.4,4.4,0,0,6,0,0
 EST-10375,Sede Centro,Turismo,Diurna,17,1,0,1,71.3,4.0,1,0,3,1,1
 EST-10600,Sede Norte,Informática,Vespertina,25,1,1,1,80.3,4.0,1,0,8,0,1
@@ -582,170 +582,170 @@ EST-11008,Sede Sur,Contabilidad,Diurna,28,1,1,1,80.8,5.0,0,0,7,0,0
 EST-10925,Sede Sur,Informática,Diurna,30,1,0,1,88.7,4.4,0,0,9,1,1
 EST-10592,Sede Norte,Mecánica Automotriz,Diurna,26,1,1,1,66.6,4.7,2,0,9,0,1
 EST-10895,Sede Norte,Mecánica Automotriz,Vespertina,35,0,0,1,80.9,5.1,0,0,8,0,0
-EST-11141,Sede Centro,Informática,Diurna,21,1,0,1,85.6,6.5,0,0,6,0,0
+EST-11141,Sede Sur,Informática,Diurna,21,1,0,1,85.6,6.5,0,0,6,0,0
 EST-10349,Sede Centro,Mecánica Automotriz,Vespertina,39,1,0,1,59.6,3.8,1,0,6,0,1
-EST-10020,Sede Centro,Enfermería (TENS),Diurna,18,1,1,0,83.8,5.3,0,0,16,0,0
+EST-10020,Sede Sur,Enfermería (TENS),Diurna,18,1,1,0,83.8,5.3,0,0,16,0,0
 EST-11383,Sede Norte,Educación Parvularia,Vespertina,28,1,1,1,80.8,5.1,0,0,7,0,0
 EST-10221,Sede Costa,Educación Parvularia,Diurna,23,0,1,0,72.2,4.7,0,1,5,0,1
-EST-10696,Sede Norte,Mecánica Automotriz,Diurna,32,1,0,1,74.4,6.0,0,0,12,1,0
+EST-10696,Sede Centro,Mecánica Automotriz,Diurna,32,1,0,1,74.4,6.0,0,0,12,1,0
 EST-10368,Sede Centro,Turismo,Vespertina,25,0,1,1,48.2,3.7,0,0,10,1,1
 EST-10822,Sede Centro,Enfermería (TENS),Vespertina,31,1,0,1,79.2,5.1,0,0,11,1,0
-EST-10578,Sede Centro,Educación Parvularia,Diurna,20,1,1,0,85.9,5.0,0,1,4,0,0
-EST-10741,Sede Costa,Informática,Diurna,31,1,0,1,90.3,6.1,0,0,9,0,0
+EST-10578,Sede Sur,Educación Parvularia,Diurna,20,1,1,0,85.9,5.0,0,1,4,0,0
+EST-10741,Sede Cordillera,Informática,Diurna,31,1,0,1,90.3,6.1,0,0,9,0,0
 EST-11397,Sede Norte,Turismo,Diurna,30,1,1,1,92.1,5.3,0,0,9,0,0
 EST-10436,Sede Norte,Turismo,Vespertina,36,0,1,0,60.0,3.1,0,0,4,0,1
 EST-10534,Sede Norte,Mecánica Automotriz,Diurna,23,1,1,1,52.5,4.7,0,0,6,1,0
-EST-10692,Sede Sur,Turismo,Vespertina,37,0,1,1,83.8,5.0,0,0,10,1,0
+EST-10692,Sede Costa,Turismo,Vespertina,37,0,1,1,83.8,5.0,0,0,10,1,0
 EST-10722,Sede Centro,Enfermería (TENS),Vespertina,35,1,0,0,82.8,4.9,0,0,6,1,0
-EST-10235,Sede Costa,Enfermería (TENS),Vespertina,33,0,1,1,85.2,4.2,0,0,11,0,0
+EST-10235,Sede Cordillera,Enfermería (TENS),Vespertina,33,0,1,1,85.2,4.2,0,0,11,0,0
 EST-10269,Sede Norte,Educación Parvularia,Diurna,29,1,1,1,73.6,5.6,0,0,6,2,0
 EST-11089,Sede Centro,Electricidad,Diurna,25,0,0,1,79.2,5.3,0,0,7,1,0
-EST-11239,Sede Sur,Electricidad,Diurna,31,0,0,1,61.8,3.2,1,0,9,0,1
+EST-11239,Sede Costa,Electricidad,Diurna,31,0,0,1,61.8,3.2,1,0,9,0,1
 EST-10945,Sede Centro,Electricidad,Diurna,17,1,0,0,77.8,5.4,0,1,12,2,0
 EST-11488,Sede Centro,Contabilidad,Diurna,22,0,0,0,92.6,5.8,0,0,14,0,0
-EST-11076,Sede Sur,Contabilidad,Vespertina,21,0,1,1,87.2,5.7,0,0,8,0,0
+EST-11076,Sede Costa,Contabilidad,Vespertina,21,0,1,1,87.2,5.7,0,0,8,0,0
 EST-10341,Sede Centro,Turismo,Diurna,31,0,0,1,77.6,4.4,1,0,11,0,0
-EST-11496,Sede Costa,Mecánica Automotriz,Diurna,23,1,0,0,61.9,3.9,2,1,2,0,1
+EST-11496,Sede Cordillera,Mecánica Automotriz,Diurna,23,1,0,0,61.9,3.9,2,1,2,0,1
 EST-10015,Sede Norte,Turismo,Vespertina,35,0,1,1,76.6,5.7,0,0,6,0,0
-EST-10575,Sede Centro,Administración,Diurna,25,0,1,1,70.6,4.3,1,0,7,3,0
-EST-10090,Sede Centro,Enfermería (TENS),Vespertina,35,1,1,0,80.7,5.0,0,1,3,0,0
-EST-10340,Sede Costa,Electricidad,Diurna,29,1,1,1,80.0,2.9,1,0,7,0,1
+EST-10575,Sede Sur,Administración,Diurna,25,0,1,1,70.6,4.3,1,0,7,3,0
+EST-10090,Sede Sur,Enfermería (TENS),Vespertina,35,1,1,0,80.7,5.0,0,1,3,0,0
+EST-10340,Sede Cordillera,Electricidad,Diurna,29,1,1,1,80.0,2.9,1,0,7,0,1
 EST-11317,Sede Norte,Informática,Diurna,25,1,1,1,56.5,3.9,0,0,6,0,1
-EST-10573,Sede Sur,Educación Parvularia,Diurna,28,0,1,0,48.7,4.3,2,0,6,1,1
+EST-10573,Sede Costa,Educación Parvularia,Diurna,28,0,1,0,48.7,4.3,2,0,6,1,1
 EST-10917,Sede Sur,Informática,Vespertina,31,1,1,1,64.8,4.7,0,0,4,1,1
 EST-11115,Sede Costa,Educación Parvularia,Vespertina,28,1,1,1,62.5,3.3,1,0,10,1,1
-EST-11259,Sede Centro,Mecánica Automotriz,Diurna,28,1,0,0,69.4,5.5,0,1,9,0,0
+EST-11259,Sede Sur,Mecánica Automotriz,Diurna,28,1,0,0,69.4,5.5,0,1,9,0,0
 EST-10857,Sede Centro,Educación Parvularia,Vespertina,40,1,1,1,51.7,4.0,1,0,7,0,1
-EST-11203,Sede Sur,Enfermería (TENS),Diurna,30,1,0,1,84.7,4.2,1,0,8,2,0
-EST-10625,Sede Norte,Electricidad,Diurna,20,1,1,1,82.2,5.1,1,0,8,1,0
+EST-11203,Sede Costa,Enfermería (TENS),Diurna,30,1,0,1,84.7,4.2,1,0,8,2,0
+EST-10625,Sede Centro,Electricidad,Diurna,20,1,1,1,82.2,5.1,1,0,8,1,0
 EST-11469,Sede Norte,Contabilidad,Diurna,30,1,1,1,81.3,5.6,0,0,11,0,0
-EST-11330,Sede Sur,Enfermería (TENS),Diurna,20,1,0,1,84.6,4.6,0,0,7,0,0
-EST-11382,Sede Sur,Turismo,Diurna,17,0,0,0,76.7,3.6,1,0,12,0,0
-EST-10046,Sede Sur,Administración,Diurna,19,0,1,1,77.3,5.1,0,0,7,0,0
+EST-11330,Sede Costa,Enfermería (TENS),Diurna,20,1,0,1,84.6,4.6,0,0,7,0,0
+EST-11382,Sede Costa,Turismo,Diurna,17,0,0,0,76.7,3.6,1,0,12,0,0
+EST-10046,Sede Costa,Administración,Diurna,19,0,1,1,77.3,5.1,0,0,7,0,0
 EST-10749,Sede Centro,Electricidad,Vespertina,32,1,1,1,74.4,5.1,0,0,9,1,0
-EST-10591,Sede Sur,Contabilidad,Diurna,17,1,1,0,72.5,5.1,0,2,5,1,0
+EST-10591,Sede Costa,Contabilidad,Diurna,17,1,1,0,72.5,5.1,0,2,5,1,0
 EST-11226,Sede Sur,Turismo,Diurna,26,0,0,0,95.9,5.8,0,0,13,0,0
-EST-10151,Sede Norte,Informática,Diurna,31,1,0,1,80.7,6.1,0,0,7,0,0
-EST-11464,Sede Sur,Electricidad,Vespertina,26,0,1,0,76.0,3.6,1,0,4,0,1
-EST-10546,Sede Costa,Turismo,Diurna,27,0,0,0,83.3,5.3,0,1,5,0,0
+EST-10151,Sede Centro,Informática,Diurna,31,1,0,1,80.7,6.1,0,0,7,0,0
+EST-11464,Sede Costa,Electricidad,Vespertina,26,0,1,0,76.0,3.6,1,0,4,0,1
+EST-10546,Sede Cordillera,Turismo,Diurna,27,0,0,0,83.3,5.3,0,1,5,0,0
 EST-11013,Sede Centro,Enfermería (TENS),Diurna,23,1,0,1,92.0,6.1,0,0,8,0,0
-EST-11211,Sede Norte,Electricidad,Diurna,17,0,0,0,65.3,5.9,0,0,4,0,0
-EST-10422,Sede Centro,Educación Parvularia,Vespertina,32,1,1,0,82.5,4.5,0,1,6,1,0
+EST-11211,Sede Centro,Electricidad,Diurna,17,0,0,0,65.3,5.9,0,0,4,0,0
+EST-10422,Sede Sur,Educación Parvularia,Vespertina,32,1,1,0,82.5,4.5,0,1,6,1,0
 EST-10299,Sede Costa,Electricidad,Diurna,20,1,0,0,75.5,3.6,2,1,10,0,1
-EST-10189,Sede Centro,Contabilidad,Diurna,26,1,0,0,86.9,5.3,0,1,4,3,0
-EST-10861,Sede Costa,Informática,Vespertina,23,0,0,0,68.5,4.1,2,0,5,0,0
-EST-11446,Sede Costa,Turismo,Diurna,25,1,1,1,93.8,5.6,0,0,7,1,0
+EST-10189,Sede Sur,Contabilidad,Diurna,26,1,0,0,86.9,5.3,0,1,4,3,0
+EST-10861,Sede Cordillera,Informática,Vespertina,23,0,0,0,68.5,4.1,2,0,5,0,0
+EST-11446,Sede Cordillera,Turismo,Diurna,25,1,1,1,93.8,5.6,0,0,7,1,0
 EST-11427,Sede Sur,Administración,Vespertina,33,1,0,1,89.2,6.4,0,0,13,1,0
 EST-10933,Sede Sur,Informática,Vespertina,39,0,1,1,85.4,4.7,1,0,8,1,0
 EST-10892,Sede Norte,Enfermería (TENS),Diurna,26,0,0,1,88.8,4.7,0,0,8,0,0
 EST-11470,Sede Centro,Informática,Diurna,17,0,0,1,76.7,3.7,2,0,10,1,0
-EST-10142,Sede Sur,Administración,Diurna,25,1,0,0,71.0,4.3,0,0,5,0,0
+EST-10142,Sede Costa,Administración,Diurna,25,1,0,0,71.0,4.3,0,0,5,0,0
 EST-11329,Sede Centro,Electricidad,Diurna,17,1,0,0,80.1,5.6,0,1,4,1,0
 EST-10830,Sede Norte,Administración,Vespertina,24,1,1,1,70.0,3.8,1,0,5,1,1
 EST-10307,Sede Norte,Enfermería (TENS),Vespertina,30,0,0,0,75.9,4.9,0,1,13,1,0
 EST-10762,Sede Norte,Informática,Diurna,28,0,1,1,59.3,4.6,0,0,5,0,1
-EST-10416,Sede Centro,Informática,Vespertina,33,1,1,0,81.0,4.2,0,2,10,1,0
-EST-10516,Sede Costa,Contabilidad,Diurna,32,1,0,1,60.0,5.7,0,0,7,0,0
+EST-10416,Sede Sur,Informática,Vespertina,33,1,1,0,81.0,4.2,0,2,10,1,0
+EST-10516,Sede Cordillera,Contabilidad,Diurna,32,1,0,1,60.0,5.7,0,0,7,0,0
 EST-11225,Sede Centro,Enfermería (TENS),Vespertina,32,1,1,0,34.6,2.6,1,0,7,0,1
-EST-10867,Sede Sur,Electricidad,Diurna,28,1,1,1,80.3,5.0,0,0,9,0,1
+EST-10867,Sede Costa,Electricidad,Diurna,28,1,1,1,80.3,5.0,0,0,9,0,1
 EST-10388,Sede Norte,Administración,Diurna,17,1,0,1,80.1,5.0,0,0,8,1,0
-EST-11105,Sede Sur,Educación Parvularia,Vespertina,25,0,0,1,93.9,5.6,0,0,6,1,0
-EST-10622,Sede Costa,Mecánica Automotriz,Diurna,25,1,0,1,66.7,5.6,0,0,4,1,0
+EST-11105,Sede Costa,Educación Parvularia,Vespertina,25,0,0,1,93.9,5.6,0,0,6,1,0
+EST-10622,Sede Cordillera,Mecánica Automotriz,Diurna,25,1,0,1,66.7,5.6,0,0,4,1,0
 EST-10376,Sede Centro,Educación Parvularia,Vespertina,19,1,0,1,60.7,6.9,0,0,3,0,0
 EST-10144,Sede Centro,Mecánica Automotriz,Diurna,17,1,0,1,75.5,5.6,0,0,6,0,0
-EST-11123,Sede Costa,Turismo,Vespertina,19,0,1,1,65.5,4.3,1,0,4,1,0
+EST-11123,Sede Cordillera,Turismo,Vespertina,19,0,1,1,65.5,4.3,1,0,4,1,0
 EST-10944,Sede Norte,Enfermería (TENS),Diurna,20,0,0,0,53.2,3.6,1,1,2,1,1
-EST-10125,Sede Costa,Administración,Diurna,25,0,1,1,69.0,5.7,0,0,4,0,0
-EST-11172,Sede Costa,Enfermería (TENS),Diurna,32,0,0,1,88.0,5.8,0,0,10,1,0
-EST-10498,Sede Costa,Educación Parvularia,Vespertina,31,0,1,1,88.6,4.1,0,0,6,2,0
-EST-10112,Sede Costa,Administración,Diurna,22,1,0,1,38.8,2.3,4,0,5,0,1
+EST-10125,Sede Cordillera,Administración,Diurna,25,0,1,1,69.0,5.7,0,0,4,0,0
+EST-11172,Sede Cordillera,Enfermería (TENS),Diurna,32,0,0,1,88.0,5.8,0,0,10,1,0
+EST-10498,Sede Cordillera,Educación Parvularia,Vespertina,31,0,1,1,88.6,4.1,0,0,6,2,0
+EST-10112,Sede Cordillera,Administración,Diurna,22,1,0,1,38.8,2.3,4,0,5,0,1
 EST-10073,Sede Centro,Mecánica Automotriz,Diurna,18,0,1,0,50.9,4.0,0,1,7,1,1
 EST-10250,Sede Sur,Enfermería (TENS),Vespertina,34,0,1,0,85.7,3.8,1,2,7,0,0
 EST-11325,Sede Centro,Electricidad,Vespertina,33,0,0,1,89.1,6.8,0,0,6,0,0
 EST-10261,Sede Centro,Electricidad,Diurna,29,0,0,1,71.8,7.0,1,0,5,0,0
-EST-10242,Sede Costa,Administración,Diurna,18,0,0,1,79.0,5.3,0,0,8,0,0
+EST-10242,Sede Cordillera,Administración,Diurna,18,0,0,1,79.0,5.3,0,0,8,0,0
 EST-11448,Sede Norte,Informática,Diurna,17,1,0,1,71.9,5.3,0,0,6,2,0
-EST-10447,Sede Norte,Informática,Vespertina,33,1,1,1,92.5,5.6,0,0,10,0,0
-EST-11224,Sede Costa,Contabilidad,Vespertina,31,0,0,1,82.5,5.7,0,0,4,1,0
-EST-11412,Sede Costa,Administración,Diurna,32,0,0,1,77.7,3.5,0,0,7,0,1
-EST-10430,Sede Norte,Contabilidad,Diurna,20,1,0,1,86.4,6.0,0,0,9,2,0
-EST-10213,Sede Costa,Contabilidad,Diurna,23,1,0,1,67.7,5.3,0,0,5,0,0
-EST-10479,Sede Sur,Informática,Diurna,21,1,0,1,98.6,5.0,0,0,3,1,0
-EST-10334,Sede Sur,Informática,Vespertina,37,1,1,1,91.1,6.1,0,0,8,0,0
-EST-11210,Sede Centro,Informática,Vespertina,25,0,1,1,70.9,4.9,0,0,13,0,0
+EST-10447,Sede Centro,Informática,Vespertina,33,1,1,1,92.5,5.6,0,0,10,0,0
+EST-11224,Sede Cordillera,Contabilidad,Vespertina,31,0,0,1,82.5,5.7,0,0,4,1,0
+EST-11412,Sede Cordillera,Administración,Diurna,32,0,0,1,77.7,3.5,0,0,7,0,1
+EST-10430,Sede Centro,Contabilidad,Diurna,20,1,0,1,86.4,6.0,0,0,9,2,0
+EST-10213,Sede Cordillera,Contabilidad,Diurna,23,1,0,1,67.7,5.3,0,0,5,0,0
+EST-10479,Sede Costa,Informática,Diurna,21,1,0,1,98.6,5.0,0,0,3,1,0
+EST-10334,Sede Costa,Informática,Vespertina,37,1,1,1,91.1,6.1,0,0,8,0,0
+EST-11210,Sede Sur,Informática,Vespertina,25,0,1,1,70.9,4.9,0,0,13,0,0
 EST-10365,Sede Centro,Turismo,Diurna,29,1,1,1,62.9,4.5,0,0,2,0,1
 EST-10322,Sede Norte,Informática,Vespertina,28,0,1,1,47.3,4.3,0,0,5,0,1
 EST-10535,Sede Centro,Contabilidad,Vespertina,30,0,1,1,78.5,4.9,0,0,4,0,0
 EST-11499,Sede Centro,Mecánica Automotriz,Diurna,32,1,0,1,77.9,4.1,1,0,2,1,0
 EST-11485,Sede Norte,Turismo,Diurna,27,0,0,1,73.0,4.5,0,0,6,1,1
 EST-10527,Sede Norte,Enfermería (TENS),Diurna,36,0,0,1,92.1,5.2,0,0,7,0,0
-EST-11400,Sede Norte,Administración,Vespertina,30,0,1,1,81.5,4.0,2,0,6,1,1
+EST-11400,Sede Centro,Administración,Vespertina,30,0,1,1,81.5,4.0,2,0,6,1,1
 EST-10890,Sede Centro,Informática,Diurna,17,0,0,1,93.9,4.5,0,0,8,0,0
-EST-10357,Sede Sur,Electricidad,Vespertina,29,1,1,0,65.1,5.2,0,0,6,2,0
-EST-10617,Sede Centro,Enfermería (TENS),Diurna,23,0,1,1,84.3,5.3,0,0,7,0,0
+EST-10357,Sede Costa,Electricidad,Vespertina,29,1,1,0,65.1,5.2,0,0,6,2,0
+EST-10617,Sede Sur,Enfermería (TENS),Diurna,23,0,1,1,84.3,5.3,0,0,7,0,0
 EST-11200,Sede Centro,Mecánica Automotriz,Diurna,19,0,0,1,82.6,4.8,1,0,10,0,0
-EST-11068,Sede Sur,Mecánica Automotriz,Vespertina,30,0,0,1,74.0,4.3,1,0,8,0,1
-EST-10327,Sede Sur,Administración,Vespertina,26,1,0,1,91.2,7.0,0,0,11,0,0
+EST-11068,Sede Costa,Mecánica Automotriz,Vespertina,30,0,0,1,74.0,4.3,1,0,8,0,1
+EST-10327,Sede Costa,Administración,Vespertina,26,1,0,1,91.2,7.0,0,0,11,0,0
 EST-10053,Sede Centro,Administración,Diurna,27,0,1,1,23.3,4.1,1,0,1,0,1
-EST-10952,Sede Centro,Electricidad,Diurna,26,0,0,1,73.8,6.4,0,0,4,1,0
-EST-10851,Sede Costa,Electricidad,Vespertina,34,1,1,1,72.0,4.7,1,0,13,2,1
+EST-10952,Sede Sur,Electricidad,Diurna,26,0,0,1,73.8,6.4,0,0,4,1,0
+EST-10851,Sede Cordillera,Electricidad,Vespertina,34,1,1,1,72.0,4.7,1,0,13,2,1
 EST-10772,Sede Norte,Enfermería (TENS),Vespertina,32,1,1,1,71.2,4.7,0,0,12,0,1
-EST-10891,Sede Centro,Educación Parvularia,Vespertina,33,1,1,1,64.8,4.7,0,0,6,1,0
-EST-10613,Sede Sur,Electricidad,Vespertina,21,1,0,1,97.9,5.1,0,0,11,0,0
+EST-10891,Sede Sur,Educación Parvularia,Vespertina,33,1,1,1,64.8,4.7,0,0,6,1,0
+EST-10613,Sede Costa,Electricidad,Vespertina,21,1,0,1,97.9,5.1,0,0,11,0,0
 EST-10733,Sede Centro,Enfermería (TENS),Diurna,23,1,0,0,84.8,5.3,0,1,4,0,0
-EST-11402,Sede Sur,Contabilidad,Diurna,17,0,1,1,59.2,4.0,1,0,9,0,1
-EST-10554,Sede Sur,Administración,Diurna,28,1,0,1,82.8,4.3,0,0,7,0,0
-EST-10130,Sede Sur,Enfermería (TENS),Diurna,24,0,0,1,85.1,4.6,0,0,11,0,0
+EST-11402,Sede Costa,Contabilidad,Diurna,17,0,1,1,59.2,4.0,1,0,9,0,1
+EST-10554,Sede Costa,Administración,Diurna,28,1,0,1,82.8,4.3,0,0,7,0,0
+EST-10130,Sede Costa,Enfermería (TENS),Diurna,24,0,0,1,85.1,4.6,0,0,11,0,0
 EST-10267,Sede Centro,Electricidad,Diurna,26,1,0,1,75.7,4.5,0,0,11,0,0
 EST-10723,Sede Sur,Electricidad,Vespertina,27,0,1,0,61.2,4.0,0,0,1,1,1
 EST-10468,Sede Sur,Electricidad,Vespertina,29,1,1,1,79.8,4.8,0,0,13,1,1
 EST-11288,Sede Centro,Enfermería (TENS),Vespertina,21,1,1,0,75.9,5.8,0,0,7,2,0
 EST-11106,Sede Norte,Educación Parvularia,Diurna,26,0,0,1,94.5,5.9,0,0,11,0,0
-EST-10343,Sede Costa,Administración,Vespertina,38,1,1,1,89.0,6.0,0,0,8,0,0
+EST-10343,Sede Cordillera,Administración,Vespertina,38,1,1,1,89.0,6.0,0,0,8,0,0
 EST-10636,Sede Centro,Contabilidad,Diurna,26,0,0,1,71.9,4.3,1,0,6,0,0
-EST-11362,Sede Norte,Informática,Vespertina,26,0,0,1,90.8,6.0,0,0,4,0,0
-EST-11130,Sede Norte,Mecánica Automotriz,Diurna,32,0,1,1,87.8,6.7,0,0,12,1,0
+EST-11362,Sede Centro,Informática,Vespertina,26,0,0,1,90.8,6.0,0,0,4,0,0
+EST-11130,Sede Centro,Mecánica Automotriz,Diurna,32,0,1,1,87.8,6.7,0,0,12,1,0
 EST-10462,Sede Centro,Electricidad,Diurna,26,0,1,1,65.6,4.7,1,0,11,1,0
-EST-10304,Sede Centro,Informática,Diurna,26,0,1,0,80.9,6.1,0,1,9,2,0
+EST-10304,Sede Sur,Informática,Diurna,26,0,1,0,80.9,6.1,0,1,9,2,0
 EST-10808,Sede Centro,Contabilidad,Diurna,36,1,0,1,95.7,5.5,0,0,14,1,0
 EST-10074,Sede Centro,Administración,Vespertina,34,1,0,1,98.8,4.4,0,0,7,3,0
 EST-11066,Sede Norte,Turismo,Vespertina,27,1,1,1,71.8,5.3,0,0,13,1,0
-EST-11326,Sede Costa,Electricidad,Diurna,19,0,0,1,83.4,5.1,0,0,8,0,0
+EST-11326,Sede Cordillera,Electricidad,Diurna,19,0,0,1,83.4,5.1,0,0,8,0,0
 EST-10149,Sede Norte,Contabilidad,Diurna,31,1,1,1,86.1,5.1,0,0,5,0,0
-EST-10275,Sede Costa,Mecánica Automotriz,Vespertina,22,0,1,1,80.8,4.9,1,0,7,1,0
+EST-10275,Sede Cordillera,Mecánica Automotriz,Vespertina,22,0,1,1,80.8,4.9,1,0,7,1,0
 EST-10148,Sede Norte,Turismo,Vespertina,26,0,1,0,60.2,3.8,0,1,4,0,0
 EST-11153,Sede Centro,Educación Parvularia,Vespertina,27,0,0,0,83.6,4.8,0,2,7,0,0
-EST-10695,Sede Sur,Mecánica Automotriz,Vespertina,35,1,1,1,69.4,4.6,0,0,4,0,1
+EST-10695,Sede Costa,Mecánica Automotriz,Vespertina,35,1,1,1,69.4,4.6,0,0,4,0,1
 EST-10041,Sede Sur,Enfermería (TENS),Vespertina,25,0,1,0,70.6,6.2,0,0,4,0,0
 EST-11379,Sede Sur,Contabilidad,Vespertina,32,0,0,1,95.2,3.8,0,0,5,0,0
 EST-10093,Sede Norte,Informática,Diurna,17,1,0,1,80.8,4.3,1,0,6,0,0
 EST-11384,Sede Costa,Enfermería (TENS),Vespertina,24,0,1,1,78.5,5.3,0,0,5,0,0
-EST-10454,Sede Centro,Enfermería (TENS),Diurna,24,1,0,1,77.8,5.6,0,0,8,1,0
-EST-11419,Sede Costa,Electricidad,Diurna,24,1,0,0,88.4,6.0,1,0,4,1,0
-EST-10150,Sede Costa,Informática,Vespertina,26,1,1,0,77.1,4.9,0,1,6,1,0
-EST-10277,Sede Sur,Mecánica Automotriz,Vespertina,31,1,1,0,80.2,5.0,0,1,10,0,0
-EST-10747,Sede Sur,Informática,Vespertina,28,0,0,1,81.5,3.5,0,0,5,0,0
-EST-11006,Sede Costa,Administración,Diurna,32,1,1,1,78.7,4.1,1,0,8,0,0
+EST-10454,Sede Sur,Enfermería (TENS),Diurna,24,1,0,1,77.8,5.6,0,0,8,1,0
+EST-11419,Sede Cordillera,Electricidad,Diurna,24,1,0,0,88.4,6.0,1,0,4,1,0
+EST-10150,Sede Cordillera,Informática,Vespertina,26,1,1,0,77.1,4.9,0,1,6,1,0
+EST-10277,Sede Costa,Mecánica Automotriz,Vespertina,31,1,1,0,80.2,5.0,0,1,10,0,0
+EST-10747,Sede Costa,Informática,Vespertina,28,0,0,1,81.5,3.5,0,0,5,0,0
+EST-11006,Sede Cordillera,Administración,Diurna,32,1,1,1,78.7,4.1,1,0,8,0,0
 EST-11391,Sede Sur,Administración,Diurna,21,1,0,0,82.5,6.0,0,0,7,0,0
-EST-10471,Sede Centro,Enfermería (TENS),Vespertina,30,1,1,0,81.2,5.1,0,0,8,0,0
+EST-10471,Sede Sur,Enfermería (TENS),Vespertina,30,1,1,0,81.2,5.1,0,0,8,0,0
 EST-10889,Sede Centro,Turismo,Vespertina,25,0,1,1,67.0,4.9,0,0,3,2,1
 EST-11484,Sede Centro,Educación Parvularia,Diurna,33,1,0,1,63.4,4.9,0,0,5,0,0
-EST-10685,Sede Centro,Educación Parvularia,Vespertina,39,1,1,1,87.2,6.1,0,0,10,0,0
-EST-10654,Sede Centro,Turismo,Diurna,17,1,0,1,79.2,5.0,0,0,5,0,0
+EST-10685,Sede Sur,Educación Parvularia,Vespertina,39,1,1,1,87.2,6.1,0,0,10,0,0
+EST-10654,Sede Sur,Turismo,Diurna,17,1,0,1,79.2,5.0,0,0,5,0,0
 EST-11283,Sede Norte,Educación Parvularia,Diurna,17,1,0,0,87.1,4.4,0,0,10,1,0
 EST-10699,Sede Norte,Educación Parvularia,Diurna,29,0,0,1,95.6,5.6,0,0,12,0,0
 EST-10922,Sede Centro,Informática,Diurna,30,0,1,1,85.7,4.6,1,0,10,0,0
-EST-10251,Sede Norte,Contabilidad,Diurna,27,0,0,1,83.6,4.2,0,0,8,0,0
+EST-10251,Sede Centro,Contabilidad,Diurna,27,0,0,1,83.6,4.2,0,0,8,0,0
 EST-10953,Sede Sur,Informática,Diurna,17,0,0,1,97.4,6.0,0,0,11,0,0
-EST-11418,Sede Costa,Enfermería (TENS),Vespertina,28,0,1,0,78.3,4.1,0,2,6,1,0
-EST-10069,Sede Norte,Electricidad,Diurna,20,1,1,0,94.2,4.6,0,1,5,1,0
-EST-10133,Sede Sur,Mecánica Automotriz,Diurna,22,0,0,1,94.6,5.5,0,0,11,0,0
+EST-11418,Sede Cordillera,Enfermería (TENS),Vespertina,28,0,1,0,78.3,4.1,0,2,6,1,0
+EST-10069,Sede Centro,Electricidad,Diurna,20,1,1,0,94.2,4.6,0,1,5,1,0
+EST-10133,Sede Costa,Mecánica Automotriz,Diurna,22,0,0,1,94.6,5.5,0,0,11,0,0
 EST-11449,Sede Centro,Turismo,Diurna,23,0,0,1,62.1,5.4,0,0,5,0,0
 EST-11223,Sede Sur,Enfermería (TENS),Vespertina,20,1,0,1,45.0,4.9,0,0,5,2,1
 EST-10059,Sede Norte,Educación Parvularia,Vespertina,24,0,1,1,78.2,4.1,2,0,5,0,1
-EST-10550,Sede Centro,Contabilidad,Diurna,21,0,1,1,78.5,5.1,0,0,6,3,0
+EST-10550,Sede Sur,Contabilidad,Diurna,21,0,1,1,78.5,5.1,0,0,6,3,0
 EST-11164,Sede Centro,Administración,Vespertina,22,0,0,1,72.1,5.1,0,0,10,3,0
-EST-11000,Sede Sur,Electricidad,Vespertina,39,1,1,0,83.9,4.9,0,0,9,1,0
+EST-11000,Sede Costa,Electricidad,Vespertina,39,1,1,0,83.9,4.9,0,0,9,1,0
 EST-10519,Sede Norte,Educación Parvularia,Vespertina,36,0,1,1,86.6,4.7,0,0,9,0,0
 EST-10234,Sede Centro,Educación Parvularia,Diurna,19,1,0,1,91.2,3.9,2,0,10,0,0
 EST-11114,Sede Costa,Informática,Vespertina,28,1,1,1,73.2,6.4,0,0,10,0,0
@@ -755,81 +755,81 @@ EST-10317,Sede Costa,Administración,Diurna,27,0,0,1,54.9,3.0,0,0,3,0,1
 EST-11279,Sede Norte,Enfermería (TENS),Diurna,17,0,0,0,72.2,4.2,0,0,6,2,0
 EST-10724,Sede Norte,Turismo,Diurna,30,1,1,0,77.2,6.7,0,0,11,1,0
 EST-10494,Sede Norte,Turismo,Diurna,28,0,1,1,82.0,4.1,2,0,8,0,0
-EST-11129,Sede Sur,Turismo,Vespertina,26,1,1,0,84.1,5.6,0,1,10,1,0
-EST-11298,Sede Sur,Informática,Diurna,36,1,0,0,57.6,4.1,1,1,7,0,1
-EST-10899,Sede Costa,Mecánica Automotriz,Diurna,29,0,1,1,79.5,5.0,0,0,9,1,0
-EST-10411,Sede Sur,Electricidad,Diurna,22,0,0,0,70.9,4.5,0,3,2,1,0
-EST-10608,Sede Costa,Mecánica Automotriz,Diurna,23,1,0,1,75.4,4.5,2,0,3,1,1
-EST-11146,Sede Costa,Informática,Diurna,31,0,0,0,82.4,4.2,0,1,10,0,0
+EST-11129,Sede Costa,Turismo,Vespertina,26,1,1,0,84.1,5.6,0,1,10,1,0
+EST-11298,Sede Costa,Informática,Diurna,36,1,0,0,57.6,4.1,1,1,7,0,1
+EST-10899,Sede Cordillera,Mecánica Automotriz,Diurna,29,0,1,1,79.5,5.0,0,0,9,1,0
+EST-10411,Sede Costa,Electricidad,Diurna,22,0,0,0,70.9,4.5,0,3,2,1,0
+EST-10608,Sede Cordillera,Mecánica Automotriz,Diurna,23,1,0,1,75.4,4.5,2,0,3,1,1
+EST-11146,Sede Cordillera,Informática,Diurna,31,0,0,0,82.4,4.2,0,1,10,0,0
 EST-11212,Sede Centro,Informática,Diurna,19,0,1,1,94.2,4.7,0,0,15,2,0
-EST-10035,Sede Centro,Administración,Diurna,18,1,1,0,80.2,5.2,0,0,7,1,0
-EST-11408,Sede Costa,Enfermería (TENS),Diurna,29,1,0,1,93.0,5.3,1,0,8,0,0
+EST-10035,Sede Sur,Administración,Diurna,18,1,1,0,80.2,5.2,0,0,7,1,0
+EST-11408,Sede Cordillera,Enfermería (TENS),Diurna,29,1,0,1,93.0,5.3,1,0,8,0,0
 EST-10309,Sede Centro,Mecánica Automotriz,Diurna,28,1,1,0,92.2,5.1,0,1,9,0,0
 EST-11306,Sede Norte,Contabilidad,Diurna,20,1,0,1,80.6,5.2,0,0,7,1,0
-EST-10312,Sede Costa,Enfermería (TENS),Vespertina,43,1,1,1,60.7,4.0,2,0,3,0,1
+EST-10312,Sede Cordillera,Enfermería (TENS),Vespertina,43,1,1,1,60.7,4.0,2,0,3,0,1
 EST-10655,Sede Norte,Educación Parvularia,Vespertina,25,1,1,1,40.5,3.7,3,0,3,0,1
-EST-11235,Sede Centro,Contabilidad,Diurna,30,1,0,1,65.5,4.0,0,0,7,2,0
-EST-10766,Sede Costa,Electricidad,Diurna,27,1,0,0,96.0,6.1,0,2,9,1,0
-EST-10032,Sede Sur,Electricidad,Diurna,19,0,0,1,93.3,5.5,0,0,10,0,0
-EST-10866,Sede Centro,Electricidad,Diurna,23,0,0,1,64.5,3.4,2,0,5,0,1
+EST-11235,Sede Sur,Contabilidad,Diurna,30,1,0,1,65.5,4.0,0,0,7,2,0
+EST-10766,Sede Cordillera,Electricidad,Diurna,27,1,0,0,96.0,6.1,0,2,9,1,0
+EST-10032,Sede Costa,Electricidad,Diurna,19,0,0,1,93.3,5.5,0,0,10,0,0
+EST-10866,Sede Sur,Electricidad,Diurna,23,0,0,1,64.5,3.4,2,0,5,0,1
 EST-10227,Sede Centro,Mecánica Automotriz,Vespertina,20,0,0,1,86.4,5.2,0,0,8,1,0
-EST-10165,Sede Norte,Educación Parvularia,Diurna,30,1,1,1,52.4,5.0,1,0,3,1,1
-EST-11339,Sede Centro,Contabilidad,Vespertina,30,1,0,1,90.1,4.9,0,0,10,0,0
-EST-10581,Sede Sur,Mecánica Automotriz,Diurna,30,1,0,1,90.8,5.0,0,0,7,0,0
-EST-10184,Sede Centro,Administración,Vespertina,26,1,0,0,79.0,3.7,1,0,8,0,0
-EST-10739,Sede Sur,Enfermería (TENS),Vespertina,27,0,1,1,74.1,5.1,0,0,6,2,0
-EST-10620,Sede Costa,Educación Parvularia,Vespertina,20,0,1,1,83.2,5.6,0,0,6,0,0
-EST-11167,Sede Centro,Turismo,Vespertina,23,0,0,1,63.7,5.5,0,0,8,0,0
+EST-10165,Sede Centro,Educación Parvularia,Diurna,30,1,1,1,52.4,5.0,1,0,3,1,1
+EST-11339,Sede Sur,Contabilidad,Vespertina,30,1,0,1,90.1,4.9,0,0,10,0,0
+EST-10581,Sede Costa,Mecánica Automotriz,Diurna,30,1,0,1,90.8,5.0,0,0,7,0,0
+EST-10184,Sede Sur,Administración,Vespertina,26,1,0,0,79.0,3.7,1,0,8,0,0
+EST-10739,Sede Costa,Enfermería (TENS),Vespertina,27,0,1,1,74.1,5.1,0,0,6,2,0
+EST-10620,Sede Cordillera,Educación Parvularia,Vespertina,20,0,1,1,83.2,5.6,0,0,6,0,0
+EST-11167,Sede Sur,Turismo,Vespertina,23,0,0,1,63.7,5.5,0,0,8,0,0
 EST-11138,Sede Sur,Electricidad,Vespertina,33,1,1,0,68.6,4.3,0,1,6,0,1
-EST-10179,Sede Sur,Turismo,Diurna,27,1,1,0,75.7,4.4,0,0,12,1,0
-EST-11185,Sede Centro,Contabilidad,Diurna,32,1,0,1,82.3,3.5,1,0,4,0,0
-EST-10940,Sede Norte,Contabilidad,Vespertina,38,1,0,0,74.8,3.9,0,1,4,0,1
-EST-10386,Sede Sur,Educación Parvularia,Vespertina,32,0,1,1,79.7,5.8,0,0,5,1,0
-EST-10099,Sede Sur,Electricidad,Vespertina,19,1,1,1,72.2,6.2,0,0,9,0,1
-EST-10734,Sede Costa,Informática,Diurna,33,1,0,1,46.3,3.5,2,0,4,2,1
+EST-10179,Sede Costa,Turismo,Diurna,27,1,1,0,75.7,4.4,0,0,12,1,0
+EST-11185,Sede Sur,Contabilidad,Diurna,32,1,0,1,82.3,3.5,1,0,4,0,0
+EST-10940,Sede Centro,Contabilidad,Vespertina,38,1,0,0,74.8,3.9,0,1,4,0,1
+EST-10386,Sede Costa,Educación Parvularia,Vespertina,32,0,1,1,79.7,5.8,0,0,5,1,0
+EST-10099,Sede Costa,Electricidad,Vespertina,19,1,1,1,72.2,6.2,0,0,9,0,1
+EST-10734,Sede Cordillera,Informática,Diurna,33,1,0,1,46.3,3.5,2,0,4,2,1
 EST-11431,Sede Norte,Informática,Vespertina,29,1,0,0,87.5,4.8,0,0,4,1,0
 EST-10339,Sede Centro,Educación Parvularia,Vespertina,47,1,1,0,73.5,5.3,0,1,7,1,0
 EST-10943,Sede Norte,Educación Parvularia,Vespertina,37,1,0,1,91.4,5.2,0,0,12,0,0
 EST-11231,Sede Centro,Educación Parvularia,Vespertina,31,0,0,0,97.6,4.5,0,4,7,1,0
 EST-11268,Sede Centro,Administración,Vespertina,30,1,1,1,66.9,6.2,0,0,8,0,0
 EST-10598,Sede Norte,Contabilidad,Vespertina,29,1,1,0,82.4,5.6,0,0,7,1,0
-EST-10981,Sede Costa,Enfermería (TENS),Diurna,18,0,0,1,88.7,5.8,0,0,10,2,0
-EST-10279,Sede Sur,Informática,Diurna,20,1,0,1,92.6,6.0,0,0,8,0,0
+EST-10981,Sede Cordillera,Enfermería (TENS),Diurna,18,0,0,1,88.7,5.8,0,0,10,2,0
+EST-10279,Sede Costa,Informática,Diurna,20,1,0,1,92.6,6.0,0,0,8,0,0
 EST-11095,Sede Centro,Contabilidad,Diurna,24,1,1,1,68.6,6.3,0,0,3,0,0
-EST-11345,Sede Sur,Educación Parvularia,Diurna,18,1,0,1,90.4,4.6,1,0,9,0,0
+EST-11345,Sede Costa,Educación Parvularia,Diurna,18,1,0,1,90.4,4.6,1,0,9,0,0
 EST-10824,Sede Norte,Informática,Vespertina,24,0,0,1,56.5,4.7,0,0,6,1,1
-EST-11409,Sede Norte,Turismo,Diurna,31,1,0,0,85.8,5.8,0,0,12,0,0
-EST-10431,Sede Sur,Turismo,Diurna,18,1,0,1,56.3,4.1,0,0,4,0,1
+EST-11409,Sede Centro,Turismo,Diurna,31,1,0,0,85.8,5.8,0,0,12,0,0
+EST-10431,Sede Costa,Turismo,Diurna,18,1,0,1,56.3,4.1,0,0,4,0,1
 EST-10331,Sede Sur,Electricidad,Vespertina,27,0,0,1,89.1,5.0,0,0,9,0,0
-EST-10821,Sede Sur,Educación Parvularia,Diurna,22,0,1,1,68.6,5.2,0,0,7,0,0
+EST-10821,Sede Costa,Educación Parvularia,Diurna,22,0,1,1,68.6,5.2,0,0,7,0,0
 EST-10562,Sede Centro,Electricidad,Vespertina,27,1,0,1,78.2,4.3,0,0,7,0,0
 EST-10616,Sede Norte,Administración,Diurna,19,0,1,0,68.6,4.5,0,1,5,0,1
 EST-11175,Sede Centro,Turismo,Diurna,22,0,0,0,94.0,3.8,2,0,12,1,0
-EST-11433,Sede Sur,Electricidad,Diurna,17,0,1,1,90.5,6.1,0,0,13,1,0
-EST-11229,Sede Sur,Contabilidad,Vespertina,29,1,1,1,69.6,4.4,0,0,7,0,0
-EST-11173,Sede Costa,Mecánica Automotriz,Diurna,28,0,1,0,62.1,4.0,1,2,5,0,1
-EST-10158,Sede Costa,Mecánica Automotriz,Vespertina,35,1,1,0,64.9,4.7,1,0,9,0,0
+EST-11433,Sede Costa,Electricidad,Diurna,17,0,1,1,90.5,6.1,0,0,13,1,0
+EST-11229,Sede Costa,Contabilidad,Vespertina,29,1,1,1,69.6,4.4,0,0,7,0,0
+EST-11173,Sede Cordillera,Mecánica Automotriz,Diurna,28,0,1,0,62.1,4.0,1,2,5,0,1
+EST-10158,Sede Cordillera,Mecánica Automotriz,Vespertina,35,1,1,0,64.9,4.7,1,0,9,0,0
 EST-10005,Sede Centro,Informática,Vespertina,34,0,1,1,74.1,3.8,1,0,7,2,1
-EST-11475,Sede Sur,Electricidad,Diurna,18,0,0,1,83.8,4.9,0,0,8,1,0
-EST-10034,Sede Costa,Educación Parvularia,Vespertina,28,0,0,0,87.0,6.0,0,0,14,0,0
-EST-10111,Sede Norte,Informática,Diurna,25,0,1,1,60.4,4.8,0,0,4,2,0
+EST-11475,Sede Costa,Electricidad,Diurna,18,0,0,1,83.8,4.9,0,0,8,1,0
+EST-10034,Sede Cordillera,Educación Parvularia,Vespertina,28,0,0,0,87.0,6.0,0,0,14,0,0
+EST-10111,Sede Centro,Informática,Diurna,25,0,1,1,60.4,4.8,0,0,4,2,0
 EST-11417,Sede Norte,Informática,Diurna,23,0,0,1,91.8,5.9,0,0,8,0,0
 EST-10909,Sede Norte,Mecánica Automotriz,Vespertina,29,1,1,1,63.6,5.6,0,0,6,2,0
-EST-10528,Sede Sur,Mecánica Automotriz,Diurna,25,1,0,1,89.3,4.4,1,0,9,2,0
-EST-10607,Sede Sur,Informática,Diurna,19,1,0,1,75.2,5.4,0,0,9,0,1
-EST-10360,Sede Norte,Mecánica Automotriz,Vespertina,38,0,1,1,73.1,5.1,0,0,10,0,1
-EST-10054,Sede Costa,Administración,Diurna,34,1,0,1,69.9,6.1,0,0,8,0,0
+EST-10528,Sede Costa,Mecánica Automotriz,Diurna,25,1,0,1,89.3,4.4,1,0,9,2,0
+EST-10607,Sede Costa,Informática,Diurna,19,1,0,1,75.2,5.4,0,0,9,0,1
+EST-10360,Sede Centro,Mecánica Automotriz,Vespertina,38,0,1,1,73.1,5.1,0,0,10,0,1
+EST-10054,Sede Cordillera,Administración,Diurna,34,1,0,1,69.9,6.1,0,0,8,0,0
 EST-11465,Sede Norte,Informática,Diurna,17,0,0,0,67.4,2.7,4,1,9,0,1
 EST-10141,Sede Sur,Informática,Diurna,28,1,0,1,94.2,5.3,0,0,6,0,0
 EST-10348,Sede Norte,Enfermería (TENS),Diurna,20,0,0,1,78.2,4.7,0,0,10,0,0
-EST-10964,Sede Sur,Administración,Diurna,29,1,0,1,74.9,4.4,0,0,11,2,0
+EST-10964,Sede Costa,Administración,Diurna,29,1,0,1,74.9,4.4,0,0,11,2,0
 EST-10672,Sede Norte,Educación Parvularia,Vespertina,22,1,1,0,88.2,4.9,1,0,5,1,0
-EST-11474,Sede Centro,Electricidad,Diurna,17,0,0,0,90.7,5.5,0,0,8,0,0
+EST-11474,Sede Sur,Electricidad,Diurna,17,0,0,0,90.7,5.5,0,0,8,0,0
 EST-10551,Sede Centro,Educación Parvularia,Diurna,27,1,1,0,77.2,5.2,0,0,7,0,0
 EST-10858,Sede Sur,Turismo,Diurna,21,0,1,0,49.1,3.3,0,3,3,0,1
-EST-11370,Sede Costa,Turismo,Diurna,26,0,1,1,72.6,5.7,0,0,7,0,1
+EST-11370,Sede Cordillera,Turismo,Diurna,26,0,1,1,72.6,5.7,0,0,7,0,1
 EST-10775,Sede Centro,Contabilidad,Diurna,22,0,0,1,92.2,7.0,0,0,7,0,0
-EST-11494,Sede Costa,Electricidad,Diurna,18,1,1,0,75.8,4.9,1,2,9,0,1
+EST-11494,Sede Cordillera,Electricidad,Diurna,18,1,1,0,75.8,4.9,1,2,9,0,1
 EST-10538,Sede Centro,Turismo,Diurna,17,1,0,1,72.0,5.7,0,0,5,0,0
 EST-10335,Sede Centro,Mecánica Automotriz,Vespertina,33,0,1,1,64.6,3.9,0,0,8,0,1
 EST-10648,Sede Norte,Contabilidad,Diurna,26,1,0,1,77.7,4.4,0,0,6,0,0
@@ -837,52 +837,52 @@ EST-11043,Sede Norte,Informática,Diurna,17,1,0,1,82.5,5.1,0,0,11,0,0
 EST-10825,Sede Norte,Administración,Diurna,18,0,0,0,96.1,6.8,0,0,12,0,0
 EST-10156,Sede Costa,Educación Parvularia,Vespertina,29,0,1,0,77.5,4.7,0,4,7,0,0
 EST-10720,Sede Norte,Enfermería (TENS),Vespertina,35,1,1,1,83.3,5.0,0,0,4,2,0
-EST-11443,Sede Centro,Administración,Diurna,28,1,0,0,97.5,4.8,0,0,13,0,0
-EST-11051,Sede Centro,Informática,Vespertina,31,1,0,1,87.5,4.3,1,0,9,0,0
-EST-10029,Sede Centro,Electricidad,Vespertina,29,0,0,1,92.7,5.3,0,0,11,2,0
+EST-11443,Sede Sur,Administración,Diurna,28,1,0,0,97.5,4.8,0,0,13,0,0
+EST-11051,Sede Sur,Informática,Vespertina,31,1,0,1,87.5,4.3,1,0,9,0,0
+EST-10029,Sede Sur,Electricidad,Vespertina,29,0,0,1,92.7,5.3,0,0,11,2,0
 EST-11192,Sede Centro,Educación Parvularia,Diurna,24,1,0,0,73.9,5.9,0,1,12,0,0
 EST-10214,Sede Norte,Contabilidad,Diurna,25,1,0,0,81.7,5.6,0,3,3,1,1
 EST-10942,Sede Norte,Mecánica Automotriz,Diurna,27,1,0,0,70.1,4.8,0,1,5,0,1
 EST-11147,Sede Sur,Informática,Diurna,21,1,0,1,93.0,5.0,0,0,13,1,0
-EST-10268,Sede Costa,Administración,Diurna,17,0,0,0,62.8,5.2,0,0,6,1,1
+EST-10268,Sede Cordillera,Administración,Diurna,17,0,0,0,62.8,5.2,0,0,6,1,1
 EST-10605,Sede Centro,Electricidad,Diurna,26,0,0,0,86.4,3.5,2,1,12,0,0
 EST-10873,Sede Centro,Contabilidad,Diurna,23,0,1,1,77.8,4.7,0,0,6,1,0
-EST-10110,Sede Sur,Enfermería (TENS),Diurna,17,0,0,1,71.6,4.8,0,0,9,0,0
+EST-10110,Sede Costa,Enfermería (TENS),Diurna,17,0,0,1,71.6,4.8,0,0,9,0,0
 EST-10140,Sede Norte,Electricidad,Diurna,23,0,1,1,88.6,6.7,0,0,8,1,0
-EST-10226,Sede Centro,Electricidad,Diurna,31,1,0,1,89.0,4.6,0,0,14,1,0
-EST-10882,Sede Costa,Informática,Vespertina,22,1,1,1,79.7,5.7,0,0,8,0,0
+EST-10226,Sede Sur,Electricidad,Diurna,31,1,0,1,89.0,4.6,0,0,14,1,0
+EST-10882,Sede Cordillera,Informática,Vespertina,22,1,1,1,79.7,5.7,0,0,8,0,0
 EST-11190,Sede Centro,Mecánica Automotriz,Vespertina,29,1,1,1,93.1,5.8,0,0,8,2,0
 EST-11463,Sede Centro,Mecánica Automotriz,Diurna,21,1,0,1,92.6,3.7,1,0,9,1,0
 EST-11313,Sede Centro,Turismo,Vespertina,22,1,1,0,57.7,4.1,1,0,4,0,0
-EST-10433,Sede Centro,Contabilidad,Diurna,20,1,0,0,80.7,5.2,0,2,6,0,0
-EST-10380,Sede Costa,Administración,Diurna,23,0,0,1,97.9,3.8,1,0,10,2,0
+EST-10433,Sede Sur,Contabilidad,Diurna,20,1,0,0,80.7,5.2,0,2,6,0,0
+EST-10380,Sede Cordillera,Administración,Diurna,23,0,0,1,97.9,3.8,1,0,10,2,0
 EST-10076,Sede Sur,Mecánica Automotriz,Diurna,29,1,0,1,84.6,5.0,0,0,9,0,1
 EST-10326,Sede Centro,Enfermería (TENS),Diurna,25,0,0,1,89.6,5.1,1,0,9,1,0
 EST-11168,Sede Centro,Enfermería (TENS),Diurna,29,0,0,1,90.5,3.8,1,0,11,1,0
-EST-10585,Sede Centro,Electricidad,Vespertina,28,0,1,1,80.2,5.6,0,0,9,0,0
-EST-10478,Sede Centro,Administración,Diurna,25,0,1,0,80.0,4.2,0,0,4,0,0
+EST-10585,Sede Sur,Electricidad,Vespertina,28,0,1,1,80.2,5.6,0,0,9,0,0
+EST-10478,Sede Sur,Administración,Diurna,25,0,1,0,80.0,4.2,0,0,4,0,0
 EST-11380,Sede Norte,Informática,Vespertina,19,0,1,1,85.7,6.8,0,0,10,0,0
-EST-11315,Sede Centro,Enfermería (TENS),Vespertina,29,1,1,1,79.5,3.6,0,0,6,1,0
-EST-11221,Sede Sur,Educación Parvularia,Vespertina,31,1,1,1,58.8,4.7,1,0,3,0,1
+EST-11315,Sede Sur,Enfermería (TENS),Vespertina,29,1,1,1,79.5,3.6,0,0,6,1,0
+EST-11221,Sede Costa,Educación Parvularia,Vespertina,31,1,1,1,58.8,4.7,1,0,3,0,1
 EST-10169,Sede Norte,Mecánica Automotriz,Diurna,24,0,0,0,78.3,4.9,0,0,7,2,0
-EST-11282,Sede Sur,Turismo,Diurna,30,0,0,1,90.2,4.6,0,0,15,3,0
+EST-11282,Sede Costa,Turismo,Diurna,30,0,0,1,90.2,4.6,0,0,15,3,0
 EST-10678,Sede Norte,Mecánica Automotriz,Vespertina,37,1,1,0,84.6,5.2,0,0,7,1,0
 EST-10553,Sede Norte,Administración,Vespertina,27,1,1,0,83.5,3.3,5,0,5,0,1
-EST-10066,Sede Centro,Enfermería (TENS),Diurna,27,1,0,1,57.8,5.3,0,0,4,0,0
-EST-10202,Sede Sur,Informática,Diurna,36,0,1,1,73.7,4.4,2,0,10,0,1
-EST-10472,Sede Centro,Informática,Vespertina,25,0,1,1,62.8,3.6,1,0,6,0,0
-EST-11500,Sede Centro,Administración,Diurna,26,0,0,0,75.0,4.6,1,0,2,0,0
+EST-10066,Sede Sur,Enfermería (TENS),Diurna,27,1,0,1,57.8,5.3,0,0,4,0,0
+EST-10202,Sede Costa,Informática,Diurna,36,0,1,1,73.7,4.4,2,0,10,0,1
+EST-10472,Sede Sur,Informática,Vespertina,25,0,1,1,62.8,3.6,1,0,6,0,0
+EST-11500,Sede Sur,Administración,Diurna,26,0,0,0,75.0,4.6,1,0,2,0,0
 EST-10645,Sede Norte,Enfermería (TENS),Diurna,35,1,0,1,81.3,4.1,0,0,11,1,0
-EST-10777,Sede Centro,Contabilidad,Vespertina,27,1,1,0,89.8,4.6,0,2,7,0,0
+EST-10777,Sede Sur,Contabilidad,Vespertina,27,1,1,0,89.8,4.6,0,2,7,0,0
 EST-10418,Sede Centro,Informática,Diurna,35,1,0,1,77.5,4.3,1,0,8,0,0
 EST-10332,Sede Norte,Enfermería (TENS),Diurna,25,0,0,1,85.2,3.4,2,0,8,0,0
-EST-10391,Sede Sur,Educación Parvularia,Vespertina,27,1,0,1,97.5,5.6,0,0,4,1,0
+EST-10391,Sede Costa,Educación Parvularia,Vespertina,27,1,0,1,97.5,5.6,0,0,4,1,0
 EST-10549,Sede Norte,Electricidad,Vespertina,32,1,1,1,81.1,6.5,0,0,9,0,0
 EST-11133,Sede Centro,Electricidad,Diurna,29,0,0,1,90.2,5.2,0,0,12,0,0
 EST-10929,Sede Centro,Electricidad,Vespertina,24,1,1,0,73.5,3.1,0,0,5,0,0
 EST-10871,Sede Sur,Informática,Diurna,26,0,0,1,72.6,5.2,0,0,8,1,0
 EST-10040,Sede Costa,Enfermería (TENS),Vespertina,27,0,1,0,76.7,4.9,0,0,6,1,0
-EST-10818,Sede Sur,Contabilidad,Diurna,21,1,0,1,94.9,5.6,0,0,10,0,0
+EST-10818,Sede Costa,Contabilidad,Diurna,21,1,0,1,94.9,5.6,0,0,10,0,0
 EST-10558,Sede Norte,Enfermería (TENS),Diurna,27,0,0,1,73.1,6.7,0,0,7,0,0
 EST-10595,Sede Norte,Contabilidad,Diurna,30,1,0,1,78.3,4.9,0,0,10,2,0
 EST-11376,Sede Centro,Informática,Diurna,20,1,0,1,80.7,5.2,1,0,5,1,0
@@ -890,124 +890,124 @@ EST-11392,Sede Centro,Educación Parvularia,Diurna,23,1,0,1,91.7,5.6,0,0,10,1,0
 EST-10783,Sede Sur,Turismo,Diurna,36,0,1,0,96.4,6.7,0,0,6,2,0
 EST-10233,Sede Centro,Enfermería (TENS),Diurna,28,0,1,0,65.0,4.2,0,0,6,0,0
 EST-10378,Sede Centro,Enfermería (TENS),Vespertina,24,0,1,1,47.4,4.3,0,0,4,1,1
-EST-10767,Sede Centro,Electricidad,Diurna,29,0,0,0,79.1,6.0,0,1,7,0,0
+EST-10767,Sede Sur,Electricidad,Diurna,29,0,0,0,79.1,6.0,0,1,7,0,0
 EST-11098,Sede Centro,Turismo,Diurna,17,0,0,1,84.4,4.1,0,0,10,2,0
 EST-10437,Sede Costa,Contabilidad,Diurna,17,1,0,1,80.7,3.5,3,0,8,3,0
-EST-10813,Sede Sur,Informática,Vespertina,29,1,1,0,76.0,6.0,0,0,6,1,0
-EST-10763,Sede Sur,Contabilidad,Diurna,33,1,1,1,80.2,6.0,0,0,3,2,0
-EST-11049,Sede Costa,Enfermería (TENS),Diurna,30,0,1,1,77.7,4.7,0,0,9,1,0
+EST-10813,Sede Costa,Informática,Vespertina,29,1,1,0,76.0,6.0,0,0,6,1,0
+EST-10763,Sede Costa,Contabilidad,Diurna,33,1,1,1,80.2,6.0,0,0,3,2,0
+EST-11049,Sede Cordillera,Enfermería (TENS),Diurna,30,0,1,1,77.7,4.7,0,0,9,1,0
 EST-10286,Sede Sur,Educación Parvularia,Vespertina,35,1,1,1,74.9,4.8,0,0,9,0,0
 EST-10490,Sede Sur,Informática,Diurna,29,1,0,1,92.4,4.5,1,0,10,0,0
-EST-10896,Sede Sur,Electricidad,Vespertina,27,0,0,1,79.3,4.3,1,0,11,1,0
-EST-10997,Sede Centro,Informática,Vespertina,31,1,1,1,76.4,3.8,0,0,9,0,0
-EST-11012,Sede Costa,Contabilidad,Diurna,35,1,0,1,73.0,5.0,0,0,2,1,0
+EST-10896,Sede Costa,Electricidad,Vespertina,27,0,0,1,79.3,4.3,1,0,11,1,0
+EST-10997,Sede Sur,Informática,Vespertina,31,1,1,1,76.4,3.8,0,0,9,0,0
+EST-11012,Sede Cordillera,Contabilidad,Diurna,35,1,0,1,73.0,5.0,0,0,2,1,0
 EST-10470,Sede Centro,Mecánica Automotriz,Vespertina,39,1,0,1,90.5,7.0,0,0,6,0,0
 EST-10907,Sede Centro,Turismo,Diurna,17,0,0,1,87.7,3.2,5,0,9,0,1
 EST-11041,Sede Norte,Educación Parvularia,Vespertina,32,1,1,0,92.1,5.1,0,0,10,0,0
-EST-10639,Sede Costa,Educación Parvularia,Vespertina,25,0,0,0,85.0,5.4,0,0,12,0,0
+EST-10639,Sede Cordillera,Educación Parvularia,Vespertina,25,0,0,0,85.0,5.4,0,0,12,0,0
 EST-10946,Sede Norte,Contabilidad,Vespertina,37,0,1,1,85.5,5.3,0,0,11,2,0
-EST-11432,Sede Costa,Mecánica Automotriz,Diurna,28,0,1,1,75.8,5.5,0,0,7,1,0
+EST-11432,Sede Cordillera,Mecánica Automotriz,Diurna,28,0,1,1,75.8,5.5,0,0,7,1,0
 EST-11208,Sede Centro,Administración,Diurna,24,0,0,1,50.4,4.3,1,0,4,1,1
-EST-10195,Sede Costa,Enfermería (TENS),Vespertina,24,1,0,1,84.0,4.5,1,0,6,0,0
+EST-10195,Sede Cordillera,Enfermería (TENS),Vespertina,24,1,0,1,84.0,4.5,1,0,6,0,0
 EST-10936,Sede Norte,Mecánica Automotriz,Diurna,27,0,0,1,88.3,4.3,1,0,11,1,0
 EST-10992,Sede Norte,Contabilidad,Diurna,24,0,0,1,87.3,4.0,0,0,9,0,0
-EST-11347,Sede Sur,Turismo,Diurna,25,0,0,1,86.5,5.7,0,0,10,1,0
+EST-11347,Sede Costa,Turismo,Diurna,25,0,0,1,86.5,5.7,0,0,10,1,0
 EST-10914,Sede Centro,Enfermería (TENS),Vespertina,31,1,1,1,58.4,4.6,0,0,2,0,1
 EST-10657,Sede Centro,Electricidad,Diurna,26,1,1,1,97.4,5.5,0,0,5,0,0
 EST-10473,Sede Norte,Electricidad,Diurna,25,0,0,1,83.0,4.4,1,0,6,0,0
 EST-10355,Sede Norte,Enfermería (TENS),Diurna,29,1,0,1,81.0,4.0,2,0,8,0,1
 EST-10568,Sede Costa,Contabilidad,Diurna,17,1,0,1,94.9,5.3,0,0,12,2,0
-EST-10452,Sede Centro,Administración,Diurna,23,0,1,0,34.6,2.9,2,0,5,0,1
-EST-10843,Sede Sur,Educación Parvularia,Vespertina,25,1,0,0,94.7,5.2,0,0,8,0,0
+EST-10452,Sede Sur,Administración,Diurna,23,0,1,0,34.6,2.9,2,0,5,0,1
+EST-10843,Sede Costa,Educación Parvularia,Vespertina,25,1,0,0,94.7,5.2,0,0,8,0,0
 EST-10289,Sede Centro,Contabilidad,Diurna,26,1,0,0,75.1,5.3,0,0,4,0,0
 EST-10434,Sede Centro,Turismo,Diurna,29,1,0,0,87.6,7.0,1,1,10,0,0
-EST-10056,Sede Costa,Informática,Vespertina,32,0,1,1,74.6,4.8,1,0,9,0,0
-EST-10172,Sede Costa,Electricidad,Diurna,25,1,0,0,87.6,4.4,0,1,9,1,0
-EST-11365,Sede Centro,Contabilidad,Diurna,21,1,1,1,59.9,6.5,0,0,5,0,1
+EST-10056,Sede Cordillera,Informática,Vespertina,32,0,1,1,74.6,4.8,1,0,9,0,0
+EST-10172,Sede Cordillera,Electricidad,Diurna,25,1,0,0,87.6,4.4,0,1,9,1,0
+EST-11365,Sede Sur,Contabilidad,Diurna,21,1,1,1,59.9,6.5,0,0,5,0,1
 EST-10542,Sede Sur,Administración,Vespertina,36,0,1,0,88.5,3.7,1,0,7,0,0
 EST-10539,Sede Norte,Turismo,Vespertina,38,1,1,0,77.0,4.0,2,0,10,1,0
 EST-10623,Sede Centro,Enfermería (TENS),Diurna,27,1,0,1,77.5,6.1,0,0,9,1,0
-EST-11179,Sede Centro,Administración,Diurna,26,1,1,1,87.1,6.0,0,0,9,0,0
+EST-11179,Sede Sur,Administración,Diurna,26,1,1,1,87.1,6.0,0,0,9,0,0
 EST-11489,Sede Centro,Administración,Diurna,27,0,0,0,85.6,3.6,2,0,12,1,0
 EST-10100,Sede Centro,Turismo,Diurna,21,1,1,1,85.5,4.6,0,0,7,1,0
 EST-10791,Sede Sur,Mecánica Automotriz,Diurna,20,0,0,1,76.2,5.0,0,0,6,1,1
 EST-11019,Sede Norte,Mecánica Automotriz,Diurna,19,1,0,1,93.4,3.8,1,0,6,0,0
-EST-11063,Sede Costa,Enfermería (TENS),Diurna,25,1,1,0,51.8,3.9,1,0,4,0,1
+EST-11063,Sede Cordillera,Enfermería (TENS),Diurna,25,1,1,0,51.8,3.9,1,0,4,0,1
 EST-10976,Sede Norte,Educación Parvularia,Vespertina,32,0,1,1,86.8,5.4,0,0,13,2,0
 EST-10732,Sede Sur,Enfermería (TENS),Vespertina,28,1,1,0,62.5,3.8,0,0,6,0,1
 EST-10680,Sede Centro,Administración,Vespertina,29,1,1,1,92.5,4.5,2,0,8,2,0
-EST-10599,Sede Sur,Administración,Vespertina,31,0,0,1,92.4,4.0,1,0,10,0,0
+EST-10599,Sede Costa,Administración,Vespertina,31,0,0,1,92.4,4.0,1,0,10,0,0
 EST-10988,Sede Centro,Educación Parvularia,Vespertina,27,1,1,0,78.2,4.9,0,0,9,2,0
 EST-11367,Sede Centro,Electricidad,Vespertina,29,1,1,1,87.8,6.0,1,0,7,0,0
-EST-11083,Sede Centro,Contabilidad,Vespertina,27,0,0,1,87.1,4.2,1,0,13,1,0
-EST-10370,Sede Costa,Electricidad,Diurna,26,1,0,1,69.1,5.4,0,0,7,0,0
+EST-11083,Sede Sur,Contabilidad,Vespertina,27,0,0,1,87.1,4.2,1,0,13,1,0
+EST-10370,Sede Cordillera,Electricidad,Diurna,26,1,0,1,69.1,5.4,0,0,7,0,0
 EST-10480,Sede Sur,Educación Parvularia,Diurna,19,1,0,1,71.2,5.6,0,0,9,1,0
 EST-11074,Sede Norte,Mecánica Automotriz,Vespertina,19,1,1,1,65.8,4.6,2,0,3,2,1
 EST-11127,Sede Norte,Electricidad,Vespertina,29,1,1,1,67.7,3.0,2,0,5,0,1
 EST-10264,Sede Norte,Administración,Diurna,33,0,1,1,94.0,6.2,0,0,5,0,0
 EST-10128,Sede Centro,Educación Parvularia,Vespertina,25,1,1,0,86.6,4.4,0,1,9,0,0
 EST-11016,Sede Norte,Electricidad,Diurna,17,1,0,1,81.7,4.7,0,0,10,1,0
-EST-11199,Sede Costa,Contabilidad,Vespertina,37,1,1,0,81.5,5.5,0,0,6,0,0
-EST-10412,Sede Norte,Turismo,Diurna,25,1,0,1,71.8,4.0,1,0,3,0,1
+EST-11199,Sede Cordillera,Contabilidad,Vespertina,37,1,1,0,81.5,5.5,0,0,6,0,0
+EST-10412,Sede Centro,Turismo,Diurna,25,1,0,1,71.8,4.0,1,0,3,0,1
 EST-10078,Sede Centro,Turismo,Diurna,38,1,0,1,90.9,5.2,0,0,4,2,0
 EST-11071,Sede Norte,Turismo,Vespertina,37,0,1,0,67.5,5.7,0,2,5,1,0
 EST-11010,Sede Centro,Informática,Vespertina,28,0,0,0,70.1,5.1,0,0,4,0,1
 EST-10098,Sede Centro,Turismo,Vespertina,28,0,0,1,94.8,5.6,0,0,8,0,0
 EST-10405,Sede Centro,Mecánica Automotriz,Diurna,27,0,1,1,88.8,5.4,0,0,8,1,0
 EST-10887,Sede Norte,Educación Parvularia,Vespertina,26,1,1,0,66.2,5.0,0,2,7,1,1
-EST-10956,Sede Sur,Educación Parvularia,Diurna,34,0,0,1,84.7,5.4,0,0,9,0,0
-EST-10296,Sede Costa,Electricidad,Diurna,28,1,0,1,94.2,5.2,0,0,6,1,0
+EST-10956,Sede Costa,Educación Parvularia,Diurna,34,0,0,1,84.7,5.4,0,0,9,0,0
+EST-10296,Sede Cordillera,Electricidad,Diurna,28,1,0,1,94.2,5.2,0,0,6,1,0
 EST-10710,Sede Norte,Administración,Diurna,20,0,0,1,69.9,4.7,1,0,12,0,1
 EST-10559,Sede Norte,Contabilidad,Diurna,33,1,1,0,81.7,5.5,0,1,9,0,0
-EST-10968,Sede Sur,Electricidad,Vespertina,23,0,1,1,73.2,4.2,0,0,4,0,0
+EST-10968,Sede Costa,Electricidad,Vespertina,23,0,1,1,73.2,4.2,0,0,4,0,0
 EST-10139,Sede Centro,Turismo,Vespertina,33,1,0,0,74.9,4.3,0,1,13,3,0
 EST-11335,Sede Norte,Administración,Diurna,17,0,0,1,90.8,4.9,0,0,12,1,0
 EST-10875,Sede Norte,Contabilidad,Diurna,30,0,0,1,64.3,3.2,0,0,6,1,1
-EST-10394,Sede Costa,Contabilidad,Diurna,20,0,0,1,85.0,4.8,1,0,9,0,0
+EST-10394,Sede Cordillera,Contabilidad,Diurna,20,0,0,1,85.0,4.8,1,0,9,0,0
 EST-10637,Sede Sur,Informática,Vespertina,24,0,1,0,71.9,4.5,0,0,6,0,1
 EST-10862,Sede Centro,Electricidad,Diurna,26,1,1,1,79.7,6.0,0,0,7,0,0
 EST-11423,Sede Norte,Turismo,Vespertina,28,1,1,1,88.3,4.9,0,0,5,0,0
-EST-10361,Sede Costa,Enfermería (TENS),Diurna,27,1,0,1,57.8,4.2,0,0,10,0,1
+EST-10361,Sede Cordillera,Enfermería (TENS),Diurna,27,1,0,1,57.8,4.2,0,0,10,0,1
 EST-10698,Sede Centro,Turismo,Vespertina,28,0,1,0,78.1,5.0,0,1,11,0,0
 EST-11003,Sede Centro,Informática,Vespertina,25,0,1,0,69.9,4.9,0,1,6,0,0
-EST-10650,Sede Sur,Enfermería (TENS),Diurna,23,1,1,1,84.5,4.7,1,0,11,2,0
-EST-10240,Sede Sur,Educación Parvularia,Diurna,24,0,1,0,90.4,7.0,0,0,10,1,0
+EST-10650,Sede Costa,Enfermería (TENS),Diurna,23,1,1,1,84.5,4.7,1,0,11,2,0
+EST-10240,Sede Costa,Educación Parvularia,Diurna,24,0,1,0,90.4,7.0,0,0,10,1,0
 EST-10801,Sede Norte,Turismo,Diurna,26,1,1,1,67.8,3.9,0,0,10,0,0
-EST-10465,Sede Centro,Enfermería (TENS),Vespertina,23,0,1,0,62.6,4.9,0,0,10,0,1
+EST-10465,Sede Sur,Enfermería (TENS),Vespertina,23,0,1,0,62.6,4.9,0,0,10,0,1
 EST-10345,Sede Centro,Contabilidad,Diurna,29,1,0,0,79.4,5.3,0,1,6,0,0
-EST-10423,Sede Costa,Informática,Diurna,22,0,1,1,81.8,5.2,0,0,5,1,0
+EST-10423,Sede Cordillera,Informática,Diurna,22,0,1,1,81.8,5.2,0,0,5,1,0
 EST-10215,Sede Centro,Contabilidad,Vespertina,27,0,0,1,85.5,4.3,1,0,9,0,0
 EST-10050,Sede Centro,Contabilidad,Diurna,18,0,0,0,83.5,5.1,0,0,10,0,0
 EST-10641,Sede Sur,Administración,Vespertina,21,0,1,1,64.2,4.4,0,0,10,1,0
-EST-11097,Sede Costa,Enfermería (TENS),Diurna,18,1,1,0,52.3,2.5,1,1,7,0,1
-EST-10570,Sede Centro,Electricidad,Vespertina,23,1,0,0,95.2,5.7,0,0,8,2,0
-EST-11186,Sede Centro,Educación Parvularia,Vespertina,36,1,1,0,70.8,5.9,0,0,7,1,0
+EST-11097,Sede Cordillera,Enfermería (TENS),Diurna,18,1,1,0,52.3,2.5,1,1,7,0,1
+EST-10570,Sede Sur,Electricidad,Vespertina,23,1,0,0,95.2,5.7,0,0,8,2,0
+EST-11186,Sede Sur,Educación Parvularia,Vespertina,36,1,1,0,70.8,5.9,0,0,7,1,0
 EST-11249,Sede Norte,Administración,Diurna,24,0,1,0,69.4,3.9,3,1,5,1,1
-EST-11290,Sede Norte,Administración,Vespertina,39,1,1,0,63.8,5.5,0,0,7,1,0
-EST-11450,Sede Sur,Mecánica Automotriz,Vespertina,20,1,1,0,57.6,2.6,2,1,8,1,1
+EST-11290,Sede Centro,Administración,Vespertina,39,1,1,0,63.8,5.5,0,0,7,1,0
+EST-11450,Sede Costa,Mecánica Automotriz,Vespertina,20,1,1,0,57.6,2.6,2,1,8,1,1
 EST-10690,Sede Norte,Educación Parvularia,Diurna,29,1,0,1,61.4,4.4,0,0,8,1,1
-EST-10089,Sede Costa,Informática,Diurna,28,0,0,0,92.3,4.6,0,0,11,0,0
-EST-11111,Sede Costa,Electricidad,Vespertina,24,1,1,1,89.5,4.7,0,0,9,0,0
-EST-10223,Sede Centro,Enfermería (TENS),Diurna,25,1,0,1,69.5,4.8,0,0,6,1,0
+EST-10089,Sede Cordillera,Informática,Diurna,28,0,0,0,92.3,4.6,0,0,11,0,0
+EST-11111,Sede Cordillera,Electricidad,Vespertina,24,1,1,1,89.5,4.7,0,0,9,0,0
+EST-10223,Sede Sur,Enfermería (TENS),Diurna,25,1,0,1,69.5,4.8,0,0,6,1,0
 EST-11352,Sede Centro,Administración,Diurna,25,1,0,1,91.0,6.2,0,0,7,1,0
-EST-11058,Sede Costa,Electricidad,Diurna,26,0,0,0,92.9,5.7,0,0,13,0,0
-EST-10124,Sede Sur,Educación Parvularia,Diurna,20,0,0,1,78.5,4.6,0,0,7,0,0
-EST-10062,Sede Sur,Electricidad,Diurna,27,1,0,0,80.2,4.0,1,1,6,2,0
+EST-11058,Sede Cordillera,Electricidad,Diurna,26,0,0,0,92.9,5.7,0,0,13,0,0
+EST-10124,Sede Costa,Educación Parvularia,Diurna,20,0,0,1,78.5,4.6,0,0,7,0,0
+EST-10062,Sede Costa,Electricidad,Diurna,27,1,0,0,80.2,4.0,1,1,6,2,0
 EST-11014,Sede Norte,Educación Parvularia,Diurna,30,1,0,1,67.1,4.2,1,0,12,1,0
-EST-10643,Sede Centro,Enfermería (TENS),Diurna,18,1,1,1,80.1,4.4,1,0,7,2,0
-EST-10709,Sede Sur,Mecánica Automotriz,Vespertina,26,1,1,1,91.6,5.5,0,0,5,0,0
+EST-10643,Sede Sur,Enfermería (TENS),Diurna,18,1,1,1,80.1,4.4,1,0,7,2,0
+EST-10709,Sede Costa,Mecánica Automotriz,Vespertina,26,1,1,1,91.6,5.5,0,0,5,0,0
 EST-10656,Sede Norte,Contabilidad,Vespertina,34,0,0,1,76.5,4.7,0,0,10,0,0
-EST-10584,Sede Norte,Informática,Diurna,19,1,0,1,96.0,5.3,0,0,21,0,0
+EST-10584,Sede Centro,Informática,Diurna,19,1,0,1,96.0,5.3,0,0,21,0,0
 EST-10706,Sede Centro,Educación Parvularia,Vespertina,33,1,1,1,74.8,5.3,0,0,12,0,0
-EST-10406,Sede Sur,Informática,Diurna,24,1,1,1,88.0,5.3,0,0,10,0,0
+EST-10406,Sede Costa,Informática,Diurna,24,1,1,1,88.0,5.3,0,0,10,0,0
 EST-10329,Sede Norte,Electricidad,Diurna,30,0,0,0,94.4,4.7,0,2,12,1,0
 EST-11430,Sede Sur,Turismo,Diurna,17,1,1,1,64.6,4.5,0,0,6,0,0
-EST-10609,Sede Centro,Turismo,Diurna,30,1,1,1,82.0,4.3,1,0,4,0,0
+EST-10609,Sede Sur,Turismo,Diurna,30,1,1,1,82.0,4.3,1,0,4,0,0
 EST-10321,Sede Sur,Mecánica Automotriz,Diurna,27,0,1,1,79.8,6.1,0,0,11,0,0
 EST-10664,Sede Norte,Contabilidad,Diurna,28,0,0,1,67.2,5.2,0,0,6,0,1
-EST-10259,Sede Costa,Contabilidad,Diurna,20,0,0,1,84.2,4.0,0,0,12,1,0
+EST-10259,Sede Cordillera,Contabilidad,Diurna,20,0,0,1,84.2,4.0,0,0,12,1,0
 EST-11215,Sede Norte,Turismo,Diurna,34,0,0,0,93.8,3.8,1,0,2,0,0
-EST-11371,Sede Sur,Turismo,Vespertina,24,1,1,1,73.9,4.2,0,0,6,2,0
+EST-11371,Sede Costa,Turismo,Vespertina,24,1,1,1,73.9,4.2,0,0,6,2,0
 EST-10908,Sede Norte,Turismo,Vespertina,35,1,1,1,75.3,4.4,0,0,7,1,0
 EST-11425,Sede Sur,Contabilidad,Diurna,24,1,0,1,84.3,5.5,1,0,7,1,0
 EST-11057,Sede Centro,Turismo,Vespertina,20,1,1,1,84.8,7.0,0,0,11,1,0
@@ -1015,99 +1015,99 @@ EST-10586,Sede Centro,Mecánica Automotriz,Diurna,28,0,1,1,75.6,4.4,1,0,7,1,0
 EST-11093,Sede Costa,Informática,Diurna,24,0,0,1,95.4,4.8,0,0,7,2,0
 EST-10500,Sede Centro,Mecánica Automotriz,Diurna,20,1,0,1,70.7,4.3,0,0,9,1,1
 EST-10068,Sede Centro,Educación Parvularia,Diurna,23,0,0,0,95.3,4.9,0,2,8,0,0
-EST-11389,Sede Centro,Electricidad,Vespertina,44,0,0,0,51.9,3.0,1,3,9,0,1
+EST-11389,Sede Sur,Electricidad,Vespertina,44,0,0,0,51.9,3.0,1,3,9,0,1
 EST-10171,Sede Norte,Informática,Diurna,20,1,0,1,41.3,3.7,1,0,3,3,1
 EST-11356,Sede Sur,Contabilidad,Diurna,30,1,0,1,68.4,4.5,0,0,9,1,0
-EST-10880,Sede Costa,Educación Parvularia,Vespertina,30,1,1,0,77.3,5.0,0,1,6,0,0
+EST-10880,Sede Cordillera,Educación Parvularia,Vespertina,30,1,1,0,77.3,5.0,0,1,6,0,0
 EST-10768,Sede Centro,Enfermería (TENS),Diurna,25,0,0,0,86.2,6.8,0,0,7,0,0
-EST-10310,Sede Sur,Enfermería (TENS),Vespertina,37,1,1,0,68.4,5.0,0,0,7,0,0
+EST-10310,Sede Costa,Enfermería (TENS),Vespertina,37,1,1,0,68.4,5.0,0,0,7,0,0
 EST-11453,Sede Norte,Contabilidad,Diurna,30,1,0,0,86.8,5.2,0,2,6,0,0
 EST-10486,Sede Centro,Educación Parvularia,Diurna,27,1,1,1,80.6,5.4,0,0,12,0,0
 EST-10765,Sede Norte,Electricidad,Diurna,18,1,1,1,79.6,4.8,0,0,9,0,0
 EST-11442,Sede Norte,Contabilidad,Vespertina,31,1,1,1,88.9,5.1,0,0,6,0,0
-EST-10665,Sede Centro,Educación Parvularia,Vespertina,29,1,1,1,81.1,3.9,0,0,6,2,0
+EST-10665,Sede Sur,Educación Parvularia,Vespertina,29,1,1,1,81.1,3.9,0,0,6,2,0
 EST-10305,Sede Norte,Enfermería (TENS),Diurna,20,1,0,0,52.0,4.8,0,2,7,0,1
-EST-10681,Sede Costa,Electricidad,Diurna,18,0,0,0,47.8,4.5,1,0,3,0,1
+EST-10681,Sede Cordillera,Electricidad,Diurna,18,0,0,0,47.8,4.5,1,0,3,0,1
 EST-11337,Sede Sur,Informática,Diurna,31,0,1,1,83.7,4.9,0,0,8,0,0
-EST-10346,Sede Norte,Mecánica Automotriz,Vespertina,20,1,0,1,92.0,4.8,0,0,6,1,0
-EST-11236,Sede Centro,Contabilidad,Diurna,28,1,1,1,94.2,4.1,0,0,13,0,0
+EST-10346,Sede Centro,Mecánica Automotriz,Vespertina,20,1,0,1,92.0,4.8,0,0,6,1,0
+EST-11236,Sede Sur,Contabilidad,Diurna,28,1,1,1,94.2,4.1,0,0,13,0,0
 EST-11276,Sede Norte,Contabilidad,Diurna,20,1,0,0,85.0,6.0,0,0,5,1,0
 EST-10555,Sede Sur,Enfermería (TENS),Vespertina,32,0,1,1,91.3,5.7,0,0,13,0,0
-EST-10350,Sede Sur,Informática,Vespertina,19,1,0,1,81.5,5.4,0,0,8,0,0
-EST-10446,Sede Sur,Electricidad,Vespertina,31,1,0,1,78.6,5.2,0,0,9,0,0
+EST-10350,Sede Costa,Informática,Vespertina,19,1,0,1,81.5,5.4,0,0,8,0,0
+EST-10446,Sede Costa,Electricidad,Vespertina,31,1,0,1,78.6,5.2,0,0,9,0,0
 EST-10025,Sede Norte,Informática,Vespertina,24,1,1,1,64.7,5.1,0,0,5,1,0
 EST-11152,Sede Norte,Electricidad,Diurna,18,1,1,1,50.6,4.9,0,0,6,1,1
 EST-11434,Sede Sur,Informática,Vespertina,42,0,0,1,69.7,3.2,0,0,6,0,1
-EST-11261,Sede Norte,Educación Parvularia,Diurna,24,1,0,0,69.2,4.1,0,1,4,0,1
-EST-10257,Sede Costa,Administración,Diurna,25,0,0,0,94.4,4.6,0,1,17,3,0
-EST-11214,Sede Centro,Turismo,Diurna,25,1,0,1,72.8,5.1,0,0,7,2,0
-EST-10385,Sede Centro,Contabilidad,Vespertina,31,1,1,0,73.9,4.2,0,1,5,0,1
-EST-11257,Sede Sur,Enfermería (TENS),Vespertina,27,0,1,1,81.8,5.5,0,0,12,1,0
-EST-10002,Sede Costa,Educación Parvularia,Diurna,34,0,0,0,87.7,4.7,0,0,10,1,0
+EST-11261,Sede Centro,Educación Parvularia,Diurna,24,1,0,0,69.2,4.1,0,1,4,0,1
+EST-10257,Sede Cordillera,Administración,Diurna,25,0,0,0,94.4,4.6,0,1,17,3,0
+EST-11214,Sede Sur,Turismo,Diurna,25,1,0,1,72.8,5.1,0,0,7,2,0
+EST-10385,Sede Sur,Contabilidad,Vespertina,31,1,1,0,73.9,4.2,0,1,5,0,1
+EST-11257,Sede Costa,Enfermería (TENS),Vespertina,27,0,1,1,81.8,5.5,0,0,12,1,0
+EST-10002,Sede Cordillera,Educación Parvularia,Diurna,34,0,0,0,87.7,4.7,0,0,10,1,0
 EST-10453,Sede Centro,Electricidad,Diurna,19,0,1,0,78.8,5.6,0,2,9,1,0
-EST-11428,Sede Centro,Electricidad,Vespertina,24,1,1,1,72.6,5.1,0,0,9,1,0
+EST-11428,Sede Sur,Electricidad,Vespertina,24,1,1,1,72.6,5.1,0,0,9,1,0
 EST-10753,Sede Norte,Contabilidad,Vespertina,29,0,1,1,56.6,3.8,1,0,4,1,1
-EST-11073,Sede Costa,Contabilidad,Diurna,37,0,0,1,71.6,4.5,0,0,10,0,0
-EST-11483,Sede Costa,Electricidad,Diurna,21,0,0,1,63.7,5.7,0,0,4,0,0
+EST-11073,Sede Cordillera,Contabilidad,Diurna,37,0,0,1,71.6,4.5,0,0,10,0,0
+EST-11483,Sede Cordillera,Electricidad,Diurna,21,0,0,1,63.7,5.7,0,0,4,0,0
 EST-10303,Sede Norte,Electricidad,Diurna,26,0,0,0,80.6,5.8,0,2,7,0,0
 EST-10491,Sede Centro,Administración,Diurna,21,1,0,1,90.3,5.7,0,0,14,0,0
-EST-10540,Sede Costa,Enfermería (TENS),Diurna,20,0,0,1,79.1,5.0,0,0,9,1,0
-EST-11357,Sede Centro,Administración,Diurna,26,1,1,0,54.8,4.6,1,1,6,1,1
+EST-10540,Sede Cordillera,Enfermería (TENS),Diurna,20,0,0,1,79.1,5.0,0,0,9,1,0
+EST-11357,Sede Sur,Administración,Diurna,26,1,1,0,54.8,4.6,1,1,6,1,1
 EST-10390,Sede Centro,Educación Parvularia,Diurna,33,1,0,1,81.7,4.8,0,0,8,1,0
 EST-11289,Sede Centro,Educación Parvularia,Diurna,17,1,0,1,96.5,5.2,0,0,9,0,0
 EST-10354,Sede Sur,Administración,Diurna,26,1,0,0,78.2,5.1,0,1,10,0,0
 EST-10541,Sede Sur,Electricidad,Diurna,27,0,0,1,67.6,5.4,0,0,7,1,0
 EST-11004,Sede Norte,Administración,Diurna,23,1,0,1,76.2,4.7,1,0,9,1,0
 EST-10757,Sede Centro,Enfermería (TENS),Vespertina,25,1,1,1,77.1,5.3,0,0,14,1,0
-EST-10565,Sede Sur,Educación Parvularia,Diurna,19,1,1,1,49.5,3.8,1,0,6,2,0
-EST-11099,Sede Sur,Electricidad,Diurna,22,0,0,1,89.9,3.7,3,0,9,1,0
+EST-10565,Sede Costa,Educación Parvularia,Diurna,19,1,1,1,49.5,3.8,1,0,6,2,0
+EST-11099,Sede Costa,Electricidad,Diurna,22,0,0,1,89.9,3.7,3,0,9,1,0
 EST-10787,Sede Sur,Turismo,Vespertina,23,1,1,0,74.2,3.8,3,0,5,0,1
-EST-10885,Sede Sur,Enfermería (TENS),Diurna,30,0,0,1,70.8,4.3,0,0,10,1,0
+EST-10885,Sede Costa,Enfermería (TENS),Diurna,30,0,0,1,70.8,4.3,0,0,10,1,0
 EST-10013,Sede Sur,Mecánica Automotriz,Diurna,20,1,0,1,87.4,5.7,0,0,9,0,0
-EST-10377,Sede Sur,Mecánica Automotriz,Vespertina,33,1,1,1,78.1,5.4,0,0,7,2,0
+EST-10377,Sede Costa,Mecánica Automotriz,Vespertina,33,1,1,1,78.1,5.4,0,0,7,2,0
 EST-10809,Sede Centro,Enfermería (TENS),Vespertina,35,1,1,0,83.4,4.9,0,0,6,0,0
 EST-11296,Sede Norte,Educación Parvularia,Diurna,18,1,1,1,55.9,4.3,1,0,7,0,0
 EST-11387,Sede Norte,Informática,Vespertina,25,0,1,1,89.0,5.8,0,0,10,0,0
-EST-10547,Sede Centro,Contabilidad,Diurna,24,1,1,1,89.3,4.5,0,0,4,0,0
+EST-10547,Sede Sur,Contabilidad,Diurna,24,1,1,1,89.3,4.5,0,0,4,0,0
 EST-11243,Sede Norte,Informática,Vespertina,24,1,1,1,85.5,4.9,1,0,13,2,0
-EST-11234,Sede Sur,Enfermería (TENS),Vespertina,34,1,1,1,56.7,4.2,0,0,4,0,0
+EST-11234,Sede Costa,Enfermería (TENS),Vespertina,34,1,1,1,56.7,4.2,0,0,4,0,0
 EST-10796,Sede Norte,Turismo,Diurna,29,0,1,1,76.3,3.5,0,0,8,0,1
-EST-10456,Sede Sur,Enfermería (TENS),Diurna,26,1,1,0,86.1,5.8,0,0,7,0,0
+EST-10456,Sede Costa,Enfermería (TENS),Diurna,26,1,1,0,86.1,5.8,0,0,7,0,0
 EST-10615,Sede Centro,Turismo,Diurna,31,0,1,0,87.1,6.1,0,0,13,0,0
 EST-11304,Sede Norte,Electricidad,Diurna,22,1,0,0,93.7,5.6,0,0,8,1,0
 EST-10560,Sede Centro,Informática,Diurna,25,0,0,1,83.7,5.8,0,0,5,1,0
 EST-10985,Sede Norte,Contabilidad,Diurna,31,1,0,1,84.4,5.8,0,0,7,0,0
 EST-10222,Sede Norte,Turismo,Diurna,39,0,1,1,76.5,5.6,0,0,6,2,0
 EST-10146,Sede Norte,Mecánica Automotriz,Diurna,22,0,1,0,78.0,5.0,0,0,10,1,0
-EST-11241,Sede Costa,Educación Parvularia,Vespertina,25,1,1,1,62.5,4.6,0,0,9,0,1
+EST-11241,Sede Cordillera,Educación Parvularia,Vespertina,25,1,1,1,62.5,4.6,0,0,9,0,1
 EST-10258,Sede Centro,Educación Parvularia,Diurna,34,1,0,0,85.2,3.5,0,1,9,0,1
 EST-10621,Sede Centro,Informática,Diurna,25,0,1,1,67.6,5.2,0,0,9,0,0
 EST-10646,Sede Norte,Contabilidad,Diurna,17,1,0,1,74.0,4.3,0,0,14,2,1
 EST-10379,Sede Norte,Informática,Diurna,27,0,0,1,88.4,3.8,1,0,11,0,1
-EST-10728,Sede Centro,Enfermería (TENS),Vespertina,30,0,1,1,79.9,4.5,0,0,7,2,0
+EST-10728,Sede Sur,Enfermería (TENS),Vespertina,30,0,1,1,79.9,4.5,0,0,7,2,0
 EST-10982,Sede Centro,Enfermería (TENS),Diurna,25,0,0,1,76.1,5.1,0,0,9,0,0
-EST-10298,Sede Norte,Administración,Diurna,30,1,0,0,73.6,5.0,0,0,7,1,0
+EST-10298,Sede Centro,Administración,Diurna,30,1,0,0,73.6,5.0,0,0,7,1,0
 EST-10207,Sede Norte,Mecánica Automotriz,Diurna,21,0,0,1,84.2,4.9,0,0,5,0,0
-EST-10642,Sede Sur,Mecánica Automotriz,Vespertina,24,0,1,0,53.6,4.3,2,0,4,0,1
-EST-10333,Sede Costa,Administración,Diurna,20,1,1,1,85.0,3.2,3,0,12,0,1
+EST-10642,Sede Costa,Mecánica Automotriz,Vespertina,24,0,1,0,53.6,4.3,2,0,4,0,1
+EST-10333,Sede Cordillera,Administración,Diurna,20,1,1,1,85.0,3.2,3,0,12,0,1
 EST-10159,Sede Centro,Mecánica Automotriz,Diurna,32,1,0,1,90.9,6.4,0,0,8,0,0
 EST-11227,Sede Centro,Informática,Diurna,26,1,0,1,50.8,1.9,0,0,4,0,1
-EST-11001,Sede Norte,Electricidad,Diurna,17,1,1,1,80.0,4.3,3,0,8,1,0
+EST-11001,Sede Centro,Electricidad,Diurna,17,1,1,1,80.0,4.3,3,0,8,1,0
 EST-11258,Sede Norte,Turismo,Vespertina,35,1,1,1,81.3,6.1,0,0,11,0,0
 EST-11253,Sede Centro,Mecánica Automotriz,Vespertina,29,0,1,1,69.3,4.7,0,0,11,2,0
-EST-10194,Sede Sur,Turismo,Diurna,17,0,1,1,94.6,4.7,0,0,11,0,0
+EST-10194,Sede Costa,Turismo,Diurna,17,0,1,1,94.6,4.7,0,0,11,0,0
 EST-10658,Sede Norte,Educación Parvularia,Diurna,34,1,0,1,84.6,5.2,0,0,13,1,0
-EST-10120,Sede Sur,Contabilidad,Vespertina,40,1,1,1,91.3,4.7,0,0,10,0,0
+EST-10120,Sede Costa,Contabilidad,Vespertina,40,1,1,1,91.3,4.7,0,0,10,0,0
 EST-10167,Sede Norte,Educación Parvularia,Diurna,25,1,0,1,82.0,5.8,0,0,11,0,0
 EST-10060,Sede Centro,Contabilidad,Vespertina,31,0,1,1,54.6,3.9,0,0,6,1,1
-EST-10387,Sede Sur,Administración,Diurna,22,1,0,0,83.7,5.2,0,1,9,1,0
+EST-10387,Sede Costa,Administración,Diurna,22,1,0,0,83.7,5.2,0,1,9,1,0
 EST-10631,Sede Centro,Contabilidad,Diurna,21,1,0,1,84.0,5.2,0,0,7,0,0
 EST-10566,Sede Costa,Mecánica Automotriz,Vespertina,33,1,1,1,76.5,3.7,0,0,7,1,0
-EST-10166,Sede Sur,Administración,Vespertina,25,0,1,1,88.7,4.2,1,0,10,0,0
-EST-11101,Sede Centro,Electricidad,Diurna,21,1,0,1,94.6,5.3,0,0,15,1,0
+EST-10166,Sede Costa,Administración,Vespertina,25,0,1,1,88.7,4.2,1,0,10,0,0
+EST-11101,Sede Sur,Electricidad,Diurna,21,1,0,1,94.6,5.3,0,0,15,1,0
 EST-11157,Sede Centro,Electricidad,Vespertina,30,1,1,0,74.4,3.6,1,3,4,0,1
 EST-10402,Sede Norte,Informática,Diurna,17,1,0,0,76.0,4.9,0,0,3,0,0
-EST-11182,Sede Centro,Administración,Diurna,22,1,0,1,64.9,3.2,3,0,7,1,1
+EST-11182,Sede Sur,Administración,Diurna,22,1,0,1,64.9,3.2,3,0,7,1,1
 EST-10869,Sede Norte,Enfermería (TENS),Diurna,29,0,0,1,63.8,4.1,0,0,6,0,0
 EST-10515,Sede Costa,Mecánica Automotriz,Diurna,17,0,0,1,94.1,4.2,1,0,15,2,0
 EST-10283,Sede Costa,Contabilidad,Diurna,23,0,1,1,92.0,3.4,4,0,10,2,1
@@ -1121,29 +1121,29 @@ EST-11220,Sede Centro,Enfermería (TENS),Vespertina,24,0,1,1,57.4,5.2,0,0,7,1,0
 EST-11444,Sede Sur,Turismo,Vespertina,28,0,1,1,63.1,3.5,1,0,10,1,0
 EST-11255,Sede Sur,Enfermería (TENS),Diurna,18,1,1,1,82.0,5.6,0,0,9,1,0
 EST-10776,Sede Norte,Electricidad,Diurna,26,0,0,1,95.2,5.9,0,0,6,1,0
-EST-10941,Sede Costa,Electricidad,Diurna,25,0,1,1,51.4,3.6,1,0,2,1,1
+EST-10941,Sede Cordillera,Electricidad,Diurna,25,0,1,1,51.4,3.6,1,0,2,1,1
 EST-10999,Sede Norte,Contabilidad,Diurna,17,1,0,1,88.9,5.3,0,0,8,0,0
 EST-10288,Sede Norte,Administración,Vespertina,33,1,1,1,75.5,4.1,1,0,10,0,0
 EST-10564,Sede Norte,Educación Parvularia,Diurna,23,0,1,1,76.7,3.9,1,0,7,0,0
 EST-11136,Sede Centro,Enfermería (TENS),Diurna,27,1,1,1,67.3,4.0,1,0,9,0,1
-EST-10803,Sede Costa,Electricidad,Diurna,20,1,1,1,70.5,4.6,1,0,8,1,0
+EST-10803,Sede Cordillera,Electricidad,Diurna,20,1,1,1,70.5,4.6,1,0,8,1,0
 EST-10506,Sede Sur,Informática,Diurna,18,1,0,1,87.4,5.1,0,0,7,1,0
 EST-11046,Sede Centro,Educación Parvularia,Diurna,24,1,1,1,73.9,3.1,1,0,8,2,1
 EST-10367,Sede Costa,Mecánica Automotriz,Diurna,18,0,0,0,94.0,4.8,0,2,12,0,0
-EST-11451,Sede Costa,Enfermería (TENS),Diurna,30,1,0,1,75.5,4.8,0,0,11,0,0
-EST-10839,Sede Centro,Contabilidad,Diurna,37,1,0,1,66.6,6.4,0,0,5,1,0
-EST-10137,Sede Sur,Turismo,Diurna,28,0,1,1,79.6,5.5,0,0,8,0,0
-EST-10924,Sede Costa,Electricidad,Diurna,24,0,0,1,87.2,5.2,0,0,7,2,0
+EST-11451,Sede Cordillera,Enfermería (TENS),Diurna,30,1,0,1,75.5,4.8,0,0,11,0,0
+EST-10839,Sede Sur,Contabilidad,Diurna,37,1,0,1,66.6,6.4,0,0,5,1,0
+EST-10137,Sede Costa,Turismo,Diurna,28,0,1,1,79.6,5.5,0,0,8,0,0
+EST-10924,Sede Cordillera,Electricidad,Diurna,24,0,0,1,87.2,5.2,0,0,7,2,0
 EST-11108,Sede Norte,Electricidad,Vespertina,29,1,0,1,60.2,4.2,1,0,7,2,1
-EST-11394,Sede Centro,Mecánica Automotriz,Vespertina,23,0,1,1,49.8,3.2,2,0,8,0,1
+EST-11394,Sede Sur,Mecánica Automotriz,Vespertina,23,0,1,1,49.8,3.2,2,0,8,0,1
 EST-10403,Sede Sur,Contabilidad,Diurna,23,1,0,0,61.7,3.4,1,1,5,0,1
 EST-10282,Sede Centro,Contabilidad,Vespertina,26,1,1,1,81.1,5.6,1,0,5,2,0
 EST-11034,Sede Centro,Enfermería (TENS),Diurna,20,0,1,0,70.8,5.4,0,0,11,0,0
-EST-10216,Sede Norte,Turismo,Diurna,32,0,0,1,90.9,6.7,0,0,10,0,0
-EST-10118,Sede Costa,Contabilidad,Diurna,22,0,1,1,82.8,4.7,0,0,9,1,0
-EST-11336,Sede Costa,Informática,Diurna,28,0,1,1,62.9,5.5,0,0,9,0,1
+EST-10216,Sede Centro,Turismo,Diurna,32,0,0,1,90.9,6.7,0,0,10,0,0
+EST-10118,Sede Cordillera,Contabilidad,Diurna,22,0,1,1,82.8,4.7,0,0,9,1,0
+EST-11336,Sede Cordillera,Informática,Diurna,28,0,1,1,62.9,5.5,0,0,9,0,1
 EST-10760,Sede Norte,Administración,Diurna,30,1,1,1,59.9,4.4,0,0,1,0,1
-EST-11148,Sede Sur,Administración,Vespertina,27,1,1,0,92.3,4.9,0,1,10,0,0
+EST-11148,Sede Costa,Administración,Vespertina,27,1,1,0,92.3,4.9,0,1,10,0,0
 EST-11238,Sede Sur,Administración,Vespertina,29,0,1,1,85.9,5.8,0,0,9,0,0
 EST-11022,Sede Centro,Educación Parvularia,Vespertina,32,1,1,1,81.5,4.9,0,0,6,0,0
 EST-10395,Sede Centro,Contabilidad,Vespertina,22,0,1,1,77.4,4.5,0,0,9,0,0
@@ -1152,11 +1152,11 @@ EST-10292,Sede Sur,Educación Parvularia,Vespertina,32,0,1,1,47.6,3.7,2,0,6,0,1
 EST-10998,Sede Centro,Electricidad,Vespertina,21,0,1,1,79.3,5.8,0,0,4,0,0
 EST-11061,Sede Sur,Mecánica Automotriz,Diurna,21,0,0,1,77.9,5.9,0,0,7,1,0
 EST-10951,Sede Sur,Turismo,Diurna,26,1,0,1,74.5,5.1,1,0,3,0,1
-EST-11332,Sede Costa,Informática,Diurna,27,0,1,1,82.9,4.4,1,0,9,0,1
+EST-11332,Sede Cordillera,Informática,Diurna,27,0,1,1,82.9,4.4,1,0,9,0,1
 EST-10921,Sede Sur,Mecánica Automotriz,Diurna,24,0,0,1,85.6,4.3,0,0,12,0,0
 EST-10761,Sede Norte,Mecánica Automotriz,Vespertina,29,1,0,1,88.3,3.9,1,0,9,0,0
 EST-10812,Sede Norte,Educación Parvularia,Vespertina,30,1,1,0,73.4,5.6,0,0,7,1,0
-EST-11213,Sede Centro,Turismo,Diurna,26,0,0,0,78.5,4.4,0,1,8,0,0
+EST-11213,Sede Sur,Turismo,Diurna,26,0,0,0,78.5,4.4,0,1,8,0,0
 EST-10876,Sede Norte,Enfermería (TENS),Vespertina,31,0,1,1,83.1,4.4,1,0,14,0,0
 EST-10003,Sede Centro,Informática,Diurna,24,1,1,1,76.9,5.0,0,0,11,0,0
 EST-11065,Sede Centro,Electricidad,Diurna,26,0,1,0,70.5,4.8,0,1,12,0,0
@@ -1164,182 +1164,182 @@ EST-10392,Sede Norte,Informática,Diurna,20,1,1,1,73.3,4.2,1,0,10,0,0
 EST-11254,Sede Norte,Contabilidad,Diurna,30,0,0,1,89.9,5.1,0,0,12,1,0
 EST-11468,Sede Norte,Contabilidad,Vespertina,35,1,0,0,98.3,5.8,0,1,7,0,0
 EST-10561,Sede Norte,Administración,Vespertina,28,0,1,1,85.3,7.0,0,0,10,0,0
-EST-11275,Sede Costa,Contabilidad,Diurna,17,1,0,1,80.0,4.5,1,0,4,0,0
+EST-11275,Sede Cordillera,Contabilidad,Diurna,17,1,0,1,80.0,4.5,1,0,4,0,0
 EST-10461,Sede Centro,Educación Parvularia,Diurna,17,0,1,1,83.6,5.2,0,0,9,0,0
-EST-10823,Sede Costa,Administración,Diurna,28,0,0,1,96.3,5.4,0,0,7,3,0
+EST-10823,Sede Cordillera,Administración,Diurna,28,0,0,1,96.3,5.4,0,0,7,3,0
 EST-11174,Sede Norte,Electricidad,Diurna,18,1,0,0,58.6,5.1,0,0,6,1,1
-EST-11455,Sede Centro,Mecánica Automotriz,Vespertina,30,0,1,1,61.8,5.7,0,0,3,1,1
+EST-11455,Sede Sur,Mecánica Automotriz,Vespertina,30,0,1,1,61.8,5.7,0,0,3,1,1
 EST-10075,Sede Centro,Turismo,Diurna,17,0,0,1,94.6,4.8,1,0,9,0,0
-EST-11195,Sede Centro,Mecánica Automotriz,Vespertina,31,1,1,1,64.1,3.3,1,0,7,1,0
-EST-10774,Sede Sur,Turismo,Vespertina,31,0,1,0,85.4,5.9,0,0,10,0,0
+EST-11195,Sede Sur,Mecánica Automotriz,Vespertina,31,1,1,1,64.1,3.3,1,0,7,1,0
+EST-10774,Sede Costa,Turismo,Vespertina,31,0,1,0,85.4,5.9,0,0,10,0,0
 EST-11437,Sede Centro,Mecánica Automotriz,Vespertina,28,0,1,1,75.8,6.0,0,0,9,0,0
 EST-10407,Sede Sur,Educación Parvularia,Vespertina,24,1,1,1,86.6,5.2,0,0,8,1,1
 EST-10802,Sede Norte,Electricidad,Vespertina,33,0,1,0,46.1,3.6,2,0,6,1,1
-EST-10497,Sede Sur,Mecánica Automotriz,Diurna,17,0,0,1,63.1,3.5,6,0,3,1,1
+EST-10497,Sede Costa,Mecánica Automotriz,Diurna,17,0,0,1,63.1,3.5,6,0,3,1,1
 EST-10814,Sede Centro,Contabilidad,Vespertina,33,0,0,1,75.4,4.4,0,0,6,0,0
 EST-10816,Sede Norte,Mecánica Automotriz,Diurna,23,0,0,1,82.4,4.7,0,0,10,0,0
-EST-10905,Sede Norte,Mecánica Automotriz,Diurna,34,1,0,1,94.4,4.3,2,0,7,0,0
+EST-10905,Sede Centro,Mecánica Automotriz,Diurna,34,1,0,1,94.4,4.3,2,0,7,0,0
 EST-11445,Sede Norte,Contabilidad,Diurna,17,0,0,1,80.2,4.3,0,0,14,0,0
-EST-10122,Sede Sur,Turismo,Diurna,25,0,1,1,66.1,3.4,1,0,5,1,1
+EST-10122,Sede Costa,Turismo,Diurna,25,0,1,1,66.1,3.4,1,0,5,1,1
 EST-10632,Sede Centro,Contabilidad,Diurna,20,1,1,1,74.0,3.6,1,0,9,1,1
 EST-11140,Sede Centro,Mecánica Automotriz,Diurna,27,1,1,1,69.7,4.3,0,0,6,0,0
-EST-11020,Sede Centro,Informática,Vespertina,33,0,1,1,97.3,5.2,0,0,11,2,0
+EST-11020,Sede Sur,Informática,Vespertina,33,0,1,1,97.3,5.2,0,0,11,2,0
 EST-11460,Sede Centro,Educación Parvularia,Diurna,17,0,1,1,77.6,5.7,0,0,11,0,0
-EST-11078,Sede Costa,Mecánica Automotriz,Diurna,32,1,0,1,50.7,4.5,0,0,8,0,1
-EST-11104,Sede Sur,Mecánica Automotriz,Diurna,21,0,0,1,77.6,5.7,0,0,4,1,0
-EST-10064,Sede Centro,Informática,Vespertina,25,0,1,1,90.6,5.3,0,0,8,0,0
+EST-11078,Sede Cordillera,Mecánica Automotriz,Diurna,32,1,0,1,50.7,4.5,0,0,8,0,1
+EST-11104,Sede Costa,Mecánica Automotriz,Diurna,21,0,0,1,77.6,5.7,0,0,4,1,0
+EST-10064,Sede Sur,Informática,Vespertina,25,0,1,1,90.6,5.3,0,0,8,0,0
 EST-10229,Sede Norte,Administración,Vespertina,27,0,0,1,72.9,5.3,0,0,4,0,0
 EST-10786,Sede Centro,Turismo,Diurna,17,0,0,0,90.4,5.7,0,1,8,1,0
 EST-10679,Sede Centro,Turismo,Diurna,21,0,0,1,75.6,5.2,0,0,11,1,0
 EST-10197,Sede Sur,Educación Parvularia,Diurna,17,1,1,0,76.7,3.8,0,3,9,1,1
 EST-10855,Sede Norte,Enfermería (TENS),Vespertina,19,0,0,1,72.8,5.6,0,0,4,0,0
 EST-10489,Sede Norte,Mecánica Automotriz,Diurna,31,0,0,1,73.3,5.0,0,0,6,0,0
-EST-10313,Sede Sur,Contabilidad,Diurna,30,0,0,1,66.2,3.7,1,0,4,1,0
+EST-10313,Sede Costa,Contabilidad,Diurna,30,0,0,1,66.2,3.7,1,0,4,1,0
 EST-11183,Sede Centro,Informática,Diurna,26,1,1,1,80.5,4.1,1,0,9,0,0
-EST-11346,Sede Norte,Mecánica Automotriz,Vespertina,25,0,1,1,74.8,5.4,0,0,15,1,0
+EST-11346,Sede Centro,Mecánica Automotriz,Vespertina,25,0,1,1,74.8,5.4,0,0,15,1,0
 EST-11374,Sede Norte,Administración,Diurna,31,1,0,1,73.4,5.2,0,0,8,0,0
 EST-10157,Sede Norte,Administración,Vespertina,29,1,0,0,75.5,5.0,0,0,7,2,0
 EST-10897,Sede Centro,Turismo,Vespertina,27,0,1,1,82.1,3.9,1,0,10,0,0
 EST-10482,Sede Centro,Enfermería (TENS),Vespertina,25,1,0,1,94.0,5.5,0,0,6,1,0
-EST-11303,Sede Costa,Educación Parvularia,Diurna,25,0,0,0,62.6,6.3,0,0,6,1,0
+EST-11303,Sede Cordillera,Educación Parvularia,Diurna,25,0,0,0,62.6,6.3,0,0,6,1,0
 EST-10886,Sede Sur,Mecánica Automotriz,Vespertina,29,0,0,0,58.6,4.9,0,0,6,1,1
 EST-10931,Sede Norte,Enfermería (TENS),Vespertina,24,1,0,0,66.5,6.0,0,3,8,1,0
 EST-10200,Sede Sur,Administración,Vespertina,24,1,0,1,83.6,4.1,0,0,12,0,0
 EST-11309,Sede Norte,Contabilidad,Diurna,28,1,0,0,90.4,3.1,2,0,12,0,0
-EST-11373,Sede Sur,Turismo,Diurna,27,0,0,1,93.8,4.0,0,0,11,0,0
+EST-11373,Sede Costa,Turismo,Diurna,27,0,0,1,93.8,4.0,0,0,11,0,0
 EST-10906,Sede Centro,Educación Parvularia,Diurna,32,0,0,1,94.1,6.2,0,0,13,1,0
 EST-10730,Sede Sur,Contabilidad,Diurna,22,1,0,1,74.8,6.2,1,0,8,0,0
-EST-10209,Sede Costa,Mecánica Automotriz,Diurna,17,1,0,1,64.0,3.8,1,0,8,0,0
-EST-10920,Sede Costa,Mecánica Automotriz,Diurna,25,1,0,1,61.3,4.4,0,0,11,1,0
-EST-10828,Sede Centro,Electricidad,Diurna,17,0,0,1,92.1,5.4,0,0,9,0,0
+EST-10209,Sede Cordillera,Mecánica Automotriz,Diurna,17,1,0,1,64.0,3.8,1,0,8,0,0
+EST-10920,Sede Cordillera,Mecánica Automotriz,Diurna,25,1,0,1,61.3,4.4,0,0,11,1,0
+EST-10828,Sede Sur,Electricidad,Diurna,17,0,0,1,92.1,5.4,0,0,9,0,0
 EST-10163,Sede Norte,Electricidad,Vespertina,24,0,1,1,76.8,4.7,2,0,7,2,1
 EST-11476,Sede Norte,Electricidad,Diurna,30,0,0,1,84.2,5.2,0,0,15,0,0
-EST-10624,Sede Norte,Informática,Diurna,34,1,0,0,57.5,4.5,0,1,5,0,0
+EST-10624,Sede Centro,Informática,Diurna,34,1,0,0,57.5,4.5,0,1,5,0,0
 EST-10131,Sede Norte,Electricidad,Diurna,27,0,1,1,78.5,5.0,0,0,7,3,0
-EST-10026,Sede Norte,Turismo,Vespertina,28,1,0,1,65.5,4.2,2,0,11,0,1
-EST-10694,Sede Costa,Contabilidad,Diurna,22,0,0,1,66.2,5.4,0,0,5,1,1
+EST-10026,Sede Centro,Turismo,Vespertina,28,1,0,1,65.5,4.2,2,0,11,0,1
+EST-10694,Sede Cordillera,Contabilidad,Diurna,22,0,0,1,66.2,5.4,0,0,5,1,1
 EST-10987,Sede Centro,Educación Parvularia,Diurna,25,1,1,0,44.7,4.9,0,2,5,0,1
 EST-10771,Sede Centro,Informática,Vespertina,27,1,1,1,50.0,3.7,2,0,1,0,1
-EST-10697,Sede Sur,Electricidad,Vespertina,33,1,1,0,72.0,5.1,0,2,6,0,1
-EST-11266,Sede Sur,Informática,Diurna,19,1,0,1,85.1,5.7,0,0,10,1,0
+EST-10697,Sede Costa,Electricidad,Vespertina,33,1,1,0,72.0,5.1,0,2,6,0,1
+EST-11266,Sede Costa,Informática,Diurna,19,1,0,1,85.1,5.7,0,0,10,1,0
 EST-10440,Sede Centro,Mecánica Automotriz,Diurna,25,0,0,1,83.2,5.2,0,0,13,0,0
 EST-10930,Sede Centro,Electricidad,Vespertina,24,0,1,1,80.5,4.9,0,0,8,0,0
-EST-10301,Sede Centro,Educación Parvularia,Diurna,17,1,1,1,77.0,5.6,0,0,6,0,0
+EST-10301,Sede Sur,Educación Parvularia,Diurna,17,1,1,1,77.0,5.6,0,0,6,0,0
 EST-10743,Sede Sur,Informática,Vespertina,35,0,1,1,55.7,4.2,2,0,6,1,1
 EST-10485,Sede Norte,Administración,Diurna,42,0,0,0,54.0,4.0,0,0,6,1,1
-EST-10714,Sede Sur,Administración,Vespertina,27,0,1,1,62.3,5.6,0,0,3,0,0
+EST-10714,Sede Costa,Administración,Vespertina,27,0,1,1,62.3,5.6,0,0,3,0,0
 EST-10153,Sede Norte,Turismo,Diurna,24,1,0,1,63.5,4.7,0,0,4,0,1
-EST-10836,Sede Centro,Turismo,Diurna,32,0,0,1,97.5,5.6,0,0,9,0,0
-EST-10487,Sede Costa,Enfermería (TENS),Diurna,17,1,0,1,58.4,3.5,2,0,5,1,1
+EST-10836,Sede Sur,Turismo,Diurna,32,0,0,1,97.5,5.6,0,0,9,0,0
+EST-10487,Sede Cordillera,Enfermería (TENS),Diurna,17,1,0,1,58.4,3.5,2,0,5,1,1
 EST-11404,Sede Norte,Turismo,Vespertina,23,0,1,1,70.9,4.8,1,0,10,0,0
-EST-10162,Sede Sur,Administración,Vespertina,31,1,1,1,80.0,6.0,0,0,9,0,0
+EST-10162,Sede Costa,Administración,Vespertina,31,1,1,1,80.0,6.0,0,0,9,0,0
 EST-10990,Sede Centro,Educación Parvularia,Diurna,32,1,0,0,90.9,6.2,0,0,5,0,0
 EST-10713,Sede Norte,Enfermería (TENS),Diurna,27,1,1,1,67.7,5.0,0,0,8,2,0
 EST-10401,Sede Centro,Enfermería (TENS),Vespertina,25,1,1,0,53.3,3.4,4,0,9,1,1
 EST-10863,Sede Norte,Enfermería (TENS),Vespertina,38,0,1,1,81.6,6.9,0,0,9,0,0
 EST-10682,Sede Centro,Educación Parvularia,Vespertina,27,1,1,1,95.9,5.6,0,0,8,0,0
-EST-10492,Sede Centro,Turismo,Diurna,23,0,1,1,83.8,5.5,0,0,6,1,0
-EST-10983,Sede Sur,Contabilidad,Vespertina,28,1,1,0,64.3,3.6,2,1,4,0,1
-EST-10790,Sede Sur,Enfermería (TENS),Vespertina,23,0,0,0,75.9,4.7,0,0,9,1,0
-EST-11422,Sede Costa,Contabilidad,Vespertina,28,0,1,1,50.7,4.5,4,0,3,0,1
+EST-10492,Sede Sur,Turismo,Diurna,23,0,1,1,83.8,5.5,0,0,6,1,0
+EST-10983,Sede Costa,Contabilidad,Vespertina,28,1,1,0,64.3,3.6,2,1,4,0,1
+EST-10790,Sede Costa,Enfermería (TENS),Vespertina,23,0,0,0,75.9,4.7,0,0,9,1,0
+EST-11422,Sede Cordillera,Contabilidad,Vespertina,28,0,1,1,50.7,4.5,4,0,3,0,1
 EST-11406,Sede Centro,Enfermería (TENS),Diurna,23,0,0,0,72.3,3.9,3,2,6,1,1
-EST-10702,Sede Costa,Enfermería (TENS),Diurna,23,1,0,1,68.1,4.8,0,0,10,1,0
-EST-11351,Sede Costa,Educación Parvularia,Diurna,27,1,0,0,74.3,4.2,0,0,8,0,0
+EST-10702,Sede Cordillera,Enfermería (TENS),Diurna,23,1,0,1,68.1,4.8,0,0,10,1,0
+EST-11351,Sede Cordillera,Educación Parvularia,Diurna,27,1,0,0,74.3,4.2,0,0,8,0,0
 EST-10644,Sede Centro,Educación Parvularia,Vespertina,23,0,1,0,54.7,5.9,0,0,6,0,0
 EST-10841,Sede Norte,Educación Parvularia,Diurna,32,1,1,0,74.8,4.1,0,1,6,1,0
 EST-10571,Sede Centro,Turismo,Diurna,22,1,0,1,77.1,5.3,0,0,15,0,0
-EST-10948,Sede Sur,Informática,Diurna,18,0,0,1,92.1,6.3,0,0,12,0,0
-EST-10833,Sede Centro,Educación Parvularia,Diurna,17,1,0,1,96.9,4.8,1,0,14,0,0
+EST-10948,Sede Costa,Informática,Diurna,18,0,0,1,92.1,6.3,0,0,12,0,0
+EST-10833,Sede Sur,Educación Parvularia,Diurna,17,1,0,1,96.9,4.8,1,0,14,0,0
 EST-10027,Sede Norte,Educación Parvularia,Vespertina,24,0,1,0,74.5,4.2,1,0,7,2,1
 EST-10449,Sede Costa,Informática,Vespertina,30,1,0,1,39.4,3.5,0,0,4,2,1
-EST-11096,Sede Centro,Administración,Vespertina,28,0,0,1,92.7,6.3,1,0,8,0,0
+EST-11096,Sede Sur,Administración,Vespertina,28,0,0,1,92.7,6.3,1,0,8,0,0
 EST-10815,Sede Norte,Educación Parvularia,Vespertina,27,1,1,1,77.0,4.7,0,0,5,0,0
-EST-10145,Sede Sur,Electricidad,Diurna,31,0,1,1,56.3,4.7,0,0,3,1,0
+EST-10145,Sede Costa,Electricidad,Diurna,31,0,1,1,56.3,4.7,0,0,3,1,0
 EST-11457,Sede Centro,Turismo,Vespertina,27,0,1,1,87.3,6.3,0,0,13,2,0
 EST-10963,Sede Centro,Administración,Diurna,28,1,0,0,79.1,5.2,0,0,7,0,0
 EST-10398,Sede Centro,Turismo,Diurna,25,0,1,1,70.3,4.1,0,0,9,0,0
 EST-10397,Sede Centro,Contabilidad,Diurna,28,0,1,1,85.3,3.7,0,0,6,2,0
-EST-10604,Sede Costa,Electricidad,Diurna,20,1,0,0,91.5,5.0,0,0,5,2,0
+EST-10604,Sede Cordillera,Electricidad,Diurna,20,1,0,0,91.5,5.0,0,0,5,2,0
 EST-10439,Sede Sur,Turismo,Diurna,29,1,0,0,84.5,5.3,0,1,15,0,0
-EST-10986,Sede Norte,Turismo,Vespertina,20,1,0,1,89.5,5.7,0,0,7,1,0
+EST-10986,Sede Centro,Turismo,Vespertina,20,1,0,1,89.5,5.7,0,0,7,1,0
 EST-11248,Sede Centro,Turismo,Diurna,37,1,1,0,62.5,3.1,1,1,4,1,1
 EST-11171,Sede Norte,Turismo,Vespertina,24,0,0,0,90.4,4.2,2,3,13,2,0
 EST-10384,Sede Centro,Electricidad,Diurna,21,1,0,1,68.2,4.5,1,0,3,0,1
-EST-10276,Sede Sur,Electricidad,Vespertina,25,1,1,1,75.6,6.3,0,0,2,1,0
+EST-10276,Sede Costa,Electricidad,Vespertina,25,1,1,1,75.6,6.3,0,0,2,1,0
 EST-11048,Sede Centro,Informática,Vespertina,39,0,1,1,72.9,4.4,0,0,10,0,0
-EST-10274,Sede Sur,Informática,Diurna,34,1,0,1,68.6,5.6,0,0,4,0,0
+EST-10274,Sede Costa,Informática,Diurna,34,1,0,1,68.6,5.6,0,0,4,0,0
 EST-10188,Sede Centro,Educación Parvularia,Diurna,18,1,0,0,75.5,6.0,0,1,6,0,0
-EST-10969,Sede Centro,Informática,Diurna,31,0,0,1,98.5,5.8,0,0,8,0,0
+EST-10969,Sede Sur,Informática,Diurna,31,0,0,1,98.5,5.8,0,0,8,0,0
 EST-10444,Sede Norte,Informática,Diurna,17,0,0,1,44.6,5.1,0,0,8,0,1
 EST-10210,Sede Norte,Contabilidad,Vespertina,39,1,0,1,61.4,3.2,2,0,3,0,1
 EST-10577,Sede Centro,Mecánica Automotriz,Diurna,21,0,1,1,26.8,5.3,0,0,4,1,1
-EST-10045,Sede Costa,Turismo,Diurna,27,0,0,0,73.1,4.2,0,1,5,1,0
+EST-10045,Sede Cordillera,Turismo,Diurna,27,0,0,0,73.1,4.2,0,1,5,1,0
 EST-10651,Sede Sur,Administración,Vespertina,27,0,0,0,91.8,5.3,0,0,6,0,0
 EST-10794,Sede Norte,Electricidad,Diurna,19,0,0,0,79.6,5.3,0,0,10,0,0
-EST-11447,Sede Norte,Mecánica Automotriz,Vespertina,31,1,1,1,90.7,7.0,0,0,12,1,0
+EST-11447,Sede Centro,Mecánica Automotriz,Vespertina,31,1,1,1,90.7,7.0,0,0,12,1,0
 EST-10532,Sede Norte,Electricidad,Vespertina,30,0,1,0,59.2,6.3,0,0,5,3,0
-EST-10635,Sede Centro,Contabilidad,Diurna,17,1,0,1,74.6,5.1,0,0,3,1,0
-EST-11381,Sede Costa,Administración,Vespertina,28,1,1,1,78.8,5.4,0,0,6,0,0
-EST-10686,Sede Centro,Enfermería (TENS),Diurna,23,1,1,0,62.6,4.9,0,2,4,1,1
-EST-10320,Sede Sur,Mecánica Automotriz,Vespertina,25,1,1,1,51.9,5.0,0,0,5,1,0
+EST-10635,Sede Sur,Contabilidad,Diurna,17,1,0,1,74.6,5.1,0,0,3,1,0
+EST-11381,Sede Cordillera,Administración,Vespertina,28,1,1,1,78.8,5.4,0,0,6,0,0
+EST-10686,Sede Sur,Enfermería (TENS),Diurna,23,1,1,0,62.6,4.9,0,2,4,1,1
+EST-10320,Sede Costa,Mecánica Automotriz,Vespertina,25,1,1,1,51.9,5.0,0,0,5,1,0
 EST-10780,Sede Centro,Contabilidad,Vespertina,35,1,1,0,65.7,4.6,0,1,8,0,1
-EST-11009,Sede Sur,Mecánica Automotriz,Diurna,20,0,1,1,92.2,4.9,0,0,10,2,0
+EST-11009,Sede Costa,Mecánica Automotriz,Diurna,20,0,1,1,92.2,4.9,0,0,10,2,0
 EST-10589,Sede Centro,Electricidad,Diurna,17,1,1,1,70.0,4.1,1,0,8,0,0
 EST-10649,Sede Sur,Administración,Diurna,28,0,0,1,93.6,5.2,0,0,8,1,0
-EST-10626,Sede Norte,Electricidad,Diurna,18,1,1,1,86.5,4.3,0,0,6,0,0
+EST-10626,Sede Centro,Electricidad,Diurna,18,1,1,1,86.5,4.3,0,0,6,0,0
 EST-11480,Sede Sur,Enfermería (TENS),Diurna,25,1,0,1,70.3,3.4,1,0,8,0,1
 EST-10778,Sede Norte,Educación Parvularia,Diurna,18,1,1,1,85.2,4.5,0,0,11,0,0
 EST-11161,Sede Centro,Turismo,Diurna,32,0,1,1,64.5,5.1,0,0,5,2,0
-EST-10039,Sede Norte,Turismo,Vespertina,27,0,0,1,58.5,5.1,0,0,4,0,1
+EST-10039,Sede Centro,Turismo,Vespertina,27,0,0,1,58.5,5.1,0,0,4,0,1
 EST-11201,Sede Centro,Contabilidad,Vespertina,34,1,1,1,80.9,5.9,0,0,6,1,0
 EST-11047,Sede Norte,Administración,Diurna,20,1,0,0,79.4,4.2,0,2,6,0,0
-EST-10211,Sede Centro,Educación Parvularia,Vespertina,20,0,1,1,94.0,5.9,0,0,6,0,0
-EST-11155,Sede Centro,Turismo,Vespertina,26,0,1,1,84.5,5.4,0,0,10,0,0
+EST-10211,Sede Sur,Educación Parvularia,Vespertina,20,0,1,1,94.0,5.9,0,0,6,0,0
+EST-11155,Sede Sur,Turismo,Vespertina,26,0,1,1,84.5,5.4,0,0,10,0,0
 EST-10934,Sede Norte,Enfermería (TENS),Diurna,28,1,0,1,55.9,2.9,0,0,4,0,1
-EST-11062,Sede Sur,Educación Parvularia,Diurna,28,0,0,1,75.9,5.9,0,0,6,2,0
+EST-11062,Sede Costa,Educación Parvularia,Diurna,28,0,0,1,75.9,5.9,0,0,6,2,0
 EST-11109,Sede Sur,Mecánica Automotriz,Vespertina,35,1,1,0,76.1,5.0,0,1,7,0,0
-EST-11207,Sede Costa,Enfermería (TENS),Diurna,26,1,0,0,74.5,6.2,1,0,5,1,0
+EST-11207,Sede Cordillera,Enfermería (TENS),Diurna,26,1,0,0,74.5,6.2,1,0,5,1,0
 EST-10856,Sede Costa,Administración,Diurna,34,1,0,0,89.5,4.9,0,0,8,0,0
-EST-10829,Sede Costa,Mecánica Automotriz,Vespertina,24,0,1,1,77.5,4.9,0,0,10,1,0
-EST-10984,Sede Costa,Mecánica Automotriz,Vespertina,25,0,1,0,85.6,5.5,0,0,8,1,0
-EST-10204,Sede Costa,Administración,Diurna,18,1,0,1,60.1,4.0,1,0,4,0,1
-EST-10545,Sede Costa,Informática,Vespertina,29,1,1,0,88.8,4.1,0,1,13,0,0
-EST-10036,Sede Costa,Contabilidad,Vespertina,22,1,1,0,82.1,4.9,0,1,1,0,0
+EST-10829,Sede Cordillera,Mecánica Automotriz,Vespertina,24,0,1,1,77.5,4.9,0,0,10,1,0
+EST-10984,Sede Cordillera,Mecánica Automotriz,Vespertina,25,0,1,0,85.6,5.5,0,0,8,1,0
+EST-10204,Sede Cordillera,Administración,Diurna,18,1,0,1,60.1,4.0,1,0,4,0,1
+EST-10545,Sede Cordillera,Informática,Vespertina,29,1,1,0,88.8,4.1,0,1,13,0,0
+EST-10036,Sede Cordillera,Contabilidad,Vespertina,22,1,1,0,82.1,4.9,0,1,1,0,0
 EST-10466,Sede Centro,Administración,Diurna,27,0,0,0,92.2,5.2,0,0,11,0,0
 EST-10170,Sede Norte,Enfermería (TENS),Vespertina,26,1,1,1,64.7,6.1,0,0,10,0,0
-EST-11343,Sede Costa,Administración,Diurna,26,0,0,1,97.1,6.2,0,0,7,0,0
+EST-11343,Sede Cordillera,Administración,Diurna,26,0,0,1,97.1,6.2,0,0,7,0,0
 EST-10070,Sede Centro,Mecánica Automotriz,Vespertina,30,0,0,1,88.3,4.9,0,0,8,0,0
 EST-10483,Sede Costa,Educación Parvularia,Diurna,22,1,0,0,96.4,4.1,0,0,11,2,0
-EST-10096,Sede Costa,Administración,Diurna,30,0,0,0,74.6,4.5,0,0,8,0,0
-EST-10358,Sede Centro,Educación Parvularia,Diurna,37,1,0,1,81.7,4.4,0,0,7,0,0
-EST-10840,Sede Norte,Turismo,Diurna,27,1,0,0,88.0,4.0,0,1,5,0,0
+EST-10096,Sede Cordillera,Administración,Diurna,30,0,0,0,74.6,4.5,0,0,8,0,0
+EST-10358,Sede Sur,Educación Parvularia,Diurna,37,1,0,1,81.7,4.4,0,0,7,0,0
+EST-10840,Sede Centro,Turismo,Diurna,27,1,0,0,88.0,4.0,0,1,5,0,0
 EST-10383,Sede Sur,Contabilidad,Diurna,25,1,0,1,93.1,5.4,0,0,14,1,0
-EST-10011,Sede Sur,Turismo,Diurna,27,1,0,1,62.9,3.6,1,0,5,1,1
+EST-10011,Sede Costa,Turismo,Diurna,27,1,0,1,62.9,3.6,1,0,5,1,1
 EST-10864,Sede Norte,Turismo,Vespertina,25,1,1,1,92.5,4.4,1,0,5,0,0
 EST-10450,Sede Costa,Informática,Diurna,19,0,0,1,94.4,5.1,0,0,11,0,0
 EST-11390,Sede Sur,Administración,Diurna,20,1,1,0,75.0,3.5,1,2,5,0,1
-EST-10898,Sede Costa,Educación Parvularia,Vespertina,33,1,1,0,65.2,5.0,0,1,5,0,1
+EST-10898,Sede Cordillera,Educación Parvularia,Vespertina,33,1,1,0,65.2,5.0,0,1,5,0,1
 EST-11198,Sede Centro,Administración,Vespertina,31,1,1,1,81.2,5.7,1,0,6,1,0
-EST-11205,Sede Costa,Mecánica Automotriz,Vespertina,40,1,1,1,66.8,4.5,0,0,10,0,1
+EST-11205,Sede Cordillera,Mecánica Automotriz,Vespertina,40,1,1,1,66.8,4.5,0,0,10,0,1
 EST-11372,Sede Norte,Enfermería (TENS),Diurna,17,1,0,1,68.1,5.6,0,0,8,1,0
 EST-10806,Sede Sur,Contabilidad,Vespertina,33,0,1,1,82.0,5.2,0,0,7,1,0
-EST-10971,Sede Costa,Informática,Diurna,33,0,0,1,54.2,3.9,1,0,4,0,1
-EST-11429,Sede Centro,Mecánica Automotriz,Diurna,17,1,0,0,90.5,4.8,0,0,12,1,0
+EST-10971,Sede Cordillera,Informática,Diurna,33,0,0,1,54.2,3.9,1,0,4,0,1
+EST-11429,Sede Sur,Mecánica Automotriz,Diurna,17,1,0,0,90.5,4.8,0,0,12,1,0
 EST-10879,Sede Norte,Contabilidad,Vespertina,35,1,0,0,88.9,7.0,0,0,5,0,0
-EST-10201,Sede Costa,Contabilidad,Diurna,28,1,1,0,86.9,4.2,1,0,11,0,0
-EST-10529,Sede Centro,Turismo,Vespertina,28,1,1,1,75.7,3.3,3,0,14,1,0
-EST-10273,Sede Norte,Electricidad,Diurna,17,1,0,0,81.0,4.4,0,0,8,1,0
-EST-10872,Sede Costa,Electricidad,Vespertina,22,1,0,0,66.0,5.2,0,2,6,1,0
-EST-10396,Sede Sur,Educación Parvularia,Vespertina,34,0,0,1,75.3,4.4,2,0,6,3,0
-EST-10852,Sede Costa,Contabilidad,Diurna,30,0,1,1,78.1,4.7,0,0,4,0,0
-EST-10290,Sede Centro,Administración,Vespertina,29,1,1,1,57.2,3.4,2,0,10,0,1
+EST-10201,Sede Cordillera,Contabilidad,Diurna,28,1,1,0,86.9,4.2,1,0,11,0,0
+EST-10529,Sede Sur,Turismo,Vespertina,28,1,1,1,75.7,3.3,3,0,14,1,0
+EST-10273,Sede Centro,Electricidad,Diurna,17,1,0,0,81.0,4.4,0,0,8,1,0
+EST-10872,Sede Cordillera,Electricidad,Vespertina,22,1,0,0,66.0,5.2,0,2,6,1,0
+EST-10396,Sede Costa,Educación Parvularia,Vespertina,34,0,0,1,75.3,4.4,2,0,6,3,0
+EST-10852,Sede Cordillera,Contabilidad,Diurna,30,0,1,1,78.1,4.7,0,0,4,0,0
+EST-10290,Sede Sur,Administración,Vespertina,29,1,1,1,57.2,3.4,2,0,10,0,1
 EST-10442,Sede Norte,Informática,Diurna,23,1,1,1,55.6,3.5,3,0,2,1,1
-EST-10502,Sede Centro,Administración,Diurna,32,1,0,1,54.8,4.3,0,0,4,0,1
+EST-10502,Sede Sur,Administración,Diurna,32,1,0,1,54.8,4.3,0,0,4,0,1
 EST-10826,Sede Centro,Contabilidad,Vespertina,28,0,1,1,82.5,3.0,2,0,6,1,1
 EST-10758,Sede Centro,Enfermería (TENS),Diurna,28,1,0,1,69.9,2.9,1,0,7,0,1
 EST-11170,Sede Norte,Contabilidad,Diurna,29,1,1,1,77.2,5.3,0,0,5,1,0
-EST-10079,Sede Norte,Contabilidad,Diurna,17,1,0,1,90.9,5.7,0,0,7,3,0
-EST-11018,Sede Norte,Turismo,Diurna,43,0,0,1,77.0,4.9,0,0,10,0,0
+EST-10079,Sede Centro,Contabilidad,Diurna,17,1,0,1,90.9,5.7,0,0,7,3,0
+EST-11018,Sede Centro,Turismo,Diurna,43,0,0,1,77.0,4.9,0,0,10,0,0
 EST-10061,Sede Norte,Administración,Vespertina,30,1,1,1,75.8,6.6,0,0,4,0,0
 EST-10239,Sede Centro,Enfermería (TENS),Vespertina,43,1,0,0,69.0,4.7,0,0,12,1,1
 EST-10954,Sede Centro,Educación Parvularia,Diurna,20,0,1,1,87.5,5.5,0,0,8,0,0
@@ -1350,70 +1350,70 @@ EST-11267,Sede Norte,Electricidad,Vespertina,22,1,1,0,67.8,4.4,1,1,6,1,0
 EST-11035,Sede Norte,Turismo,Vespertina,29,0,1,1,85.3,5.3,0,0,10,0,0
 EST-11247,Sede Centro,Enfermería (TENS),Diurna,17,1,0,0,82.2,3.8,1,0,4,0,0
 EST-11165,Sede Norte,Educación Parvularia,Vespertina,29,0,1,1,77.5,5.0,0,0,4,2,0
-EST-10393,Sede Norte,Informática,Diurna,24,0,0,0,86.3,4.9,0,0,8,0,0
+EST-10393,Sede Centro,Informática,Diurna,24,0,0,0,86.3,4.9,0,0,8,0,0
 EST-10660,Sede Centro,Electricidad,Diurna,23,1,0,1,60.8,5.1,0,0,9,0,0
 EST-10217,Sede Norte,Electricidad,Diurna,21,1,1,1,76.1,5.1,0,0,8,0,0
-EST-10661,Sede Norte,Informática,Diurna,32,1,0,1,72.8,4.9,0,0,4,0,1
-EST-11188,Sede Sur,Turismo,Diurna,24,1,0,1,71.2,7.0,0,0,12,0,0
+EST-10661,Sede Centro,Informática,Diurna,32,1,0,1,72.8,4.9,0,0,4,0,1
+EST-11188,Sede Costa,Turismo,Diurna,24,1,0,1,71.2,7.0,0,0,12,0,0
 EST-10469,Sede Centro,Administración,Diurna,26,1,1,1,58.7,5.9,0,0,3,1,0
 EST-11378,Sede Centro,Informática,Diurna,27,1,0,1,66.9,4.9,0,0,1,0,1
-EST-11386,Sede Sur,Enfermería (TENS),Diurna,20,1,0,1,75.0,5.5,0,0,6,0,0
-EST-10260,Sede Sur,Enfermería (TENS),Diurna,23,0,0,1,76.2,4.8,2,0,5,0,0
+EST-11386,Sede Costa,Enfermería (TENS),Diurna,20,1,0,1,75.0,5.5,0,0,6,0,0
+EST-10260,Sede Costa,Enfermería (TENS),Diurna,23,0,0,1,76.2,4.8,2,0,5,0,0
 EST-11342,Sede Sur,Enfermería (TENS),Vespertina,44,0,1,0,79.7,5.3,0,1,8,0,0
-EST-10735,Sede Centro,Electricidad,Vespertina,24,1,1,1,75.2,4.6,0,0,8,1,0
+EST-10735,Sede Sur,Electricidad,Vespertina,24,1,1,1,75.2,4.6,0,0,8,1,0
 EST-11122,Sede Norte,Educación Parvularia,Diurna,34,0,1,1,90.3,6.3,0,0,7,1,0
 EST-11294,Sede Costa,Contabilidad,Vespertina,20,1,0,1,90.7,6.0,0,0,6,1,0
-EST-10798,Sede Centro,Enfermería (TENS),Diurna,25,1,1,0,84.9,4.0,0,0,6,1,0
-EST-10572,Sede Costa,Contabilidad,Vespertina,23,0,1,1,72.9,3.4,1,0,12,1,1
+EST-10798,Sede Sur,Enfermería (TENS),Diurna,25,1,1,0,84.9,4.0,0,0,6,1,0
+EST-10572,Sede Cordillera,Contabilidad,Vespertina,23,0,1,1,72.9,3.4,1,0,12,1,1
 EST-11466,Sede Norte,Turismo,Diurna,26,0,0,1,87.9,4.8,0,0,5,1,0
 EST-11286,Sede Norte,Contabilidad,Vespertina,33,1,1,0,92.3,5.9,0,0,7,0,0
-EST-10949,Sede Costa,Turismo,Diurna,28,0,0,1,77.2,4.6,1,0,5,1,1
+EST-10949,Sede Cordillera,Turismo,Diurna,28,0,0,1,77.2,4.6,1,0,5,1,1
 EST-11178,Sede Centro,Enfermería (TENS),Diurna,20,0,0,0,72.0,4.5,0,0,7,0,0
-EST-10476,Sede Costa,Educación Parvularia,Diurna,18,0,0,0,92.8,4.9,0,0,10,0,0
-EST-10347,Sede Sur,Mecánica Automotriz,Vespertina,31,0,1,1,73.0,5.2,0,0,5,2,0
+EST-10476,Sede Cordillera,Educación Parvularia,Diurna,18,0,0,0,92.8,4.9,0,0,10,0,0
+EST-10347,Sede Costa,Mecánica Automotriz,Vespertina,31,0,1,1,73.0,5.2,0,0,5,2,0
 EST-10989,Sede Norte,Administración,Vespertina,39,1,1,0,82.3,5.6,0,2,7,1,1
-EST-10805,Sede Centro,Electricidad,Vespertina,32,0,1,1,66.0,3.6,1,0,5,0,0
+EST-10805,Sede Sur,Electricidad,Vespertina,32,0,1,1,66.0,3.6,1,0,5,0,0
 EST-10521,Sede Centro,Informática,Vespertina,40,1,0,1,72.6,5.5,0,0,10,2,0
-EST-11467,Sede Sur,Turismo,Vespertina,27,1,1,1,67.0,3.1,3,0,3,0,1
-EST-11271,Sede Centro,Enfermería (TENS),Diurna,19,0,1,1,89.3,6.3,0,0,11,1,0
+EST-11467,Sede Costa,Turismo,Vespertina,27,1,1,1,67.0,3.1,3,0,3,0,1
+EST-11271,Sede Sur,Enfermería (TENS),Diurna,19,0,1,1,89.3,6.3,0,0,11,1,0
 EST-11354,Sede Sur,Enfermería (TENS),Diurna,22,0,0,0,48.4,4.1,3,2,7,2,1
-EST-10893,Sede Norte,Enfermería (TENS),Diurna,30,1,0,0,94.7,4.1,1,1,7,0,0
+EST-10893,Sede Centro,Enfermería (TENS),Diurna,30,1,0,0,94.7,4.1,1,1,7,0,0
 EST-10614,Sede Norte,Electricidad,Vespertina,25,1,1,1,84.9,6.2,0,0,11,2,0
 EST-11027,Sede Centro,Administración,Diurna,18,0,1,1,91.5,6.1,0,0,14,1,0
 EST-10038,Sede Sur,Electricidad,Diurna,29,1,0,1,97.6,5.4,0,0,7,2,0
-EST-10232,Sede Costa,Informática,Diurna,21,1,1,0,68.2,5.2,0,2,7,0,0
+EST-10232,Sede Cordillera,Informática,Diurna,21,1,1,0,68.2,5.2,0,2,7,0,0
 EST-10281,Sede Centro,Turismo,Vespertina,26,1,1,1,76.8,5.9,0,0,8,1,0
 EST-11277,Sede Centro,Informática,Diurna,17,1,1,0,60.9,5.8,0,1,6,0,0
-EST-10793,Sede Costa,Turismo,Diurna,27,1,0,1,56.0,4.9,0,0,6,0,1
-EST-11107,Sede Norte,Turismo,Diurna,25,1,0,0,86.3,4.8,0,1,8,0,0
+EST-10793,Sede Cordillera,Turismo,Diurna,27,1,0,1,56.0,4.9,0,0,6,0,1
+EST-11107,Sede Centro,Turismo,Diurna,25,1,0,0,86.3,4.8,0,1,8,0,0
 EST-11492,Sede Sur,Informática,Vespertina,35,1,1,1,84.7,4.3,0,0,9,0,0
-EST-10737,Sede Costa,Contabilidad,Vespertina,25,1,0,0,87.4,4.8,0,1,7,1,0
-EST-11388,Sede Centro,Informática,Vespertina,30,0,1,1,73.3,4.8,1,0,6,1,0
+EST-10737,Sede Cordillera,Contabilidad,Vespertina,25,1,0,0,87.4,4.8,0,1,7,1,0
+EST-11388,Sede Sur,Informática,Vespertina,30,0,1,1,73.3,4.8,1,0,6,1,0
 EST-10252,Sede Norte,Enfermería (TENS),Diurna,31,1,0,1,81.8,7.0,0,0,8,0,0
 EST-11184,Sede Sur,Educación Parvularia,Diurna,19,1,1,1,60.3,3.5,3,0,6,0,1
 EST-10779,Sede Norte,Turismo,Diurna,35,0,1,1,59.1,5.2,0,0,4,1,1
-EST-10404,Sede Norte,Administración,Diurna,25,0,0,1,75.7,4.0,0,0,10,2,0
-EST-10957,Sede Costa,Enfermería (TENS),Vespertina,29,0,1,0,58.9,3.3,1,1,4,0,1
+EST-10404,Sede Centro,Administración,Diurna,25,0,0,1,75.7,4.0,0,0,10,2,0
+EST-10957,Sede Cordillera,Enfermería (TENS),Vespertina,29,0,1,0,58.9,3.3,1,1,4,0,1
 EST-10241,Sede Sur,Electricidad,Vespertina,34,1,1,0,84.9,5.1,0,0,15,0,0
 EST-10960,Sede Norte,Turismo,Diurna,26,1,0,0,92.7,5.5,0,0,10,0,0
 EST-10820,Sede Sur,Educación Parvularia,Diurna,22,0,0,1,83.5,5.2,0,0,13,0,0
-EST-11050,Sede Centro,Informática,Vespertina,27,0,1,0,69.0,5.2,0,0,8,1,1
-EST-10147,Sede Sur,Turismo,Vespertina,34,0,1,1,66.8,5.4,0,0,3,1,0
+EST-11050,Sede Sur,Informática,Vespertina,27,0,1,0,69.0,5.2,0,0,8,1,1
+EST-10147,Sede Costa,Turismo,Vespertina,34,0,1,1,66.8,5.4,0,0,3,1,0
 EST-11487,Sede Sur,Electricidad,Diurna,34,1,0,1,68.3,2.9,4,0,11,1,1
-EST-10587,Sede Sur,Administración,Vespertina,33,0,1,1,83.4,6.4,0,0,6,0,0
+EST-10587,Sede Costa,Administración,Vespertina,33,0,1,1,83.4,6.4,0,0,6,0,0
 EST-10510,Sede Sur,Educación Parvularia,Diurna,32,0,0,1,92.6,6.7,1,0,7,1,0
 EST-11414,Sede Norte,Mecánica Automotriz,Vespertina,34,0,1,1,70.1,5.0,0,0,5,0,0
 EST-10662,Sede Centro,Turismo,Diurna,25,1,0,1,82.5,5.9,0,0,13,2,0
 EST-10927,Sede Norte,Informática,Vespertina,24,1,0,0,90.6,5.5,0,1,6,2,0
-EST-10993,Sede Norte,Contabilidad,Diurna,23,0,0,1,95.9,4.7,0,0,8,0,0
-EST-10973,Sede Norte,Administración,Diurna,21,1,0,0,82.9,5.1,0,0,10,2,0
+EST-10993,Sede Centro,Contabilidad,Diurna,23,0,0,1,95.9,4.7,0,0,8,0,0
+EST-10973,Sede Centro,Administración,Diurna,21,1,0,0,82.9,5.1,0,0,10,2,0
 EST-10246,Sede Centro,Administración,Vespertina,32,1,1,0,68.1,3.5,2,0,5,1,0
 EST-10266,Sede Centro,Educación Parvularia,Vespertina,23,1,1,0,74.4,5.8,0,0,8,1,0
 EST-11435,Sede Norte,Electricidad,Diurna,22,1,1,1,85.2,5.4,0,0,8,0,0
 EST-11482,Sede Costa,Informática,Diurna,27,0,0,0,96.3,4.5,1,2,8,1,0
 EST-10508,Sede Norte,Electricidad,Diurna,26,0,1,1,69.4,4.5,3,0,12,1,0
 EST-10797,Sede Centro,Mecánica Automotriz,Diurna,27,1,0,0,83.9,4.9,0,1,6,2,0
-EST-10536,Sede Centro,Enfermería (TENS),Diurna,26,1,1,1,56.7,4.2,0,0,7,0,1
+EST-10536,Sede Sur,Enfermería (TENS),Diurna,26,1,1,1,56.7,4.2,0,0,7,0,1
 EST-10799,Sede Norte,Enfermería (TENS),Diurna,17,1,1,1,72.5,4.3,2,0,4,2,0
 EST-10844,Sede Centro,Contabilidad,Diurna,32,1,1,1,45.5,4.0,1,0,3,1,1
 EST-10676,Sede Centro,Enfermería (TENS),Vespertina,34,1,0,1,87.5,4.5,1,0,9,0,0
@@ -1424,13 +1424,13 @@ EST-10302,Sede Centro,Educación Parvularia,Diurna,30,0,0,0,61.5,4.1,0,1,5,1,1
 EST-10755,Sede Sur,Enfermería (TENS),Diurna,21,1,0,0,77.2,5.5,0,1,7,1,0
 EST-10602,Sede Costa,Contabilidad,Vespertina,24,1,1,0,47.9,3.7,2,0,0,1,0
 EST-11331,Sede Centro,Contabilidad,Vespertina,23,1,1,1,88.9,5.8,0,0,10,1,0
-EST-10270,Sede Costa,Mecánica Automotriz,Diurna,19,0,0,0,78.0,6.1,0,0,7,1,0
+EST-10270,Sede Cordillera,Mecánica Automotriz,Diurna,19,0,0,0,78.0,6.1,0,0,7,1,0
 EST-10666,Sede Sur,Electricidad,Vespertina,28,1,0,1,95.8,6.4,0,0,9,0,0
-EST-10117,Sede Costa,Contabilidad,Diurna,17,1,0,1,90.3,4.4,0,0,10,0,1
+EST-10117,Sede Cordillera,Contabilidad,Diurna,17,1,0,1,90.3,4.4,0,0,10,0,1
 EST-10400,Sede Costa,Turismo,Diurna,17,1,0,1,93.4,6.2,0,0,5,1,0
-EST-10868,Sede Costa,Administración,Diurna,21,1,0,1,85.1,5.2,0,0,3,0,0
+EST-10868,Sede Cordillera,Administración,Diurna,21,1,0,1,85.1,5.2,0,0,3,0,0
 EST-10458,Sede Norte,Contabilidad,Vespertina,36,0,0,1,60.3,5.7,0,0,9,0,0
-EST-10683,Sede Costa,Contabilidad,Diurna,22,0,0,1,60.3,4.0,2,0,6,0,0
+EST-10683,Sede Cordillera,Contabilidad,Diurna,22,0,0,1,60.3,4.0,2,0,6,0,0
 EST-10966,Sede Sur,Electricidad,Vespertina,31,1,0,1,90.3,5.1,0,0,10,1,0
 EST-10684,Sede Norte,Educación Parvularia,Vespertina,20,0,1,1,65.0,3.8,2,0,6,1,1
 EST-10523,Sede Norte,Contabilidad,Vespertina,29,0,1,1,56.0,5.2,0,0,7,0,1
@@ -1442,60 +1442,60 @@ EST-11080,Sede Norte,Contabilidad,Diurna,26,0,0,1,89.6,6.7,0,0,13,3,0
 EST-10849,Sede Norte,Electricidad,Vespertina,25,1,0,0,70.1,3.6,0,2,6,1,1
 EST-10962,Sede Norte,Administración,Diurna,17,1,1,1,88.2,7.0,0,0,9,0,0
 EST-11416,Sede Norte,Administración,Diurna,21,0,0,1,72.2,4.9,0,0,10,0,0
-EST-10579,Sede Costa,Administración,Diurna,33,1,1,1,54.1,4.5,0,0,8,0,0
+EST-10579,Sede Cordillera,Administración,Diurna,33,1,1,1,54.1,4.5,0,0,8,0,0
 EST-10021,Sede Sur,Administración,Diurna,32,1,0,0,80.3,6.0,0,2,9,0,0
-EST-10017,Sede Centro,Turismo,Vespertina,27,1,1,1,83.0,6.7,0,0,5,1,0
-EST-10362,Sede Costa,Contabilidad,Vespertina,23,1,1,1,74.3,3.7,0,0,8,0,0
-EST-10043,Sede Centro,Enfermería (TENS),Diurna,18,0,0,1,87.3,4.5,0,0,9,1,1
-EST-10164,Sede Costa,Electricidad,Vespertina,28,1,0,1,67.1,4.2,2,0,2,0,1
+EST-10017,Sede Sur,Turismo,Vespertina,27,1,1,1,83.0,6.7,0,0,5,1,0
+EST-10362,Sede Cordillera,Contabilidad,Vespertina,23,1,1,1,74.3,3.7,0,0,8,0,0
+EST-10043,Sede Sur,Enfermería (TENS),Diurna,18,0,0,1,87.3,4.5,0,0,9,1,1
+EST-10164,Sede Cordillera,Electricidad,Vespertina,28,1,0,1,67.1,4.2,2,0,2,0,1
 EST-11228,Sede Sur,Administración,Vespertina,31,1,0,1,91.1,5.2,0,0,8,0,0
 EST-10198,Sede Centro,Contabilidad,Diurna,29,0,0,1,94.0,6.4,0,0,7,1,0
 EST-10037,Sede Sur,Turismo,Diurna,34,1,0,0,93.0,7.0,0,0,13,0,0
 EST-10161,Sede Centro,Turismo,Diurna,23,0,0,1,63.5,4.2,0,0,7,0,0
 EST-10451,Sede Norte,Turismo,Vespertina,37,1,1,0,81.2,5.0,0,0,5,1,0
 EST-10870,Sede Norte,Contabilidad,Vespertina,34,0,1,1,72.6,4.6,1,0,7,2,0
-EST-10113,Sede Costa,Informática,Diurna,23,0,1,0,82.1,4.7,0,1,7,1,1
+EST-10113,Sede Cordillera,Informática,Diurna,23,0,1,0,82.1,4.7,0,1,7,1,1
 EST-10316,Sede Centro,Mecánica Automotriz,Diurna,17,1,0,1,83.3,3.9,1,0,6,0,0
-EST-10884,Sede Sur,Enfermería (TENS),Vespertina,29,0,1,0,71.2,3.9,1,0,5,0,1
+EST-10884,Sede Costa,Enfermería (TENS),Vespertina,29,0,1,0,71.2,3.9,1,0,5,0,1
 EST-10247,Sede Centro,Administración,Diurna,34,1,0,1,84.9,4.6,1,0,6,0,0
 EST-11452,Sede Norte,Contabilidad,Diurna,23,1,0,0,86.4,3.1,0,0,10,0,0
-EST-10186,Sede Centro,Administración,Vespertina,42,1,0,0,38.4,4.9,0,0,1,0,1
+EST-10186,Sede Sur,Administración,Vespertina,42,1,0,0,38.4,4.9,0,0,1,0,1
 EST-10817,Sede Norte,Mecánica Automotriz,Diurna,18,1,0,1,88.9,5.2,0,0,6,1,0
 EST-11454,Sede Sur,Turismo,Vespertina,38,0,1,0,63.8,4.3,1,0,6,2,1
 EST-10108,Sede Centro,Contabilidad,Vespertina,26,1,1,0,86.6,5.3,0,0,6,1,0
-EST-10531,Sede Sur,Administración,Diurna,19,1,0,0,86.2,4.5,0,0,9,0,0
+EST-10531,Sede Costa,Administración,Diurna,19,1,0,0,86.2,4.5,0,0,9,0,0
 EST-11158,Sede Norte,Contabilidad,Diurna,21,1,1,1,71.7,6.3,0,0,7,0,0
 EST-11401,Sede Norte,Mecánica Automotriz,Diurna,21,0,0,1,85.0,5.0,0,0,8,0,0
 EST-10628,Sede Norte,Turismo,Diurna,17,1,1,0,89.5,5.2,1,1,9,2,0
-EST-10703,Sede Costa,Turismo,Vespertina,25,1,0,0,89.9,7.0,0,0,11,0,0
-EST-10428,Sede Norte,Administración,Vespertina,23,0,1,0,85.0,2.7,6,0,10,0,1
-EST-10691,Sede Centro,Administración,Vespertina,33,1,0,1,58.6,3.8,0,0,3,1,1
+EST-10703,Sede Cordillera,Turismo,Vespertina,25,1,0,0,89.9,7.0,0,0,11,0,0
+EST-10428,Sede Centro,Administración,Vespertina,23,0,1,0,85.0,2.7,6,0,10,0,1
+EST-10691,Sede Sur,Administración,Vespertina,33,1,0,1,58.6,3.8,0,0,3,1,1
 EST-11292,Sede Centro,Contabilidad,Vespertina,34,1,0,1,66.9,4.2,0,0,5,0,1
 EST-11222,Sede Norte,Enfermería (TENS),Vespertina,23,1,1,1,80.5,3.8,1,0,6,1,0
 EST-10748,Sede Norte,Administración,Diurna,19,1,0,0,85.6,4.5,0,0,11,0,0
-EST-10285,Sede Centro,Informática,Diurna,32,0,1,1,75.8,5.2,0,0,7,1,1
+EST-10285,Sede Sur,Informática,Diurna,32,0,1,1,75.8,5.2,0,0,7,1,1
 EST-10878,Sede Centro,Administración,Vespertina,22,0,1,0,67.2,4.8,0,2,7,0,0
-EST-10129,Sede Costa,Turismo,Diurna,30,1,0,1,92.1,4.3,1,0,14,1,0
-EST-10205,Sede Sur,Administración,Vespertina,38,1,1,1,91.8,5.2,0,0,7,0,0
-EST-10228,Sede Sur,Mecánica Automotriz,Diurna,29,0,1,0,64.3,5.2,0,2,8,1,1
+EST-10129,Sede Cordillera,Turismo,Diurna,30,1,0,1,92.1,4.3,1,0,14,1,0
+EST-10205,Sede Costa,Administración,Vespertina,38,1,1,1,91.8,5.2,0,0,7,0,0
+EST-10228,Sede Costa,Mecánica Automotriz,Diurna,29,0,1,0,64.3,5.2,0,2,8,1,1
 EST-11426,Sede Norte,Turismo,Diurna,24,0,0,1,81.7,3.5,2,0,8,0,1
 EST-10024,Sede Centro,Mecánica Automotriz,Diurna,28,1,0,1,89.6,5.4,0,0,10,0,0
 EST-11052,Sede Norte,Turismo,Vespertina,26,0,1,1,79.3,4.8,2,0,4,0,1
-EST-11193,Sede Sur,Enfermería (TENS),Vespertina,37,1,1,1,61.9,4.1,1,0,7,0,0
-EST-10342,Sede Norte,Turismo,Vespertina,24,1,0,0,84.1,6.1,0,1,10,2,0
+EST-11193,Sede Costa,Enfermería (TENS),Vespertina,37,1,1,1,61.9,4.1,1,0,7,0,0
+EST-10342,Sede Centro,Turismo,Vespertina,24,1,0,0,84.1,6.1,0,1,10,2,0
 EST-11270,Sede Centro,Administración,Diurna,35,0,0,1,95.7,5.2,0,0,12,0,0
 EST-10424,Sede Norte,Enfermería (TENS),Diurna,29,1,0,0,93.1,5.6,0,2,11,1,0
 EST-10668,Sede Norte,Mecánica Automotriz,Diurna,23,0,0,1,96.8,3.9,3,0,9,0,0
-EST-10514,Sede Costa,Turismo,Vespertina,33,1,0,1,88.5,5.4,0,0,9,0,0
-EST-10196,Sede Centro,Turismo,Diurna,31,1,1,0,91.8,6.4,0,1,7,1,0
+EST-10514,Sede Cordillera,Turismo,Vespertina,33,1,0,1,88.5,5.4,0,0,9,0,0
+EST-10196,Sede Sur,Turismo,Diurna,31,1,1,0,91.8,6.4,0,1,7,1,0
 EST-11233,Sede Centro,Turismo,Vespertina,29,1,1,1,84.4,5.7,0,0,5,2,0
-EST-10744,Sede Sur,Informática,Diurna,18,0,0,1,97.7,7.0,0,0,12,1,0
+EST-10744,Sede Costa,Informática,Diurna,18,0,0,1,97.7,7.0,0,0,12,1,0
 EST-11100,Sede Centro,Enfermería (TENS),Diurna,17,0,0,1,88.5,7.0,0,0,9,1,0
-EST-11053,Sede Sur,Turismo,Vespertina,23,0,1,1,37.9,3.7,1,0,6,0,1
-EST-11044,Sede Sur,Mecánica Automotriz,Diurna,23,0,1,1,58.5,4.3,1,0,7,0,1
+EST-11053,Sede Costa,Turismo,Vespertina,23,0,1,1,37.9,3.7,1,0,6,0,1
+EST-11044,Sede Costa,Mecánica Automotriz,Diurna,23,0,1,1,58.5,4.3,1,0,7,0,1
 EST-10219,Sede Norte,Administración,Diurna,23,1,0,0,75.6,5.1,0,1,11,0,0
 EST-10520,Sede Centro,Electricidad,Diurna,38,1,0,0,79.3,5.9,0,0,9,1,0
 EST-11056,Sede Norte,Mecánica Automotriz,Vespertina,27,1,1,0,75.1,5.1,0,1,6,0,0
 EST-11471,Sede Centro,Contabilidad,Vespertina,27,1,1,0,86.2,6.6,0,1,11,0,0
 EST-10243,Sede Centro,Mecánica Automotriz,Diurna,21,1,1,1,60.1,4.7,1,0,5,0,1
-EST-10474,Sede Sur,Educación Parvularia,Diurna,33,1,1,1,69.4,4.5,1,0,6,1,1
+EST-10474,Sede Costa,Educación Parvularia,Diurna,33,1,1,1,69.4,4.5,1,0,6,1,1
